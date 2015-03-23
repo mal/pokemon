@@ -13,12 +13,17 @@ function quote(input) {
         : input;
 }
 
-function series(ref) {
-    return series[ref];
+function series(code, ref) {
+    var code = code.match(/^[^\d]+/)[0];
+    if (code === 'UN')
+        code = ref;
+    if (code in series)
+        return series[ref];
+    return;
 }
 series.EP = 1;
 series.AG = 2;
-series.DP = 3
+series.DP = 3;
 series.BW = 4;
 series.XY = 5;
 
@@ -70,10 +75,11 @@ console.log('SET @@auto_increment_offset=10;');
 
 data.forEach(function (ep) {
     var jpn = ep.jpn, usa = ep.usa;
+    var ser = series(ep.code, jpn.series);
     var jpn = {
         code: quote(ep.code),
-        series: series(jpn.series),
-        number: nullable(jpn.number),
+        series: ser,
+        number: ser ? nullable(jpn.number) : null,
         title: title(jpn.title),
         airdate: nullable(jpn.airdate)
     };
