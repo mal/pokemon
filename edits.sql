@@ -247,6 +247,9 @@ UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE title = 'Pichu Bros.
 
 -- Original Edits from this point onwards
 
+-- Remove Duplicates (same episodes from two different scrapes under two different names)
+DELETE FROM episodes WHERE title = 'Pocket Monsters Crystal: Raikou: The Legend Of Thunder';
+
 -- MV Sewol Ferry Disaster
 SET @mark := 0;
 UPDATE dubs d JOIN (
