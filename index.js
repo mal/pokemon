@@ -43,9 +43,15 @@ Promise
         fetch('List_of_anime_episodes', episodes),
         fetch('Pikachu_shorts', episodes),
         fetch('List_of_side_story_episodes', episodes),
-        fetch('Pokémon_movie', movies)
+        fetch('Pokémon_movie', movies),
+        fetch('List_of_anime_specials', episodes)
     ])
     .then(function (data) {
+        data[4] = data[4].map(function (ep) {
+            ep.jpn.series = ep.jpn.number = undefined;
+            ep.usa.season = ep.usa.number = undefined;
+            return ep;
+        });
         var all = Array.prototype.concat.apply([], data);
 
         var unknown = 0;
