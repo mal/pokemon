@@ -4,10 +4,6 @@ var app = require('app');
 var BrowserWindow = require('browser-window');
 var ipc = require('ipc');
 
-app.on('window-all-closed', function() {
-    if (process.platform != 'darwin') app.quit();
-});
-
 function fetch(url, script) {
     var url = 'http://bulbapedia.bulbagarden.net/wiki/' + encodeURI(url);
     return new Promise(function (res, rej) {
@@ -23,7 +19,6 @@ function fetch(url, script) {
                 }
             });
 
-            console.log(url);
             win.site.loadUrl(url);
 
             win.site.webContents.on('did-finish-load', function(e) {
