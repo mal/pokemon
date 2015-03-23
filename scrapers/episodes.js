@@ -24,8 +24,7 @@
 
     var series = null,
         season = 1,
-        dub = 0,
-        unknown = 0;
+        dub = 0;
 
     var eps = rows.map(function (row) {
         // ignore header rows
@@ -48,12 +47,8 @@
             dubair = airdate(fields[4]),
             number = null;
 
-        // handle special episodes ...
-        if (code === '*')
-            code = '??' + ('00' + ++unknown).substr(-2);
-
-        // ... and regular episodes
-        else
+        // handle regular episodes
+        if (code !== '*')
             series = code.match(/^[A-Z]{1,2}/)[0],
             number = parseInt(code.match(/\d+/)[0], 10);
 

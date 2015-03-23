@@ -56,8 +56,8 @@ Promise
 
         var unknown = 0;
         all.map(function (ep) {
-            if (ep.code.indexOf('??') === 0)
-                ep.code = '??' + ('000' + ++unknown).substr(-3);
+            if (ep.code === '*')
+                ep.code = 'UN' + ('00' + ++unknown).substr(-2);
             return ep;
         });
         fs.writeFileSync('anime.json', JSON.stringify(all, null, 2));
