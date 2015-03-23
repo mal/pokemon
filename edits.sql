@@ -261,3 +261,4 @@ UPDATE dubs d JOIN (
     ) a GROUP BY code ORDER BY number
   ) b
 ) t ON d.code = t.code SET d.number = t.number;
+UPDATE dubs SET season = 18 WHERE code = 'XY024';
