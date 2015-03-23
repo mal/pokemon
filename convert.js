@@ -3,10 +3,11 @@ var data = require('./anime.json');
 function nullable(input) {
     if (input)
         return quote(input);
-    return 'NULL';
+    return;
 }
 
 function quote(input) {
+    if (!input) return;
     return typeof input === 'string'
         ? "'" + input.replace(/\'/g, '\\\'') + "'"
         : input;
@@ -20,41 +21,44 @@ series.AG = 2;
 series.DP = 3
 series.BW = 4;
 series.XY = 5;
-series.TV = 252;
-series.SS = 253;
-series.PK = 254;
-series.M = 255;
-series[null] = 'NULL';
 
-function season(ep, ref) {
-    var code =  ep.slice(0, 2);
-    if (code in season)
-        ref = code;
-    return season[ref] ? season[ref] : ref;
+function season(code, num) {
+    var code = code.match(/^[^\d]+/)[0];
+    if (code in series)
+        return num;
+    return;
 }
-season.M = 'NULL';
-season.PK = 'NULL';
-season.SS = 'NULL';
-season.TV = 'NULL';
+
+function title(input) {
+    return quote(input);
+}
+
+function filter(row) {
+    return Object.keys(row)
+        .filter(function (k) { return row[k]; });
+}
 
 function keys(row) {
-    return Object.keys(row)
+    return filter(row)
         .join(', ');
 }
 
 function update(row) {
-    return Object.keys(row)
+    return filter(row)
         .filter(function (k) {
             return k !== 'code';
         })
         .map(function (k) {
+            if (k === 'airdate')
+                return k + ' = LEAST(airdate, ' + row[k] + ')';
             return k + ' = ' + row[k];
         })
         .join(', ');
 }
 
 function values(row) {
-    return Object.keys(row)
+    return filter(row)
+        .filter(function (k) { return row[k]; })
         .map(function (k) {
             return row[k];
         })
@@ -70,7 +74,7 @@ data.forEach(function (ep) {
         code: quote(ep.code),
         series: series(jpn.series),
         number: nullable(jpn.number),
-        title: quote(jpn.title),
+        title: title(jpn.title),
         airdate: nullable(jpn.airdate)
     };
     console.log('INSERT INTO episodes (' + keys(jpn) + ') VALUES (' + values(jpn) + ') ON DUPLICATE KEY UPDATE ' + update(jpn) + ';');
@@ -79,8 +83,8 @@ data.forEach(function (ep) {
     var usa = {
         code: jpn.code,
         season: ssn,
-        number: ssn === 'NULL' ? 'NULL' : usa.number,
-        title: quote(usa.title),
+        number: ssn ? usa.number : null,
+        title: title(usa.title),
         airdate: nullable(usa.airdate)
     };
     console.log('INSERT INTO dubs (' + keys(usa) + ') VALUES (' + values(usa) + ') ON DUPLICATE KEY UPDATE ' + update(usa) + ';');
