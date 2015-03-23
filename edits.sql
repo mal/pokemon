@@ -262,3 +262,9 @@ UPDATE dubs d JOIN (
   ) b
 ) t ON d.code = t.code SET d.number = t.number;
 UPDATE dubs SET season = 18 WHERE code = 'XY024';
+SET @mark := 0;
+UPDATE dubs d JOIN (
+  SELECT code, @mark := @mark + 1 number FROM (
+    SELECT code, number FROM dubs WHERE season = 17 ORDER BY number
+  ) a
+) t ON d.code = t.code SET d.number = t.number;
