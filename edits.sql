@@ -33,6 +33,7 @@ UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'M03';
 SELECT chronology INTO @mark FROM episodes WHERE code = 'EP178';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'PK08';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'PK09';
+UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE title = 'We Are the Pichu Brothers - Balloon Disturbance';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV001';
 
 -- Movie 4
@@ -239,10 +240,6 @@ UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'PK04';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'M02';
 
 -- Pichu Specials
--- http://www.gamefaqs.com/boards/217-pokemon/69236080?page=1#17
-SELECT chronology INTO @mark FROM episodes WHERE code = 'PK09';
-UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE title = 'We are the Pichu Brothers - Balloon disturbance';
---
 -- http://www.gamefaqs.com/boards/217-pokemon/69236080?page=4#42
 SELECT chronology INTO @mark FROM episodes WHERE code = 'AG034';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE title = 'Pichu Bros. Wild Adventure';
