@@ -34,7 +34,7 @@ SELECT chronology INTO @mark FROM episodes WHERE code = 'EP178';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'PK08';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'PK09';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE title = 'We Are the Pichu Brothers - Balloon Disturbance';
-UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV001';
+UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV01';
 
 -- Movie 4
 SELECT chronology INTO @mark FROM episodes WHERE code = 'EP205';
@@ -43,7 +43,7 @@ UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'M04';
 
 -- Winter Holiday JPN-2001; Legend of Thunder
 SELECT chronology INTO @mark FROM episodes WHERE code = 'EP230';
-UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV002';
+UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV02';
 
 -- Movie 5
 SELECT chronology INTO @mark FROM episodes WHERE code = 'EP256';
@@ -132,7 +132,7 @@ UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'SS019';
 
 -- The Mastermind of Mirage Pokémon
 SELECT chronology INTO @mark FROM episodes WHERE code = 'AG150';
-UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV003';
+UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV03';
 
 -- Pikachu 3D 2
 SELECT chronology INTO @mark FROM episodes WHERE code = 'AG179';
@@ -219,7 +219,7 @@ UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'M16';
 -- Fall Special JPN-2013
 SELECT chronology INTO @mark FROM episodes WHERE code = 'BW142';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'SS027';
-UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV004';
+UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'TV04';
 
 -- Spring Special JPN-2014
 SELECT chronology INTO @mark FROM episodes WHERE code = 'XY021';
