@@ -50,11 +50,11 @@
 
         // handle special episodes ...
         if (code === '*')
-            code = '??' + ('000' + ++unknown).substr(-3);
+            code = '??' + ('00' + ++unknown).substr(-2);
 
         // ... and regular episodes
         else
-            series = code.slice(0, 2),
+            series = code.match(/^[A-Z]{1,2}/)[0],
             number = parseInt(code.match(/\d+/)[0], 10);
 
         return {

@@ -48,8 +48,6 @@
                 airdate: airdate(fields[5])
             },
             usa: {
-                season: 'M',
-                number: number,
                 title: title(fields[1]),
                 airdate: airdate(fields[2])
             }
@@ -69,7 +67,7 @@
         if (fields.length < 5) return;
 
         return {
-            code: 'TV' + ('000' + ++number).substr(-3),
+            code: 'TV' + ('00' + ++number).substr(-2),
             jpn: {
                 series: 'TV',
                 number: number,
@@ -77,8 +75,6 @@
                 airdate: airdate(fields[4])
             },
             usa: {
-                season: 'TV',
-                number: number,
                 title: title(fields[1]),
                 airdate: airdate(fields[2])
             }
