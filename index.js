@@ -1,64 +1,77 @@
 var fs = require('fs');
+var Data = require('./src/data');
 
-var app = require('app');
-var BrowserWindow = require('browser-window');
-var ipc = require('ipc');
-
-function fetch(url, script) {
-    var url = 'http://bulbapedia.bulbagarden.net/wiki/' + encodeURI(url);
-    return new Promise(function (res, rej) {
-        var win = {};
-
-        app.on('ready', function () {
-            win.site = new BrowserWindow({
-                width: 500,
-                height: 200,
-                preload: require.resolve('./preload.js'),
-                'web-preferences': {
-                    'web-security': true
-                }
-            });
-
-            win.site.loadUrl(url);
-
-            win.site.webContents.on('did-finish-load', function(e) {
-                console.log('>> ' + url);
-                win.site.webContents.executeJavaScript(script);
-            });
-
-            ipc.on(url, function (e, data) {
-                res(data);
-                console.log('<< ' + url);
-                win.site.close();
-            });
-        });
-    });
+function clean(data) {
+    return Promise.resolve(data.map(function (ep) {
+        ep.jpn.series = ep.jpn.number = undefined;
+        ep.usa.season = ep.usa.number = undefined;
+        return ep;
+    }));
 }
 
-var episodes = fs.readFileSync('./scrapers/episodes.js').toString();
-    movies = fs.readFileSync('./scrapers/movies.js').toString();
+function reanimate(data) {
+    return Promise.resolve(data.map(function (ep) {
+        for (country in {jpn: 0, usa: 0})
+            if (ep[country].airdate)
+                ep[country].airdate = new Date(ep[country].airdate);
+        return ep;
+    }));
+}
 
-Promise
-    .all([
-        fetch('List_of_anime_episodes', episodes),
-        fetch('Pikachu_shorts', episodes),
-        fetch('List_of_side_story_episodes', episodes),
-        fetch('Pokémon_movie', movies),
-        fetch('List_of_anime_specials', episodes)
-    ])
-    .then(function (data) {
-        data[4] = data[4].map(function (ep) {
-            ep.jpn.series = ep.jpn.number = undefined;
-            ep.usa.season = ep.usa.number = undefined;
-            return ep;
-        });
-        var all = Array.prototype.concat.apply([], data);
+function recode(data) {
+    var unknown = 0;
+    return Promise.resolve(data.map(function (ep) {
+        if (ep.code === '*')
+            ep.code = 'UN' + ('00' + ++unknown).substr(-2);
+        return ep;
+    }));
+}
 
-        var unknown = 0;
-        all.map(function (ep) {
-            if (ep.code === '*')
-                ep.code = 'UN' + ('00' + ++unknown).substr(-2);
-            return ep;
-        });
-        fs.writeFileSync('anime.json', JSON.stringify(all, null, 2));
-    });
+function save(data) {
+    fs.writeFileSync('./data/anime.json', JSON.stringify(data, null, 2));
+}
+
+function sort(country) {
+    return function (data) {
+        return Promise.resolve(data.sort(function (a, b) {
+            return a[country].airdate - b[country].airdate;
+        }));
+    }
+}
+
+var episodes = fs.readFileSync('./src/scripts/episodes.js').toString();
+var movies = fs.readFileSync('./src/scripts/movies.js').toString();
+
+new Data()
+
+    .add('http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes', {
+        script: episodes
+    })
+
+    .add('http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts', {
+        script: episodes,
+        after: clean
+    })
+
+    .add('http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes', {
+        script: episodes,
+        after: clean
+    })
+
+    .add('http://bulbapedia.bulbagarden.net/wiki/Pokémon_movie', {
+        script: movies
+    })
+
+    .add('http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials', {
+        script: episodes,
+        after: clean
+    })
+
+//     .add('./data/extra.json')
+
+    .data()
+
+    .then(reanimate)
+    .then(sort('jpn'))
+    .then(recode)
+    .then(save);

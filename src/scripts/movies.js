@@ -41,9 +41,8 @@
 
         return {
             code: code,
+            src: location.href,
             jpn: {
-                series: 'M',
-                number: number,
                 title: string(fields[4].querySelector('i')),
                 airdate: airdate(fields[5])
             },
@@ -68,9 +67,8 @@
 
         return {
             code: 'TV' + ('00' + ++number).substr(-2),
+            src: location.href,
             jpn: {
-                series: 'TV',
-                number: number,
                 title: string(fields[3].querySelector('i')),
                 airdate: airdate(fields[4])
             },

@@ -5,7 +5,7 @@
     function airdate(e) {
       var str = string(e);
       if (str === 'Unaired')
-        return null;
+        return;
       try {
         return new Date(str + ' UTC').toISOString().substr(0, 10);
       } catch (e) {}
@@ -54,6 +54,7 @@
 
         return {
             code: code,
+            src: location.href,
             jpn: {
                 series: series,
                 number: number,
