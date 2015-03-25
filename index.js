@@ -67,7 +67,7 @@ new Data()
         after: clean
     })
 
-//     .add('./data/extra.json')
+    .add(require('./data/extra.json'))
 
     .data()
 

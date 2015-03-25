@@ -6,12 +6,13 @@ var Data = function () {
 
 var uri = /^https?:/;
 Data.prototype.add = function (url, opts) {
-    var job = null;
+    var job = null,
+        opts = opts ? opts : {};
 
-    if (opts && opts.script)
+    if (typeof url === 'string')
         job = scrape(url, opts.script);
     else
-        job = Promise.resolve(require(url));
+        job = Promise.resolve(url);
 
     if (opts.after)
         job = job.then(opts.after);
@@ -22,7 +23,6 @@ Data.prototype.add = function (url, opts) {
 }
 
 Data.prototype.data = function () {
-    console.log(this.queue);
     return Promise.all(this.queue).then(collate);
 }
 
