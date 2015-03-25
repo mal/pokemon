@@ -21,8 +21,6 @@ function scrape(url, script, done) {
     var url = encodeURI(url);
 
     var site = win[url] = new BrowserWindow({
-        width: 500,
-        height: 200,
         preload: bootstrap,
         'web-preferences': {
             'web-security': true
