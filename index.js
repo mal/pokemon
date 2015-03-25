@@ -39,8 +39,8 @@ function sort(country) {
     }
 }
 
-var episodes = fs.readFileSync('./src/scripts/episodes.js').toString();
-var movies = fs.readFileSync('./src/scripts/movies.js').toString();
+var episodes = fs.readFileSync('./src/parsers/episodes.js').toString();
+var movies = fs.readFileSync('./src/parsers/movies.js').toString();
 
 new Data()
 
