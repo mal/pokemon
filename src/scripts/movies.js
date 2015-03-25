@@ -54,7 +54,6 @@
     });
 
     var rows = Array.prototype.slice.call(document.querySelectorAll('h2 + p + table tr'));
-    console.log(rows);
 
     var number = 0;
 

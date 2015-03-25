@@ -45,7 +45,7 @@
         // need these for conditionals in a minute
         var code = string(fields[0]),
             dubair = airdate(fields[4]),
-            number = null;
+            number = undefined;
 
         // handle regular episodes
         if (code !== '*')
