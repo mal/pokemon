@@ -1,77 +1,27 @@
-var fs = require('fs');
-var Data = require('./src/data');
+var wfs = require('fs').writeFileSync;
 
-function clean(data) {
-    return Promise.resolve(data.map(function (ep) {
-        ep.jpn.series = ep.jpn.number = undefined;
-        ep.usa.season = ep.usa.number = undefined;
-        return ep;
-    }));
-}
+var codes = require('./data/countries.json');
+var extract = require('./src/extract');
+var transform = require('./src/transform');
 
-function reanimate(data) {
-    return Promise.resolve(data.map(function (ep) {
-        for (country in {jpn: 0, usa: 0})
-            if (ep[country].airdate)
-                ep[country].airdate = new Date(ep[country].airdate);
-        return ep;
-    }));
-}
-
-function recode(data) {
-    var unknown = 0;
-    return Promise.resolve(data.map(function (ep) {
-        if (ep.code === '*')
-            ep.code = 'UN' + ('00' + ++unknown).substr(-2);
-        return ep;
-    }));
-}
-
-function save(data) {
-    fs.writeFileSync('./data/anime.json', JSON.stringify(data, null, 2));
-}
-
-function sort(country) {
+function save(name) {
     return function (data) {
-        return Promise.resolve(data.sort(function (a, b) {
-            return a[country].airdate - b[country].airdate;
-        }));
-    }
+        wfs('./data/' + name + '.json', JSON.stringify(data, null, 2));
+        return Promise.resolve(data);
+    };
 }
 
-var episodes = fs.readFileSync('./src/parsers/episodes.js').toString();
-var movies = fs.readFileSync('./src/parsers/movies.js').toString();
+// Promise.resolve(require('./data/raw.json'))
 
-new Data()
+// extract().then(transform).then(load);
 
-    .add('http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes', {
-        script: episodes
-    })
+extract()
+    .then(save('raw'))
 
-    .add('http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts', {
-        script: episodes,
-        after: clean
-    })
+    .then(transform)
 
-    .add('http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes', {
-        script: episodes,
-        after: clean
-    })
+    .then(save('anime'))
 
-    .add('http://bulbapedia.bulbagarden.net/wiki/Pokémon_movie', {
-        script: movies
-    })
-
-    .add('http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials', {
-        script: episodes,
-        after: clean
-    })
-
-    .add(require('./data/extra.json'))
-
-    .data()
-
-    .then(reanimate)
-    .then(sort('jpn'))
-    .then(recode)
-    .then(save);
+    .catch(function () {
+        console.err(arguments);
+    });

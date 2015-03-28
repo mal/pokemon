@@ -1,4 +1,4 @@
-var scrape = require('./scraper');
+var scrape = require('./scrape');
 
 var Data = function () {
     this.queue = [];
@@ -10,7 +10,7 @@ Data.prototype.add = function (url, opts) {
         opts = opts ? opts : {};
 
     if (typeof url === 'string')
-        job = scrape(url, opts.script);
+        job = scrape(url, opts.parser);
     else
         job = Promise.resolve(url);
 

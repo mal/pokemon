@@ -3,7 +3,7 @@ var BrowserWindow = require('browser-window');
 var ipc = require('ipc');
 
 var win = {};
-var bootstrap = require.resolve('./preload.js');
+var bootstrap = require.resolve('../../lib/bootstrap.js');
 
 var ready = new Promise(function (done) {
     app.on('ready', done);
