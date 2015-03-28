@@ -55,7 +55,7 @@ function scrape(url, script, done) {
     site.loadUrl(url);
 }
 
-var file = path.resolve(process.argv[2] || 'sources.json'),
+var file = require.resolve('../../data/sources.json'),
     directory = path.dirname(file),
     sources = require(file);
 

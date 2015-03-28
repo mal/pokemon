@@ -1,5 +1,26 @@
-var Index = require('./util/index');
-var codes = require('../data/countries.json');
+var codes = null;
+
+function Index() {
+    this.i = {code: {}};
+    for (iso in codes)
+        this.i[iso] = {};
+}
+
+Index.prototype.index = function (ep) {
+    this.i.code[ep.code] = ep;
+    for (iso in codes)
+        this.i[iso][ep[iso].title] = ep;
+    return ep;
+}
+
+Index.prototype.lookup = function (ep) {
+    if (ep.code !== '*' && ep.code in this.i.code)
+        return this.i.code[ep.code];
+    for (iso in codes)
+        if (ep[iso].title && ep[iso].title in this.i[iso])
+            return this.i[iso][ep[iso].title];
+    return false;
+}
 
 function compare(a, b) {
     return a.score - b.score;
@@ -62,4 +83,7 @@ function unique() {
     };
 }
 
-module.exports = transform;
+module.exports = function (countries) {
+    codes = countries;
+    return transform;
+};

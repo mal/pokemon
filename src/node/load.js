@@ -1,5 +1,3 @@
-var data = require('./anime.json');
-
 function nullable(input) {
     if (input)
         return quote(input);
@@ -70,28 +68,38 @@ function values(row) {
         .join(', ');
 }
 
-console.log('SET @@auto_increment_increment=10;');
-console.log('SET @@auto_increment_offset=10;');
+function load(data) {
+    var out = [];
 
-data.forEach(function (ep) {
-    var jpn = ep.jpn, usa = ep.usa;
-    var ser = series(ep.code, jpn.series);
-    var jpn = {
-        code: quote(ep.code),
-        series: ser,
-        number: ser ? nullable(jpn.number) : null,
-        title: title(jpn.title),
-        airdate: nullable(jpn.airdate)
-    };
-    console.log('INSERT INTO episodes (' + keys(jpn) + ') VALUES (' + values(jpn) + ') ON DUPLICATE KEY UPDATE ' + update(jpn) + ';');
-    if (!usa.title) return;
-    var ssn = season(ep.code, usa.season);
-    var usa = {
-        code: jpn.code,
-        season: ssn,
-        number: ssn ? usa.number : null,
-        title: title(usa.title),
-        airdate: nullable(usa.airdate)
-    };
-    console.log('INSERT INTO dubs (' + keys(usa) + ') VALUES (' + values(usa) + ') ON DUPLICATE KEY UPDATE ' + update(usa) + ';');
-});
+    out.push('SET @@auto_increment_increment=10;');
+    out.push('SET @@auto_increment_offset=10;');
+
+    data.forEach(function (ep) {
+        var jpn = ep.jpn, usa = ep.usa;
+        var ser = series(ep.code, jpn.series);
+        var jpn = {
+            code: quote(ep.code),
+            series: ser,
+            number: ser ? nullable(jpn.number) : null,
+            title: title(jpn.title),
+            airdate: nullable(jpn.airdate)
+        };
+        out.push('INSERT INTO episodes (' + keys(jpn) + ') VALUES (' + values(jpn) + ') ON DUPLICATE KEY UPDATE ' + update(jpn) + ';');
+        if (!usa.title) return;
+        var ssn = season(ep.code, usa.season);
+        var usa = {
+            code: jpn.code,
+            season: ssn,
+            number: ssn ? usa.number : null,
+            title: title(usa.title),
+            airdate: nullable(usa.airdate)
+        };
+        out.push('INSERT INTO dubs (' + keys(usa) + ') VALUES (' + values(usa) + ') ON DUPLICATE KEY UPDATE ' + update(usa) + ';');
+    });
+
+    return out.join('\n');
+}
+
+module.exports = function () {
+    return load;
+};
