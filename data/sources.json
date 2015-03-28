@@ -1,0 +1,23 @@
+{
+    "episodes": [
+        "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+        "episodes"
+    ],
+    "sides": [
+        "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+        "episodes"
+    ],
+    "shorts": [
+        "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+        "episodes"
+    ],
+    "movies": [
+        "http://bulbapedia.bulbagarden.net/wiki/Pokémon_movie",
+        "movies"
+    ],
+    "specials": [
+        "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
+        "episodes"
+    ],
+    "extra": "./extra.json"
+}
