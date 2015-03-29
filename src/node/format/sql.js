@@ -1,5 +1,5 @@
 function date(input) {
-    if (input && !isNaN(input))
+    if (input)
         return quote(input.toISOString().substr(0, 10));
     return;
 }

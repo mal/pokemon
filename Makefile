@@ -14,8 +14,8 @@ $(FORMAT): %: out/anime.%
 
 # tasks
 
-clean:
-	git clean -dnx
+clean: reset
+	rm -r out
 
 reset:
 	rm data/raw.json
