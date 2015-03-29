@@ -10,6 +10,7 @@
   "author": "Mal Graty <mal.graty@googlemail.com>",
   "license": "ISC",
   "dependencies": {
-    "atom-shell": "~0.21.2"
+    "atom-shell": "~0.21.2",
+    "markdown-table": "^0.3.2"
   }
 }
