@@ -27,6 +27,7 @@ data/raw.json: node_modules
 
 node_modules: package.json
 	npm install --production
+	touch $@
 
 out:
 	mkdir out
