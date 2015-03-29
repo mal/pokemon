@@ -5,7 +5,7 @@ FORMAT := $(basename $(notdir $(wildcard src/node/format/*.js)))
 
 # default
 
-default: json
+default: $(FORMAT)
 force:
 
 # aliases
