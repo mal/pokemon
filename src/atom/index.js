@@ -72,7 +72,10 @@ Promise
             out[key] = data[i];
         });
         fs.writeFileSync(
-            path.join(directory, 'raw.json'),
+            path.resolve(process.argv[2]),
             JSON.stringify(out, null, 2)
         );
+    })
+    .catch(function (e) {
+        console.err(e);
     });

@@ -10,29 +10,29 @@ force:
 
 # aliases
 
-$(FORMAT): %: out/anime.%
+$(FORMAT): %: output/anime.%
 
 # tasks
 
 clean: reset
-	rm -r out
+	rm -r output
 
 reset:
 	rm data/raw.json
 
 # targets
 
-data/raw.json: node_modules
-	xvfb-run atom-shell src/atom/index.js
-
 node_modules: package.json
 	npm install --production
 	touch $@
 
-out:
-	mkdir out
+output tmp:
+	mkdir $@
 
-out/%: data/raw.json force out
+output/%: tmp/raw.json force output
 	node src/node/index.js $(suffix $@) > $@
+
+tmp/raw.json: node_modules tmp
+	xvfb-run atom-shell src/atom/index.js $@
 	
 .PHONY: clean force reset

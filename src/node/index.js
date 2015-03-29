@@ -1,4 +1,4 @@
-var input = require('../../data/raw.json');
+var input = require('../../tmp/raw.json');
 
 var extract = require('./extract');
 var transform = require('./transform');
