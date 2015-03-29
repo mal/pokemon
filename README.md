@@ -5,6 +5,8 @@ concerning the Pokémon anime. This came about due to my frustration when trying
 work out where various movies and specials (and even some episodes) fit
 chronologically with regard to the ongoing series.
 
+**tl;dr:** Check out the [results][table]!
+
 ## Concept
 
 The starting order is based on the original Japanese airdates (taken from
@@ -12,8 +14,9 @@ The starting order is based on the original Japanese airdates (taken from
 that can be found in [`data/edits.json`][edits], to form the final presented
 ordering.
 
-[bulbapedia]: http://bulbapedia.bulbagarden.net
+[bulbapedia]: http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes
 [edits]: data/edits.json
+[table]: https://github.com/mal/pokemon/blob/gh-pages/data/anime.md
 
 ## Contributing
 
