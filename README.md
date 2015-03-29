@@ -9,9 +9,11 @@ chronologically with regard to the ongoing series.
 
 The starting order is based on the original Japanese airdates (taken from
 [Bulbapedia][bulbapedia]. Over that is layered a collection of annotated edits
-that can be found in `data/edits.json`, to form the final presented ordering.
+that can be found in [`data/edits.json`][edits], to form the final presented
+ordering.
 
 [bulbapedia]: http://bulbapedia.bulbagarden.net
+[edits]: data/edits.json
 
 ## Contributing
 
