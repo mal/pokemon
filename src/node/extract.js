@@ -1,25 +1,20 @@
-var codes = null;
+var Node = require('./util/node');
 
-function clean(data) {
-    return data.map(function (ep) {
-        for (iso in codes)
-            ep[iso].number = ep[iso].season = ep[iso].series = undefined;
-        return ep;
+function clean(ep) {
+    ep.each(function (a) {
+        delete a.number, a.season, a.series;
     });
 }
 
 function extract(data) {
     var data = Object.keys(data).map(function (key) {
-        var group = data[key];
+        var group = data[key].map(Node.create);
         if (key !== 'episodes' && key !== 'movies')
-            group = clean(group);
+            group.forEach(clean);
         return group;
     });
 
     return Array.prototype.concat.apply([], data);
 }
 
-module.exports = function (countries) {
-    codes = countries;
-    return extract;
-};
+module.exports = extract;

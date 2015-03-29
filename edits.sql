@@ -4,7 +4,10 @@
 -- Movie 1
 SELECT chronology INTO @mark FROM episodes WHERE code = 'EP065';
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'PK01';
-UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'The Birth of Mewtwo';
+INSERT INTO episodes VALUES ('UN99', NULL, NULL, 'The Birth of Mewtwo', '1999-04-08', (@mark := @mark + 1))
+  ON DUPLICATE KEY UPDATE series = NULL, number = NULL, title = 'The Birth of Mewtwo', airdate = '1999-04-08', chronology = @mark;
+INSERT INTO dubs VALUES ('UN99', NULL, NULL, 'The Uncut Story of Mewtwo\'s Origin', '2000-03-21')
+  ON DUPLICATE KEY UPDATE season = NULL, number = NULL, title = 'The Uncut Story of Mewtwo\'s Origin', airdate = '2000-03-21';;
 UPDATE episodes SET chronology = (@mark := @mark + 1) WHERE code = 'M01';
 
 -- Winter Holiday JPN-1998

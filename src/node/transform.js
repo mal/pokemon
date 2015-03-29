@@ -1,89 +1,62 @@
-var codes = null;
+"use strict";
 
-function Index() {
-    this.i = {code: {}};
-    for (iso in codes)
-        this.i[iso] = {};
-}
+let Index = require('./util/index');
 
-Index.prototype.index = function (ep) {
-    this.i.code[ep.code] = ep;
-    for (iso in codes)
-        this.i[iso][ep[iso].title] = ep;
-    return ep;
-}
-
-Index.prototype.lookup = function (ep) {
-    if (ep.code !== '*' && ep.code in this.i.code)
-        return this.i.code[ep.code];
-    for (iso in codes)
-        if (ep[iso].title && ep[iso].title in this.i[iso])
-            return this.i[iso][ep[iso].title];
-    return false;
-}
+let edits = require('../../data/edits.json');
 
 function compare(a, b) {
     return a.score - b.score;
 }
 
-function inflate(ep) {
-    for (iso in codes)
-        ep[iso].airdate = new Date(ep[iso].airdate);
-    return ep;
+function edit(data) {
+    let i = new Index('code');
+    data.forEach(function (ep) {
+        i.add(ep);
+    });
+    edits.filter(Array.isArray).forEach(function (seq) {
+        let score = i.lookup('code', seq.shift()).score;
+        seq.forEach(function (code) {
+            i.lookup('code', code).score = ++score;
+        });
+    });
+    return data.sort(compare);
 }
 
 function polyfill() {
-    var unknown = 0;
+    let unknown = 0;
     return function (ep) {
-        if (ep.code === '*')
+        if (!ep.code)
             ep.code = 'UN' + ('00' + ++unknown).substr(-2);
         return ep;
     };
 }
 
 function score() {
-    var last = 0, index = {};
+    let last = 0, index = {};
     return function (ep) {
-        last = ep.jpn.airdate.getTime() || last;
+        last = ep.jpn.airdate ? ep.jpn.airdate.getTime() : last;
         ep.score = last in index ? index[last] += 10 : index[last] = last;
         return ep;
     };
 }
 
 function transform(data) {
-    return Promise.resolve(data
-        .map(inflate)
+    return Promise.resolve(edit(data
         .reduce(unique(), [])
         .map(score())
         .sort(compare)
         .map(polyfill())
-    );
+    ));
 }
 
 function unique() {
-    var i = new Index(),
+    let i = new Index('code', 'jpn.title', 'usa.title'),
         e = null;
-
-    function merge(a, b) {
-        if (a.code === '*')
-            a.code = b.code;
-        for (iso in codes) {
-            var aa = a[iso], bb = b[iso];
-            if (bb.title)
-                aa.title = bb.title;
-            if (!aa.airdate || aa.airdate > bb.airdate)
-                aa.airdate = bb.airdate;
-        }
-    }
-
     return function (out, ep) {
         if (e = i.lookup(ep))
-            return merge(e, ep), out;
-        return out.concat(i.index(ep));
+            return e.merge(ep), out;
+        return out.concat(i.add(ep));
     };
 }
 
-module.exports = function (countries) {
-    codes = countries;
-    return transform;
-};
+module.exports = transform;

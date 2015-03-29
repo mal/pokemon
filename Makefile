@@ -1,10 +1,16 @@
-# env
+# vars
 
 PATH := $(shell npm bin):$(PATH)
+FORMAT := $(basename $(notdir $(wildcard src/node/format/*.js)))
 
 # default
 
-default: out/anime.json
+default: json
+force:
+
+# aliases
+
+$(FORMAT): %: out/anime.%
 
 # tasks
 
@@ -19,13 +25,13 @@ reset:
 data/raw.json: node_modules
 	xvfb-run atom-shell src/atom/index.js
 
-node_modules:
+node_modules: package.json
 	npm install --production
 
 out:
 	mkdir out
 
-out/%: out data/raw.json
+out/%: data/raw.json force out
 	node src/node/index.js $(suffix $@) > $@
 	
-.PHONY: clean reset
+.PHONY: clean force reset
