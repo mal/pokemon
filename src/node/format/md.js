@@ -4,10 +4,9 @@ let table = require('markdown-table');
 
 let header = [
     'Code',
-    'Japanese Title',
-    'Japanese Airdate',
     'English Title',
-    'English Airdate'
+    'Japanese',
+    'English'
 ];
 
 function date(input) {
@@ -19,13 +18,14 @@ function date(input) {
 function row(ep) {
     return [
         ep.code,
-        ep.jpn.title,
+        ep.usa.title ? ep.usa.title : '[JPN] ' + ep.jpn.title,
         date(ep.jpn.airdate),
-        ep.usa.title ? ep.usa.title : '_Not Dubbed_',
         date(ep.usa.airdate)
     ];
 }
 
 module.exports = function (data) {
-    return table([header].concat(data.map(row)));
+    return table([header].concat(data.map(row)), {
+        align: ['l', 'l', 'r', 'r']
+    });
 }
