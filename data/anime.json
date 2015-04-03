@@ -868,22 +868,6 @@
     }
   },
   {
-    "code": "EP053",
-    "jpn": {
-      "airdate": "1998-07-09T00:00:00.000Z",
-      "number": 53,
-      "series": "EP",
-      "title": "It's Children's Day! All Members Gather!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-04-17T00:00:00.000Z",
-      "number": 53,
-      "season": 1,
-      "title": "The Purr-fect Hero"
-    }
-  },
-  {
     "code": "EP054",
     "jpn": {
       "airdate": "1998-07-16T00:00:00.000Z",
@@ -971,6 +955,22 @@
       "number": 57,
       "season": 1,
       "title": "The Breeding Center Secret"
+    }
+  },
+  {
+    "code": "EP053",
+    "jpn": {
+      "airdate": "1998-07-09T00:00:00.000Z",
+      "number": 53,
+      "series": "EP",
+      "title": "It's Children's Day! All Members Gather!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-04-17T00:00:00.000Z",
+      "number": 53,
+      "season": 1,
+      "title": "The Purr-fect Hero"
     }
   },
   {

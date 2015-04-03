@@ -55,13 +55,13 @@
 | EP049 | So Near, Yet So Farfetch'd                                                        | 1998-06-18 | 1999-03-20 |
 | EP050 | Who Gets to Keep Togepi?                                                          | 1998-06-25 | 1999-03-27 |
 | EP051 | Bulbasaur's Mysterious Garden                                                     | 1998-07-02 | 1999-04-03 |
-| EP053 | The Purr-fect Hero                                                                | 1998-07-09 | 1999-04-17 |
 | EP054 | The Case of the K-9 Caper!                                                        | 1998-07-16 | 1999-04-10 |
 | PK01  | Pikachu's Vacation                                                                | 1998-07-18 | 1999-11-12 |
 | M01   | Pokémon the First Movie - Mewtwo Strikes Back                                     | 1998-07-18 | 1999-11-12 |
 | EP055 | Pokémon Paparazzi                                                                 | 1998-07-23 | 1999-04-17 |
 | EP056 | The Ultimate Test                                                                 | 1998-07-30 | 1999-04-24 |
 | EP057 | The Breeding Center Secret                                                        | 1998-08-06 | 1999-05-01 |
+| EP053 | The Purr-fect Hero                                                                | 1998-07-09 | 1999-04-17 |
 | EP058 | Riddle Me This                                                                    | 1998-08-13 | 1999-09-18 |
 | EP059 | Volcanic Panic                                                                    | 1998-08-20 | 1999-09-18 |
 | EP060 | Beach Blank-Out Blastoise                                                         | 1998-08-27 | 1999-09-20 |
