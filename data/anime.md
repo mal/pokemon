@@ -39,6 +39,8 @@
 | EP037 | Ditto's Mysterious Mansion                                                        | 1997-12-09 | 1998-10-26 |
 | EP038 | [JPN] Electric Soldier Porygon                                                    | 1997-12-16 |  _Unaired_ |
 | UN01  | [JPN] Anime: Pocket Monsters Problem Inspection Report                            | 1998-04-11 |  _Unaired_ |
+| UN02  | Holiday Hi-Jynx                                                                   | 1998-10-05 | 1999-12-11 |
+| UN03  | Snow Way Out!                                                                     | 1998-10-05 | 1999-12-18 |
 | EP039 | Pikachu's Good-Bye                                                                | 1998-04-16 | 1998-10-27 |
 | EP040 | The Battling Eevee Brothers                                                       | 1998-04-16 | 1998-10-27 |
 | EP041 | Wake Up Snorlax!                                                                  | 1998-04-23 | 1998-10-28 |
@@ -67,8 +69,6 @@
 | EP062 | Clefairy Tales                                                                    | 1998-09-10 | 1999-09-25 |
 | EP063 | The Battle of the Badge                                                           | 1998-09-17 | 1999-09-25 |
 | EP064 | It's Mr. Mime Time                                                                | 1998-09-24 | 1999-09-27 |
-| UN02  | Holiday Hi-Jynx                                                                   | 1998-10-05 | 1999-12-11 |
-| UN03  | Snow Way Out!                                                                     | 1998-10-05 | 1999-12-18 |
 | EP065 | Showdown at the Po-ké Corral                                                      | 1998-10-08 | 1999-09-30 |
 | EP066 | The Evolution Solution                                                            | 1998-10-08 | 1999-09-30 |
 | EP067 | The Pi-Kahuna                                                                     | 1998-10-22 | 1999-10-02 |

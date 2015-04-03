@@ -614,6 +614,36 @@
     }
   },
   {
+    "code": "UN02",
+    "jpn": {
+      "airdate": "1998-10-05T00:00:00.000Z",
+      "series": "EP",
+      "title": "Rougela's Christmas"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-12-11T00:00:00.000Z",
+      "number": 37,
+      "season": 1,
+      "title": "Holiday Hi-Jynx"
+    }
+  },
+  {
+    "code": "UN03",
+    "jpn": {
+      "airdate": "1998-10-05T00:00:00.000Z",
+      "series": "EP",
+      "title": "Iwark as a Bivouac"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-12-18T00:00:00.000Z",
+      "number": 38,
+      "season": 1,
+      "title": "Snow Way Out!"
+    }
+  },
+  {
     "code": "EP039",
     "jpn": {
       "airdate": "1998-04-16T00:00:00.000Z",
@@ -1053,36 +1083,6 @@
       "number": 64,
       "season": 1,
       "title": "It's Mr. Mime Time"
-    }
-  },
-  {
-    "code": "UN02",
-    "jpn": {
-      "airdate": "1998-10-05T00:00:00.000Z",
-      "series": "EP",
-      "title": "Rougela's Christmas"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-12-11T00:00:00.000Z",
-      "number": 37,
-      "season": 1,
-      "title": "Holiday Hi-Jynx"
-    }
-  },
-  {
-    "code": "UN03",
-    "jpn": {
-      "airdate": "1998-10-05T00:00:00.000Z",
-      "series": "EP",
-      "title": "Iwark as a Bivouac"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-12-18T00:00:00.000Z",
-      "number": 38,
-      "season": 1,
-      "title": "Snow Way Out!"
     }
   },
   {
