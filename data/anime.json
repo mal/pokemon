@@ -756,19 +756,19 @@
     }
   },
   {
-    "code": "EP046",
+    "code": "EP047",
     "jpn": {
-      "airdate": "1998-05-28T00:00:00.000Z",
-      "number": 46,
+      "airdate": "1998-06-04T00:00:00.000Z",
+      "number": 47,
       "series": "EP",
-      "title": "Resurrection?! Fossil Pokémon!"
+      "title": "Lucky's Clinical Records"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
       "airdate": "1999-03-06T00:00:00.000Z",
-      "number": 46,
+      "number": 47,
       "season": 1,
-      "title": "Attack of the Prehistoric Pokémon"
+      "title": "A Chansey Operation"
     }
   },
   {
@@ -788,19 +788,19 @@
     }
   },
   {
-    "code": "EP047",
+    "code": "EP046",
     "jpn": {
-      "airdate": "1998-06-04T00:00:00.000Z",
-      "number": 47,
+      "airdate": "1998-05-28T00:00:00.000Z",
+      "number": 46,
       "series": "EP",
-      "title": "Lucky's Clinical Records"
+      "title": "Resurrection?! Fossil Pokémon!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
       "airdate": "1999-03-06T00:00:00.000Z",
-      "number": 47,
+      "number": 46,
       "season": 1,
-      "title": "A Chansey Operation"
+      "title": "Attack of the Prehistoric Pokémon"
     }
   },
   {

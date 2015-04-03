@@ -48,9 +48,9 @@
 | EP043 | The March of the Exeggutor Squad                                                  | 1998-05-07 | 1998-10-30 |
 | EP044 | The Problem with Paras                                                            | 1998-05-14 | 1999-02-13 |
 | EP045 | The Song of Jigglypuff                                                            | 1998-05-21 | 1999-02-20 |
-| EP046 | Attack of the Prehistoric Pokémon                                                 | 1998-05-28 | 1999-03-06 |
-| EP052 | Princess vs. Princess                                                             | 1998-07-09 | 1999-04-10 |
 | EP047 | A Chansey Operation                                                               | 1998-06-04 | 1999-03-06 |
+| EP052 | Princess vs. Princess                                                             | 1998-07-09 | 1999-04-10 |
+| EP046 | Attack of the Prehistoric Pokémon                                                 | 1998-05-28 | 1999-03-06 |
 | EP048 | Holy Matrimony!                                                                   | 1998-06-11 | 1999-03-13 |
 | EP049 | So Near, Yet So Farfetch'd                                                        | 1998-06-18 | 1999-03-20 |
 | EP050 | Who Gets to Keep Togepi?                                                          | 1998-06-25 | 1999-03-27 |
