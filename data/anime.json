@@ -772,6 +772,22 @@
     }
   },
   {
+    "code": "EP052",
+    "jpn": {
+      "airdate": "1998-07-09T00:00:00.000Z",
+      "number": 52,
+      "series": "EP",
+      "title": "Fierce Fighting! Pokémon Girls' Festival!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-04-10T00:00:00.000Z",
+      "number": 52,
+      "season": 1,
+      "title": "Princess vs. Princess"
+    }
+  },
+  {
     "code": "EP047",
     "jpn": {
       "airdate": "1998-06-04T00:00:00.000Z",
@@ -849,22 +865,6 @@
       "number": 51,
       "season": 1,
       "title": "Bulbasaur's Mysterious Garden"
-    }
-  },
-  {
-    "code": "EP052",
-    "jpn": {
-      "airdate": "1998-07-09T00:00:00.000Z",
-      "number": 52,
-      "series": "EP",
-      "title": "Fierce Fighting! Pokémon Girls' Festival!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-04-10T00:00:00.000Z",
-      "number": 52,
-      "season": 1,
-      "title": "Princess vs. Princess"
     }
   },
   {
