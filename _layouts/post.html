@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<nav>
+  <ul>
+    {% for post in site.posts %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <hr />
+  <ul>
+    <li><a href="{{ '/' | prepend: site.baseurl }}">Back</a></li>
+  </ul>
+</nav>
+<article>
+  <time>{{ page.date | date: "%-d %B %Y" }}</time>
+  <h2>{{ page.title }}</h2>
+  {{ content }}
+</article>

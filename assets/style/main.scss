@@ -1,0 +1,43 @@
+---
+---
+$colour-banner: #ffcc00;
+$colour-body: #eae6d1;
+$colour-button: #ffe788;
+$colour-content: #fbfbfb;
+$colour-header: #4276b6;
+$colour-text: #666666;
+$colour-title: #ffffff;
+
+$header-offset: 190px;
+$content-width: 650px;
+
+@import "fonts";
+
+* {
+  box-sizing: border-box;
+}
+
+*[id]:before {
+  content: ' ';
+  display: block;
+  height: $header-offset - 15px;
+  margin-top: -$header-offset + 15px;
+  visibility: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: url(../images/body.png) $colour-body;
+  color: $colour-text;
+  font-family: $sans;
+  font-size: 14px;
+  line-height: 22px;
+  margin: 0;
+}
+
+@import "header";
+@import "banner";
+@import "content";

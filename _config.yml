@@ -1,0 +1,9 @@
+baseurl: /pokemon
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: 'post'
+sass:
+  sass_dir: assets/_sass

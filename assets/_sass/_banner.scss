@@ -1,0 +1,55 @@
+section.banner {
+  $border-width: 1px;
+  $padding-width: 50px;
+
+  background: $colour-banner;
+  border: $border-width solid darken($colour-banner, 10%);
+  box-shadow: 0px 1px 3px rgba(black, 0.25);
+  left: 0;
+  margin-right: 0 - ($content-width / 2) - $border-width - $padding-width;
+  padding: 5px $padding-width;
+  position: fixed;
+  right: 50%;
+  top: 115px;
+  z-index: 200;
+
+  > div {
+    float: right;
+    width: $content-width;
+  }
+
+  .downloads {
+    float: right;
+
+    span {
+      color: lighten($colour-text, 10%);
+      font-size: 95%;
+      text-transform: uppercase;
+    }
+    ul {
+      display: inline;
+      list-style: none;
+      padding: 0;
+      li {
+        display: inline;
+      }
+    }
+  }
+
+  a {
+    background: linear-gradient($colour-button, darken($colour-button, 20%))
+                repeat scroll 0% 0% $colour-button;
+    border: 1px solid darken($colour-button, 35%);
+    border-radius: 2px;
+    box-shadow: 0px 1px 0px rgba(white, 0.4) inset,
+                0px 1px 1px rgba(black, 0.1);
+    color: black;
+    display: inline-block;
+    font-weight: bold;
+    padding: 7px 12px 5px;
+    text-align: center;
+    &:hover {
+      background: $colour-button;
+    }
+  }
+}

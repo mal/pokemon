@@ -1,0 +1,26 @@
+header {
+  background: url(../images/header.png) $colour-header;
+  box-shadow: 1px 0 2px rgba(black, 0.75);
+  font-size: 18px;
+  min-height: 135px;
+  padding: 25px 20px 40px;
+  position: fixed;
+  text-align: center;
+  text-shadow: 0 2px 0 darken($colour-header, 20%);
+  top: 0;
+  width: 100%;
+  z-index: 100;
+
+  h1 {
+    color: $colour-title;
+    font-family: $serif;
+    line-height: normal;
+    margin: 0;
+  }
+
+  p {
+    display: block;
+    color: darken($colour-title, 15%);
+    margin: 0;
+  }
+}

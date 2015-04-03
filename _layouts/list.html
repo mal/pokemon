@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<nav></nav>
+<article>
+  {{ content }}
+</article>
+<hr />
+{% for post in site.posts %}
+  <article>
+    <time>{{ post.date | date: "%-d %B %Y" }}</time>
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+  </article>
+{% endfor %}
+<script src="{{ '/assets/script/nav.js' | prepend: site.baseurl }}"></script>
