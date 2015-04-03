@@ -3,7 +3,8 @@
     ["UN01", "UN02", "UN03"],
 
     "http://mal.github.io/pokemon/1998/03/03/hinamatsuri.html",
-    ["EP046", "EP052"],
+    "http://mal.github.io/pokemon/1998/05/28/brocks-egg.html",
+    ["EP045", "EP047", "EP052", "EP046"],
 
     "http://mal.github.io/pokemon/1998/05/05/childrens-day.html",
     ["EP057", "EP053"]
