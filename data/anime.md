@@ -954,9 +954,9 @@
 | XY058 | Green, Green Grass Types of Home!                                                 | 2015-01-29 | 2015-04-11 |
 | XY059 | Under the Pledging Tree!                                                          | 2015-02-05 | 2015-04-18 |
 | XY060 | Showcase, Debut!                                                                  | 2015-02-12 | 2015-04-25 |
-| XY061 | [JPN] Decisive Battle in the Wilderness! Fight, Numera!!                          | 2015-02-19 |  _Unaired_ |
-| XY062 | [JPN] Protect the Future of Science! The Electric Labyrinth!!                     | 2015-02-26 |  _Unaired_ |
-| XY063 | [JPN] A Fork in the Path of Indecision!? Musashi and Sonans!!                     | 2015-03-05 |  _Unaired_ |
+| XY061 | An Oasis of Hope!                                                                 | 2015-02-19 | 2015-05-02 |
+| XY062 | The Future Is Now, Thanks to Determination!                                       | 2015-02-26 | 2015-05-09 |
+| XY063 | A Fork in the Road! A Parting of the Ways!                                        | 2015-03-05 | 2015-05-16 |
 | XY064 | [JPN] Fokko VS Mahoxy! A Splendid Performance Battle!!                            | 2015-03-12 |  _Unaired_ |
 | SS032 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act III~' | 2015-03-19 |  _Unaired_ |
 | XY065 | [JPN] Kameil and Raichu Appear! Good Luck Numeil!!                                | 2015-03-26 |  _Unaired_ |
@@ -965,5 +965,7 @@
 | XY068 | [JPN] The Coveted Mega Evolution! Gaburias's Bonds!!                              | 2015-04-16 |  _Unaired_ |
 | XY069 | [JPN] Battle in the Wetlands! Numelgon VS Florges!!                               | 2015-04-23 |  _Unaired_ |
 | XY070 | [JPN] Conclusion! Numelgon, Go Over the Rainbow!!                                 | 2015-04-30 |  _Unaired_ |
+| XY071 | [JPN] The Worst Luck? Eureka VS Nyarth!!                                          | 2015-05-07 |  _Unaired_ |
+| XY072 | [JPN] Hospitality of the Scary House!                                             | 2015-05-14 |  _Unaired_ |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                                | 2015-07-18 |  _Unaired_ |
 | M18   | [JPN] The Archdjinni of the Rings: Hoopa                                          | 2015-07-18 |  _Unaired_ |

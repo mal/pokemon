@@ -952,9 +952,9 @@ Thawing an Icy Panic!
 Green, Green Grass Types of Home!
 Under the Pledging Tree!
 Showcase, Debut!
-[JPN] Decisive Battle in the Wilderness! Fight, Numera!!
-[JPN] Protect the Future of Science! The Electric Labyrinth!!
-[JPN] A Fork in the Path of Indecision!? Musashi and Sonans!!
+An Oasis of Hope!
+The Future Is Now, Thanks to Determination!
+A Fork in the Road! A Parting of the Ways!
 [JPN] Fokko VS Mahoxy! A Splendid Performance Battle!!
 [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act III~'
 [JPN] Kameil and Raichu Appear! Good Luck Numeil!!
@@ -963,5 +963,7 @@ Showcase, Debut!
 [JPN] The Coveted Mega Evolution! Gaburias's Bonds!!
 [JPN] Battle in the Wetlands! Numelgon VS Florges!!
 [JPN] Conclusion! Numelgon, Go Over the Rainbow!!
+[JPN] The Worst Luck? Eureka VS Nyarth!!
+[JPN] Hospitality of the Scary House!
 [JPN] Pikachu and the Pokémon Band
 [JPN] The Archdjinni of the Rings: Hoopa

@@ -14968,7 +14968,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 18
+      "airdate": "2015-05-02T00:00:00.000Z",
+      "number": 12,
+      "season": 18,
+      "title": "An Oasis of Hope!"
     }
   },
   {
@@ -14981,7 +14984,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 18
+      "airdate": "2015-05-09T00:00:00.000Z",
+      "number": 13,
+      "season": 18,
+      "title": "The Future Is Now, Thanks to Determination!"
     }
   },
   {
@@ -14994,7 +15000,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 18
+      "airdate": "2015-05-16T00:00:00.000Z",
+      "number": 14,
+      "season": 18,
+      "title": "A Fork in the Road! A Parting of the Ways!"
     }
   },
   {
@@ -15094,6 +15103,32 @@
       "number": 70,
       "series": "XY",
       "title": "Conclusion! Numelgon, Go Over the Rainbow!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 18
+    }
+  },
+  {
+    "code": "XY071",
+    "jpn": {
+      "airdate": "2015-05-07T00:00:00.000Z",
+      "number": 71,
+      "series": "XY",
+      "title": "The Worst Luck? Eureka VS Nyarth!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 18
+    }
+  },
+  {
+    "code": "XY072",
+    "jpn": {
+      "airdate": "2015-05-14T00:00:00.000Z",
+      "number": 72,
+      "series": "XY",
+      "title": "Hospitality of the Scary House!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
