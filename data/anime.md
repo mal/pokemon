@@ -69,6 +69,7 @@
 | EP064 | It's Mr. Mime Time                                                                | 1998-09-24 | 1999-09-27 |
 | EP065 | Showdown at the Po-ké Corral                                                      | 1998-10-08 | 1999-09-30 |
 | PK01  | Pikachu's Vacation                                                                | 1998-07-18 | 1999-11-12 |
+| UN04  | The Uncut Story of Mewtwo's Origin                                                | 1999-07-08 | 2000-03-21 |
 | M01   | Pokémon the First Movie - Mewtwo Strikes Back                                     | 1998-07-18 | 1999-11-12 |
 | EP066 | The Evolution Solution                                                            | 1998-10-08 | 1999-09-30 |
 | EP067 | The Pi-Kahuna                                                                     | 1998-10-22 | 1999-10-02 |
@@ -110,7 +111,6 @@
 | EP101 | Get Along, Little Pokémon                                                         | 1999-06-17 | 2000-04-29 |
 | EP102 | The Mystery Menace                                                                | 1999-06-24 | 2000-05-06 |
 | EP103 | Misty Meets Her Match                                                             | 1999-07-01 | 2000-09-09 |
-| UN04  | The Uncut Story of Mewtwo's Origin                                                | 1999-07-08 | 2000-03-21 |
 | EP104 | Bound For Trouble                                                                 | 1999-07-15 | 2000-09-15 |
 | PK04  | Pikachu's Rescue Adventure                                                        | 1999-07-17 | 2000-07-21 |
 | M02   | Pokémon the Movie 2000 - The Power of One                                         | 1999-07-17 | 2000-07-21 |

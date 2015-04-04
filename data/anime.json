@@ -1090,6 +1090,18 @@
     }
   },
   {
+    "code": "UN04",
+    "src": "http://bulbapedia.bulbagarden.net/wiki/The_Uncut_Story_of_Mewtwo%27s_Origin",
+    "jpn": {
+      "airdate": "1999-07-08T00:00:00.000Z",
+      "title": "The Birth of Mewtwo"
+    },
+    "usa": {
+      "airdate": "2000-03-21T00:00:00.000Z",
+      "title": "The Uncut Story of Mewtwo's Origin"
+    }
+  },
+  {
     "code": "M01",
     "jpn": {
       "airdate": "1998-07-18T00:00:00.000Z",
@@ -1735,18 +1747,6 @@
       "number": 23,
       "season": 2,
       "title": "Misty Meets Her Match"
-    }
-  },
-  {
-    "code": "UN04",
-    "src": "http://bulbapedia.bulbagarden.net/wiki/The_Uncut_Story_of_Mewtwo%27s_Origin",
-    "jpn": {
-      "airdate": "1999-07-08T00:00:00.000Z",
-      "title": "The Birth of Mewtwo"
-    },
-    "usa": {
-      "airdate": "2000-03-21T00:00:00.000Z",
-      "title": "The Uncut Story of Mewtwo's Origin"
     }
   },
   {
