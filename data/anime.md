@@ -193,9 +193,9 @@
 | EP176 | Ariados, Amigos                                                                   | 2000-12-07 | 2001-11-17 |
 | EP177 | Wings 'N' Things                                                                  | 2000-12-14 | 2001-11-17 |
 | EP178 | The Grass Route                                                                   | 2000-12-21 | 2001-11-03 |
-| UN06  | Trouble in Big Town                                                               | 2000-12-22 | 2006-10-14 |
 | PK08  | Delibird's Dilemma                                                                | 2000-12-22 | 2006-06-17 |
 | PK09  | Snorlax Snowman                                                                   | 2000-12-22 | 2006-06-17 |
+| UN06  | Trouble in Big Town                                                               | 2000-12-22 | 2006-10-14 |
 | TV01  | Mewtwo Returns                                                                    | 2000-12-30 | 2001-12-01 |
 | EP179 | The Apple Corp!                                                                   | 2001-01-04 | 2001-12-01 |
 | EP180 | Houndoom's Special Delivery                                                       | 2001-01-11 | 2001-12-01 |

@@ -3040,20 +3040,6 @@
     }
   },
   {
-    "code": "UN06",
-    "jpn": {
-      "airdate": "2000-12-22T00:00:00.000Z",
-      "series": null,
-      "title": "We are the Pichu Brothers - Balloon disturbance"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "airdate": "2006-10-14T00:00:00.000Z",
-      "season": 1,
-      "title": "Trouble in Big Town"
-    }
-  },
-  {
     "code": "PK08",
     "jpn": {
       "airdate": "2000-12-22T00:00:00.000Z",
@@ -3079,6 +3065,20 @@
       "airdate": "2006-06-17T00:00:00.000Z",
       "season": 1,
       "title": "Snorlax Snowman"
+    }
+  },
+  {
+    "code": "UN06",
+    "jpn": {
+      "airdate": "2000-12-22T00:00:00.000Z",
+      "series": null,
+      "title": "We are the Pichu Brothers - Balloon disturbance"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {
+      "airdate": "2006-10-14T00:00:00.000Z",
+      "season": 1,
+      "title": "Trouble in Big Town"
     }
   },
   {
