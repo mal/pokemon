@@ -5389,32 +5389,6 @@
     }
   },
   {
-    "code": "PK12",
-    "jpn": {
-      "airdate": "2003-07-19T00:00:00.000Z",
-      "series": "PK",
-      "title": "Secret Base of the Dancing Pokémon"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "airdate": "2004-06-01T00:00:00.000Z",
-      "season": 1,
-      "title": "Gotta Dance!!"
-    }
-  },
-  {
-    "code": "M06",
-    "jpn": {
-      "airdate": "2003-07-19T00:00:00.000Z",
-      "title": "Wishing Star of the Seven Nights: Jirachi"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2004-06-01T00:00:00.000Z",
-      "title": "Jirachi: Wish Maker"
-    }
-  },
-  {
     "code": "AG035",
     "jpn": {
       "airdate": "2003-07-24T00:00:00.000Z",
@@ -5444,6 +5418,32 @@
       "number": 36,
       "season": 6,
       "title": "The Spheal of Approval"
+    }
+  },
+  {
+    "code": "PK12",
+    "jpn": {
+      "airdate": "2003-07-19T00:00:00.000Z",
+      "series": "PK",
+      "title": "Secret Base of the Dancing Pokémon"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {
+      "airdate": "2004-06-01T00:00:00.000Z",
+      "season": 1,
+      "title": "Gotta Dance!!"
+    }
+  },
+  {
+    "code": "M06",
+    "jpn": {
+      "airdate": "2003-07-19T00:00:00.000Z",
+      "title": "Wishing Star of the Seven Nights: Jirachi"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2004-06-01T00:00:00.000Z",
+      "title": "Jirachi: Wish Maker"
     }
   },
   {
