@@ -911,6 +911,7 @@
 | SS029 | Mega Evolution Special I                                                          | 2014-04-03 | 2014-05-31 |
 | XY022 | Going for the Gold!                                                               | 2014-04-10 | 2014-06-21 |
 | XY023 | Coming Back into the Cold!                                                        | 2014-04-17 | 2014-06-28 |
+| XY024 | An Undersea Place to Call Home!                                                   | 2014-11-20 | 2015-02-07 |
 | XY025 | Climbing the Walls!                                                               | 2014-04-24 | 2014-07-05 |
 | XY026 | A Battle by Any Other Name!                                                       | 2014-05-08 | 2014-07-12 |
 | XY027 | To Find a Fairy Flower!                                                           | 2014-05-15 | 2014-07-19 |
@@ -942,7 +943,6 @@
 | XY049 | Bonnie for the Defense!                                                           | 2014-10-30 | 2014-12-20 |
 | SS031 | Mega Evolution Special II                                                         | 2014-11-06 | 2015-02-07 |
 | XY050 | Pathways to Performance Partnering!                                               | 2014-11-13 | 2015-02-07 |
-| XY024 | An Undersea Place to Call Home!                                                   | 2014-11-20 | 2015-02-07 |
 | XY051 | When Light and Dark Collide!                                                      | 2014-11-27 | 2015-02-07 |
 | XY052 | A Stealthy Challenge!                                                             | 2014-12-11 | 2015-02-28 |
 | XY053 | A Race for Home!                                                                  | 2014-12-18 | 2015-03-07 |

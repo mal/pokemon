@@ -14289,6 +14289,22 @@
     }
   },
   {
+    "code": "XY024",
+    "jpn": {
+      "airdate": "2014-11-20T00:00:00.000Z",
+      "number": 24,
+      "series": "XY",
+      "title": "The Undersea Castle! Kuzumo and Dramidoro!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "2015-02-07T00:00:00.000Z",
+      "number": 24,
+      "season": 17,
+      "title": "An Undersea Place to Call Home!"
+    }
+  },
+  {
     "code": "XY025",
     "jpn": {
       "airdate": "2014-04-24T00:00:00.000Z",
@@ -14768,22 +14784,6 @@
       "number": 1,
       "season": 18,
       "title": "Pathways to Performance Partnering!"
-    }
-  },
-  {
-    "code": "XY024",
-    "jpn": {
-      "airdate": "2014-11-20T00:00:00.000Z",
-      "number": 24,
-      "series": "XY",
-      "title": "The Undersea Castle! Kuzumo and Dramidoro!!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "2015-02-07T00:00:00.000Z",
-      "number": 24,
-      "season": 17,
-      "title": "An Undersea Place to Call Home!"
     }
   },
   {
