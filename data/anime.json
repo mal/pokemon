@@ -1198,6 +1198,34 @@
     }
   },
   {
+    "code": "PK02",
+    "jpn": {
+      "airdate": "1998-12-22T00:00:00.000Z",
+      "series": "PK",
+      "title": "Let's Play on Christmas!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {
+      "airdate": "2006-11-25T00:00:00.000Z",
+      "season": 1,
+      "title": "Christmas Night"
+    }
+  },
+  {
+    "code": "PK03",
+    "jpn": {
+      "airdate": "1998-12-22T00:00:00.000Z",
+      "series": "PK",
+      "title": "Let's Play in the Snow!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {
+      "airdate": "2006-11-25T00:00:00.000Z",
+      "season": 1,
+      "title": "Kanga Games"
+    }
+  },
+  {
     "code": "EP072",
     "jpn": {
       "airdate": "1998-11-26T00:00:00.000Z",
@@ -1259,34 +1287,6 @@
       "number": 75,
       "season": 1,
       "title": "Round One - Begin!"
-    }
-  },
-  {
-    "code": "PK02",
-    "jpn": {
-      "airdate": "1998-12-22T00:00:00.000Z",
-      "series": "PK",
-      "title": "Let's Play on Christmas!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "airdate": "2006-11-25T00:00:00.000Z",
-      "season": 1,
-      "title": "Christmas Night"
-    }
-  },
-  {
-    "code": "PK03",
-    "jpn": {
-      "airdate": "1998-12-22T00:00:00.000Z",
-      "series": "PK",
-      "title": "Let's Play in the Snow!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "airdate": "2006-11-25T00:00:00.000Z",
-      "season": 1,
-      "title": "Kanga Games"
     }
   },
   {

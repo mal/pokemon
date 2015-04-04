@@ -76,12 +76,12 @@
 | EP069 | Lights, Camera, Quack-tion!                                                       | 1998-11-05 | 1999-10-08 |
 | EP070 | Go West Young Meowth                                                              | 1998-11-12 | 1999-10-09 |
 | EP071 | To Master the Onixpected!                                                         | 1998-11-19 | 1999-10-11 |
+| PK02  | Christmas Night                                                                   | 1998-12-22 | 2006-11-25 |
+| PK03  | Kanga Games                                                                       | 1998-12-22 | 2006-11-25 |
 | EP072 | The Ancient Puzzle of Pokémopolis                                                 | 1998-11-26 | 1999-10-14 |
 | EP073 | Bad to the Bone                                                                   | 1998-12-03 | 1999-10-16 |
 | EP074 | All Fired Up!                                                                     | 1998-12-10 | 1999-10-23 |
 | EP075 | Round One - Begin!                                                                | 1998-12-17 | 1999-10-30 |
-| PK02  | Christmas Night                                                                   | 1998-12-22 | 2006-11-25 |
-| PK03  | Kanga Games                                                                       | 1998-12-22 | 2006-11-25 |
 | EP076 | Fire and Ice                                                                      | 1998-12-24 | 1999-11-06 |
 | EP077 | The Fourth Round Rumble                                                           | 1999-01-01 | 1999-11-13 |
 | EP078 | A Friend In Deed                                                                  | 1999-01-07 | 1999-11-20 |
