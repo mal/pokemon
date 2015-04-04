@@ -884,32 +884,6 @@
     }
   },
   {
-    "code": "PK01",
-    "jpn": {
-      "airdate": "1998-07-18T00:00:00.000Z",
-      "series": "PK",
-      "title": "Pikachu's Summer Vacation"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "airdate": "1999-11-12T00:00:00.000Z",
-      "season": 1,
-      "title": "Pikachu's Vacation"
-    }
-  },
-  {
-    "code": "M01",
-    "jpn": {
-      "airdate": "1998-07-18T00:00:00.000Z",
-      "title": "Mewtwo's Counterattack"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "1999-11-12T00:00:00.000Z",
-      "title": "Pokémon the First Movie - Mewtwo Strikes Back"
-    }
-  },
-  {
     "code": "EP055",
     "jpn": {
       "airdate": "1998-07-23T00:00:00.000Z",
@@ -1099,6 +1073,32 @@
       "number": 65,
       "season": 1,
       "title": "Showdown at the Po-ké Corral"
+    }
+  },
+  {
+    "code": "PK01",
+    "jpn": {
+      "airdate": "1998-07-18T00:00:00.000Z",
+      "series": "PK",
+      "title": "Pikachu's Summer Vacation"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {
+      "airdate": "1999-11-12T00:00:00.000Z",
+      "season": 1,
+      "title": "Pikachu's Vacation"
+    }
+  },
+  {
+    "code": "M01",
+    "jpn": {
+      "airdate": "1998-07-18T00:00:00.000Z",
+      "title": "Mewtwo's Counterattack"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "1999-11-12T00:00:00.000Z",
+      "title": "Pokémon the First Movie - Mewtwo Strikes Back"
     }
   },
   {

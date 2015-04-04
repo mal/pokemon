@@ -56,8 +56,6 @@
 | EP050 | Who Gets to Keep Togepi?                                                          | 1998-06-25 | 1999-03-27 |
 | EP051 | Bulbasaur's Mysterious Garden                                                     | 1998-07-02 | 1999-04-03 |
 | EP054 | The Case of the K-9 Caper!                                                        | 1998-07-16 | 1999-04-10 |
-| PK01  | Pikachu's Vacation                                                                | 1998-07-18 | 1999-11-12 |
-| M01   | Pokémon the First Movie - Mewtwo Strikes Back                                     | 1998-07-18 | 1999-11-12 |
 | EP055 | Pokémon Paparazzi                                                                 | 1998-07-23 | 1999-04-17 |
 | EP056 | The Ultimate Test                                                                 | 1998-07-30 | 1999-04-24 |
 | EP057 | The Breeding Center Secret                                                        | 1998-08-06 | 1999-05-01 |
@@ -70,6 +68,8 @@
 | EP063 | The Battle of the Badge                                                           | 1998-09-17 | 1999-09-25 |
 | EP064 | It's Mr. Mime Time                                                                | 1998-09-24 | 1999-09-27 |
 | EP065 | Showdown at the Po-ké Corral                                                      | 1998-10-08 | 1999-09-30 |
+| PK01  | Pikachu's Vacation                                                                | 1998-07-18 | 1999-11-12 |
+| M01   | Pokémon the First Movie - Mewtwo Strikes Back                                     | 1998-07-18 | 1999-11-12 |
 | EP066 | The Evolution Solution                                                            | 1998-10-08 | 1999-09-30 |
 | EP067 | The Pi-Kahuna                                                                     | 1998-10-22 | 1999-10-02 |
 | EP068 | Make Room for Gloom                                                               | 1998-10-29 | 1999-10-04 |
