@@ -112,9 +112,9 @@
 | EP102 | The Mystery Menace                                                                | 1999-06-24 | 2000-05-06 |
 | EP103 | Misty Meets Her Match                                                             | 1999-07-01 | 2000-09-09 |
 | EP104 | Bound For Trouble                                                                 | 1999-07-15 | 2000-09-15 |
+| EP105 | Charizard Chills                                                                  | 1999-07-22 | 2000-09-02 |
 | PK04  | Pikachu's Rescue Adventure                                                        | 1999-07-17 | 2000-07-21 |
 | M02   | Pokémon the Movie 2000 - The Power of One                                         | 1999-07-17 | 2000-07-21 |
-| EP105 | Charizard Chills                                                                  | 1999-07-22 | 2000-09-02 |
 | EP106 | The Pokémon Water War                                                             | 1999-07-29 | 2000-08-26 |
 | EP107 | Pokémon Food Fight!                                                               | 1999-08-05 | 2000-08-19 |
 | EP108 | Pokémon Double Trouble                                                            | 1999-08-12 | 2000-09-09 |

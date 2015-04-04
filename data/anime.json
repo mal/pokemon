@@ -1766,6 +1766,22 @@
     }
   },
   {
+    "code": "EP105",
+    "jpn": {
+      "airdate": "1999-07-22T00:00:00.000Z",
+      "number": 105,
+      "series": "EP",
+      "title": "Lizardon! I Choose You!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "2000-09-02T00:00:00.000Z",
+      "number": 25,
+      "season": 2,
+      "title": "Charizard Chills"
+    }
+  },
+  {
     "code": "PK04",
     "jpn": {
       "airdate": "1999-07-17T00:00:00.000Z",
@@ -1789,22 +1805,6 @@
     "usa": {
       "airdate": "2000-07-21T00:00:00.000Z",
       "title": "Pokémon the Movie 2000 - The Power of One"
-    }
-  },
-  {
-    "code": "EP105",
-    "jpn": {
-      "airdate": "1999-07-22T00:00:00.000Z",
-      "number": 105,
-      "series": "EP",
-      "title": "Lizardon! I Choose You!!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "2000-09-02T00:00:00.000Z",
-      "number": 25,
-      "season": 2,
-      "title": "Charizard Chills"
     }
   },
   {
