@@ -39,6 +39,12 @@ and if available, a citation. Some common reasons for edits are:
     - Flashbacks to future episodes
     - Mentioning future events in the past tense
 
+The best place to open a discussion about a new or existing edit is [GitHub
+Issues][issues]. Please do a quick search of existing issues before creating
+a new one.
+
+[issues]: {{ site.github.issues_url }}
+
 ## Notes
 
 It's worth knowing that the movies in particular play it pretty loose with
