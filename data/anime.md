@@ -476,6 +476,7 @@
 | AG148 | A Chip Off the Old Brock                                                          | 2005-10-20 | 2006-09-16 |
 | AG149 | Wheel... of Frontier!                                                             | 2005-10-27 | 2006-09-16 |
 | AG150 | May's Egg-cellent Adventure!                                                      | 2005-11-03 | 2006-09-23 |
+| TV03  | The Mastermind of Mirage Pokémon                                                  | 2006-10-13 | 2006-04-29 |
 | AG151 | Weekend Warrior                                                                   | 2005-11-10 | 2006-09-23 |
 | AG152 | On Olden Pond                                                                     | 2005-11-17 | 2006-09-30 |
 | AG153 | Tactics Theatrics!                                                                | 2005-11-24 | 2006-09-30 |
@@ -526,7 +527,6 @@
 | DP002 | Two Degrees of Separation!                                                        | 2006-09-28 | 2007-04-20 |
 | DP003 | When Pokémon Worlds Collide!                                                      | 2006-09-28 | 2007-04-20 |
 | DP004 | Dawn Of A New Era!                                                                | 2006-10-05 | 2007-06-07 |
-| TV03  | The Mastermind of Mirage Pokémon                                                  | 2006-10-13 | 2006-04-29 |
 | DP005 | Gettin' Twiggy With It!                                                           | 2006-10-19 | 2007-06-11 |
 | DP006 | Different Strokes for Different Blokes!                                           | 2006-10-26 | 2007-06-12 |
 | DP007 | Like It or Lup It!                                                                | 2006-11-02 | 2007-06-13 |

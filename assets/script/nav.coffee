@@ -19,7 +19,7 @@ document.addEventListener 'DOMContentLoaded', ->
     text = ref.innerHTML
 
     waypoint = document.createElement 'a'
-    waypoint.id = text.toLowerCase().replace('\'', '').replace /[\W]+/g, '-'
+    waypoint.id = text.toLowerCase().replace('\'', '').replace /[^\wé]+/g, '-'
 
     location = ref.previousElementSibling
     if location.tagName isnt 'TIME'

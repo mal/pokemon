@@ -7381,6 +7381,18 @@
     }
   },
   {
+    "code": "TV03",
+    "jpn": {
+      "airdate": "2006-10-13T00:00:00.000Z",
+      "title": "The Terrifying Mirage Pokémon"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2006-04-29T00:00:00.000Z",
+      "title": "The Mastermind of Mirage Pokémon"
+    }
+  },
+  {
     "code": "AG151",
     "jpn": {
       "airdate": "2005-11-10T00:00:00.000Z",
@@ -8159,18 +8171,6 @@
       "number": 4,
       "season": 10,
       "title": "Dawn Of A New Era!"
-    }
-  },
-  {
-    "code": "TV03",
-    "jpn": {
-      "airdate": "2006-10-13T00:00:00.000Z",
-      "title": "The Terrifying Mirage Pokémon"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2006-04-29T00:00:00.000Z",
-      "title": "The Mastermind of Mirage Pokémon"
     }
   },
   {

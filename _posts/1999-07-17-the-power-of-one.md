@@ -20,7 +20,7 @@ Seemingly the best explanation available for this is simply that Tracey didn't
 get much chance to speak to Prof Oak immediately following the movie, and that
 his excitement is more about that than merely meeting the professor in person.
 
-Source: [GameFAQ Forums][source]
+Source: [GameFAQs Pokémon Message Board][source]
 
 [source]: http://www.gamefaqs.com/boards/217-pokemon/69236080?page=3#31
 [EP105]: http://bulbapedia.bulbagarden.net/wiki/EP105

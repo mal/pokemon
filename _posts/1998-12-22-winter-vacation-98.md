@@ -20,7 +20,7 @@ In the absense of a "better" or more concrete solution it makes sense to follow
 that line of reasoning. If you know of a better/more accurate one, please get
 in touch!
 
-Source: [GameFAQ Forums][source]
+Source: [GameFAQs Pokémon Message Board][source]
 
 [hiatus]: {{ site.baseurl }}{% post_url 1997-12-16-the-porygon-fiasco %}
 [source]: http://www.gamefaqs.com/boards/217-pokemon/69236080#1
