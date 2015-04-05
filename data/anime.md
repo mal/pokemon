@@ -504,13 +504,13 @@
 | AG175 | Going for Choke                                                                   | 2006-05-04 | 2006-11-30 |
 | AG176 | The Ole' Berate and Switch                                                        | 2006-05-11 | 2006-12-04 |
 | AG177 | Grating Spaces                                                                    | 2006-05-18 | 2006-12-05 |
-| PK16  | Pikachu's Ocean Adventure                                                         | 2006-05-20 | 2008-07-01 |
 | AG178 | Battling the Enemy Within                                                         | 2006-05-25 | 2006-12-06 |
 | UN10  | [JPN] Get Together! Pokémon Planet Center                                         | 2006-06-03 |  _Unaired_ |
 | AG179 | Slaking Kong                                                                      | 2006-06-08 | 2006-12-07 |
 | AG180 | May, We Harley Drew'd Ya!                                                         | 2006-06-15 | 2006-12-11 |
 | AG181 | Thinning the Hoard                                                                | 2006-06-22 | 2006-12-12 |
 | AG182 | Channeling the Battle Zone                                                        | 2006-06-29 | 2006-12-13 |
+| PK16  | Pikachu's Ocean Adventure                                                         | 2006-05-20 | 2008-07-01 |
 | AG183 | Aipom & Circumstance                                                              | 2006-07-06 | 2006-12-14 |
 | M09   | Pokémon Ranger and the Temple of the Sea                                          | 2006-07-15 | 2007-03-23 |
 | AG184 | Strategy Tomorrow - Comedy Tonight!                                               | 2006-07-20 | 2007-01-06 |

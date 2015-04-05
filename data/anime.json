@@ -7825,18 +7825,6 @@
     }
   },
   {
-    "code": "PK16",
-    "jpn": {
-      "airdate": "2006-05-20T00:00:00.000Z",
-      "title": "Pokémon 3D Adventure 2: Pikachu's Big Undersea Adventure"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "airdate": "2008-07-01T00:00:00.000Z",
-      "title": "Pikachu's Ocean Adventure"
-    }
-  },
-  {
     "code": "AG178",
     "jpn": {
       "airdate": "2006-05-25T00:00:00.000Z",
@@ -7923,6 +7911,18 @@
       "number": 37,
       "season": 9,
       "title": "Channeling the Battle Zone"
+    }
+  },
+  {
+    "code": "PK16",
+    "jpn": {
+      "airdate": "2006-05-20T00:00:00.000Z",
+      "title": "Pokémon 3D Adventure 2: Pikachu's Big Undersea Adventure"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {
+      "airdate": "2008-07-01T00:00:00.000Z",
+      "title": "Pikachu's Ocean Adventure"
     }
   },
   {
