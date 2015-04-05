@@ -7,21 +7,29 @@ document.addEventListener 'DOMContentLoaded', ->
 
   list = document.createElement 'ul'
 
-  item = (el) ->
+  append = (el) ->
     li = document.createElement 'li'
     li.appendChild el
-    li
+    list.appendChild li
 
   [ref...].forEach (ref) ->
-    return list.appendChild item document.createElement 'hr' if ref.tagName is 'HR'
+    if ref.tagName is 'HR'
+      return append document.createElement 'hr'
 
     text = ref.innerHTML
-    ref.id = text.toLowerCase().replace('\'', '').replace /[\W]+/g, '-'
+
+    waypoint = document.createElement 'a'
+    waypoint.id = text.toLowerCase().replace('\'', '').replace /[\W]+/g, '-'
+
+    location = ref.previousElementSibling
+    if location.tagName isnt 'TIME'
+      location = ref
+    ref.parentNode.insertBefore waypoint, location
 
     link = document.createElement 'a'
-    link.href = "##{ref.id}"
+    link.href = "##{waypoint.id}"
     link.innerHTML = text
 
-    list.appendChild item link
+    append link
 
   nav.insertBefore list, nav.firstChild

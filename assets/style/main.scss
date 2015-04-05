@@ -17,16 +17,17 @@ $content-width: 650px;
   box-sizing: border-box;
 }
 
-*[id]:before {
+a {
+  text-decoration: none;
+}
+
+a[id] {
   content: ' ';
   display: block;
   height: $header-offset - 15px;
   margin-top: -$header-offset + 15px;
+  position: absolute;
   visibility: hidden;
-}
-
-a {
-  text-decoration: none;
 }
 
 body {
