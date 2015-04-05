@@ -605,13 +605,10 @@
     "code": "UN01",
     "jpn": {
       "airdate": "1998-04-11T00:00:00.000Z",
-      "series": null,
       "title": "Anime: Pocket Monsters Problem Inspection Report"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "UN02",
@@ -1079,13 +1076,11 @@
     "code": "PK01",
     "jpn": {
       "airdate": "1998-07-18T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Summer Vacation"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "1999-11-12T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu's Vacation"
     }
   },
@@ -1213,13 +1208,11 @@
     "code": "PK02",
     "jpn": {
       "airdate": "1998-12-22T00:00:00.000Z",
-      "series": "PK",
       "title": "Let's Play on Christmas!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2006-11-25T00:00:00.000Z",
-      "season": 1,
       "title": "Christmas Night"
     }
   },
@@ -1227,13 +1220,11 @@
     "code": "PK03",
     "jpn": {
       "airdate": "1998-12-22T00:00:00.000Z",
-      "series": "PK",
       "title": "Let's Play in the Snow!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2006-11-25T00:00:00.000Z",
-      "season": 1,
       "title": "Kanga Games"
     }
   },
@@ -1785,13 +1776,11 @@
     "code": "PK04",
     "jpn": {
       "airdate": "1999-07-17T00:00:00.000Z",
-      "series": "PK",
       "title": "The Pikachu Expedition"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2000-07-21T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu's Rescue Adventure"
     }
   },
@@ -2147,12 +2136,10 @@
     "code": "PK05",
     "jpn": {
       "airdate": "1999-12-22T00:00:00.000Z",
-      "series": "PK",
       "title": "Let's Play in the Ice"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
-      "season": 1,
       "title": "Winter Games"
     }
   },
@@ -2160,12 +2147,10 @@
     "code": "PK06",
     "jpn": {
       "airdate": "1999-12-22T00:00:00.000Z",
-      "series": "PK",
       "title": "Christmas Night"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
-      "season": 1,
       "title": "Stantler's Little Helpers"
     }
   },
@@ -2205,13 +2190,10 @@
     "code": "UN05",
     "jpn": {
       "airdate": "2000-01-01T00:00:00.000Z",
-      "series": "XY",
       "title": "Yadoking's Day"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "EP129",
@@ -2649,13 +2631,11 @@
     "code": "PK07",
     "jpn": {
       "airdate": "2000-07-08T00:00:00.000Z",
-      "series": "PK",
       "title": "Pichu and Pikachu"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2001-04-06T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu & Pichu"
     }
   },
@@ -3043,13 +3023,11 @@
     "code": "PK08",
     "jpn": {
       "airdate": "2000-12-22T00:00:00.000Z",
-      "series": "PK",
       "title": "Delibird's Present"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2006-06-17T00:00:00.000Z",
-      "season": 1,
       "title": "Delibird's Dilemma"
     }
   },
@@ -3057,13 +3035,11 @@
     "code": "PK09",
     "jpn": {
       "airdate": "2000-12-22T00:00:00.000Z",
-      "series": "PK",
       "title": "White Story"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2006-06-17T00:00:00.000Z",
-      "season": 1,
       "title": "Snorlax Snowman"
     }
   },
@@ -3071,13 +3047,11 @@
     "code": "UN06",
     "jpn": {
       "airdate": "2000-12-22T00:00:00.000Z",
-      "series": null,
       "title": "We are the Pichu Brothers - Balloon disturbance"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-10-14T00:00:00.000Z",
-      "season": 1,
       "title": "Trouble in Big Town"
     }
   },
@@ -3529,13 +3503,11 @@
     "code": "PK10",
     "jpn": {
       "airdate": "2001-07-07T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Exciting Hide-and-seek"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2003-03-18T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu's PikaBoo"
     }
   },
@@ -4380,13 +4352,11 @@
     "code": "PK11",
     "jpn": {
       "airdate": "2002-07-13T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikapika Starry Sky Camp"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2004-01-20T00:00:00.000Z",
-      "season": 1,
       "title": "Camp Pikachu"
     }
   },
@@ -4726,13 +4696,11 @@
     "code": "SS001",
     "jpn": {
       "airdate": "2002-12-03T00:00:00.000Z",
-      "series": "SS",
       "title": "Takeshi! Save Nibi Gym!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-06-24T00:00:00.000Z",
-      "season": 1,
       "title": "A Family That Battles Together Stays Together!"
     }
   },
@@ -4756,13 +4724,11 @@
     "code": "SS002",
     "jpn": {
       "airdate": "2002-12-10T00:00:00.000Z",
-      "series": "SS",
       "title": "Revenge Match at Hanada Gym"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-06-24T00:00:00.000Z",
-      "season": 1,
       "title": "Cerulean Blues"
     }
   },
@@ -4786,13 +4752,11 @@
     "code": "SS003",
     "jpn": {
       "airdate": "2002-12-17T00:00:00.000Z",
-      "series": "SS",
       "title": "Persevere! Look Ahead Rocket-dan"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-07-01T00:00:00.000Z",
-      "season": 1,
       "title": "We're No Angels"
     }
   },
@@ -4848,13 +4812,11 @@
     "code": "SS004",
     "jpn": {
       "airdate": "2003-01-14T00:00:00.000Z",
-      "series": "SS",
       "title": "Huge Battle at Okido Residence!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-07-08T00:00:00.000Z",
-      "season": 1,
       "title": "Showdown at the Oak Corral"
     }
   },
@@ -4958,13 +4920,11 @@
     "code": "SS005",
     "jpn": {
       "airdate": "2003-02-25T00:00:00.000Z",
-      "series": "SS",
       "title": "Kasumi! Get the Blue Badge!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-07-22T00:00:00.000Z",
-      "season": 1,
       "title": "The Blue Badge of Courage"
     }
   },
@@ -4988,13 +4948,11 @@
     "code": "SS006",
     "jpn": {
       "airdate": "2003-03-04T00:00:00.000Z",
-      "series": "SS",
       "title": "Millennium Town Meetup"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-10-07T00:00:00.000Z",
-      "season": 1,
       "title": "Of Meowth and Pokémon (Part 1)"
     }
   },
@@ -5002,13 +4960,11 @@
     "code": "SS007",
     "jpn": {
       "airdate": "2003-03-04T00:00:00.000Z",
-      "series": "SS",
       "title": "Nyarth with a Part-Time Job?"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-10-07T00:00:00.000Z",
-      "season": 1,
       "title": "Of Meowth and Pokémon (Part 2)"
     }
   },
@@ -5096,13 +5052,11 @@
     "code": "SS008",
     "jpn": {
       "airdate": "2003-04-08T00:00:00.000Z",
-      "series": "SS",
       "title": "A Pokémon Dragnet! Search for Dr. Okido!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-07-29T00:00:00.000Z",
-      "season": 1,
       "title": "Oaknapped"
     }
   },
@@ -5270,13 +5224,11 @@
     "code": "SS009",
     "jpn": {
       "airdate": "2003-06-17T00:00:00.000Z",
-      "series": "SS",
       "title": "Calling on Mysterious Detective Nyarth!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-10-21T00:00:00.000Z",
-      "season": 1,
       "title": "Big Meowth, Little Dreams (Part 1)"
     }
   },
@@ -5284,13 +5236,11 @@
     "code": "SS010",
     "jpn": {
       "airdate": "2003-06-17T00:00:00.000Z",
-      "series": "SS",
       "title": "Ruriri the Niece is a Great Nuisance?"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-10-21T00:00:00.000Z",
-      "season": 1,
       "title": "Big Meowth, Little Dreams (Part 2)"
     }
   },
@@ -5378,13 +5328,11 @@
     "code": "UN07",
     "jpn": {
       "airdate": "2003-07-18T00:00:00.000Z",
-      "series": "PK",
       "title": "Pichu Bros. Wild Adventure"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
     "usa": {
       "airdate": "2003-12-01T00:00:00.000Z",
-      "season": 1,
       "title": "Pichu Bros. in Party Panic"
     }
   },
@@ -5424,13 +5372,11 @@
     "code": "PK12",
     "jpn": {
       "airdate": "2003-07-19T00:00:00.000Z",
-      "series": "PK",
       "title": "Secret Base of the Dancing Pokémon"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2004-06-01T00:00:00.000Z",
-      "season": 1,
       "title": "Gotta Dance!!"
     }
   },
@@ -5514,13 +5460,11 @@
     "code": "SS011",
     "jpn": {
       "airdate": "2003-09-02T00:00:00.000Z",
-      "series": "SS",
       "title": "Kasumi's Earnest Struggle! She's Risking her Life!?"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-08-05T00:00:00.000Z",
-      "season": 1,
       "title": "A Date with Delcatty"
     }
   },
@@ -5592,13 +5536,11 @@
     "code": "SS012",
     "jpn": {
       "airdate": "2003-09-30T00:00:00.000Z",
-      "series": "SS",
       "title": "Rocket-dan: Origin of Love and Youth"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-08-19T00:00:00.000Z",
-      "season": 1,
       "title": "Training Daze"
     }
   },
@@ -5622,13 +5564,11 @@
     "code": "SS013",
     "jpn": {
       "airdate": "2003-10-07T00:00:00.000Z",
-      "series": "SS",
       "title": "Yet Another Legend of Celebi"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-08-12T00:00:00.000Z",
-      "season": 1,
       "title": "Celebi and Joy"
     }
   },
@@ -5652,13 +5592,11 @@
     "code": "SS014",
     "jpn": {
       "airdate": "2003-10-14T00:00:00.000Z",
-      "series": "SS",
       "title": "Masara Town, Pokémon Trainer's Journey Begins"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-08-26T00:00:00.000Z",
-      "season": 1,
       "title": "Journey to the Starting Line"
     }
   },
@@ -6002,13 +5940,11 @@
     "code": "SS015",
     "jpn": {
       "airdate": "2004-03-16T00:00:00.000Z",
-      "series": "SS",
       "title": "Pokémon Researcher Shigeru and Revival of Ptera"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-02T00:00:00.000Z",
-      "season": 1,
       "title": "Putting the Air Back in Aerodactyl"
     }
   },
@@ -6192,13 +6128,10 @@
     "code": "UN08",
     "jpn": {
       "airdate": "2004-05-29T00:00:00.000Z",
-      "series": "PK",
       "title": "Challenge from the Sky"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "AG079",
@@ -6360,13 +6293,10 @@
     "code": "PK13",
     "jpn": {
       "airdate": "2004-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Summer Festival"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "AG088",
@@ -6468,13 +6398,11 @@
     "code": "SS016",
     "jpn": {
       "airdate": "2004-09-14T00:00:00.000Z",
-      "series": "SS",
       "title": "Kasumi and Lovecus! Love Battle"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-23T00:00:00.000Z",
-      "season": 1,
       "title": "Luvdisc is a Many Splendored Thing"
     }
   },
@@ -6498,13 +6426,11 @@
     "code": "SS017",
     "jpn": {
       "airdate": "2004-09-21T00:00:00.000Z",
-      "series": "SS",
       "title": "Nanako and Lizardon! Super Hard Training of Flame!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-23T00:00:00.000Z",
-      "season": 1,
       "title": "Those Darn Electabuzz!"
     }
   },
@@ -6528,13 +6454,11 @@
     "code": "SS018",
     "jpn": {
       "airdate": "2004-09-28T00:00:00.000Z",
-      "series": "SS",
       "title": "The Heavenly Legend, Hiroshi and Fire!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-30T00:00:00.000Z",
-      "season": 1,
       "title": "The Search for the Legend"
     }
   },
@@ -6937,13 +6861,10 @@
     "code": "PK14",
     "jpn": {
       "airdate": "2005-03-18T00:00:00.000Z",
-      "series": "PK",
       "title": "Pokémon 3D Adventure: Find Mew!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "AG120",
@@ -7230,13 +7151,10 @@
     "code": "PK15",
     "jpn": {
       "airdate": "2005-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Ghost Carnival"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "AG137",
@@ -7898,13 +7816,11 @@
     "code": "PK16",
     "jpn": {
       "airdate": "2006-05-20T00:00:00.000Z",
-      "series": "PK",
       "title": "Pokémon 3D Adventure 2: Pikachu's Big Undersea Adventure"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2008-07-01T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu's Ocean Adventure"
     }
   },
@@ -7928,13 +7844,10 @@
     "code": "UN10",
     "jpn": {
       "airdate": "2006-06-03T00:00:00.000Z",
-      "series": "PK",
       "title": "Get Together! Pokémon Planet Center"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "AG179",
@@ -8064,13 +7977,11 @@
     "code": "PK17",
     "jpn": {
       "airdate": "2006-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Naughty Island"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2007-04-03T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu's Island Adventure"
     }
   },
@@ -8570,13 +8481,11 @@
     "code": "SS019",
     "jpn": {
       "airdate": "2007-03-23T00:00:00.000Z",
-      "series": "SS",
       "title": "Pokémon Mystery Dungeon: Setting Out: Pokémon Rescue Team Ganbarus!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-08T00:00:00.000Z",
-      "season": 1,
       "title": "Pokémon Mystery Dungeon: Team Go-Getters out of the Gate!"
     }
   },
@@ -8884,13 +8793,10 @@
     "code": "PK18",
     "jpn": {
       "airdate": "2007-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Exploration Club"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "DP042",
@@ -8960,13 +8866,11 @@
     "code": "SS020",
     "jpn": {
       "airdate": "2007-09-09T00:00:00.000Z",
-      "series": "SS",
       "title": "Pokémon Mystery Dungeon: Time Expedition and Darkness Expedition"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2008-09-01T00:00:00.000Z",
-      "season": 1,
       "title": "Pokémon Mystery Dungeon: Explorers of Time & Darkness"
     }
   },
@@ -9547,13 +9451,10 @@
     "code": "UN11",
     "jpn": {
       "airdate": "2008-05-31T00:00:00.000Z",
-      "series": "PK",
       "title": "Get Together! Pokémon Star Festival"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "DP082",
@@ -9667,13 +9568,10 @@
     "code": "PK19",
     "jpn": {
       "airdate": "2008-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Ice Adventure"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "DP088",
@@ -10236,13 +10134,11 @@
     "code": "SS021",
     "jpn": {
       "airdate": "2009-04-12T00:00:00.000Z",
-      "series": "SS",
       "title": "Pokémon Mystery Dungeon: Sky Expedition"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2009-10-09T00:00:00.000Z",
-      "season": 1,
       "title": "Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness"
     }
   },
@@ -10486,13 +10382,10 @@
     "code": "PK20",
     "jpn": {
       "airdate": "2009-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Big Sparking Search"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "DP137",
@@ -10962,13 +10855,11 @@
     "code": "SS022",
     "jpn": {
       "airdate": "2010-02-28T00:00:00.000Z",
-      "series": "SS",
       "title": "Pokémon Ranger: Traces of Light"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2010-11-10T00:00:00.000Z",
-      "season": 1,
       "title": "Pokémon Ranger: Guardian Signs (Part One)"
     }
   },
@@ -10992,13 +10883,11 @@
     "code": "SS023",
     "jpn": {
       "airdate": "2010-03-07T00:00:00.000Z",
-      "series": "SS",
       "title": "Pokémon Ranger: Traces of Light (Part Two)"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2010-11-10T00:00:00.000Z",
-      "season": 1,
       "title": "Pokémon Ranger: Guardian Signs (Part Two)"
     }
   },
@@ -11322,13 +11211,10 @@
     "code": "PK21",
     "jpn": {
       "airdate": "2010-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Big Mysterious Adventure"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "DP186",
@@ -11718,25 +11604,19 @@
     "code": "SS024",
     "jpn": {
       "airdate": "2011-02-03T00:00:00.000Z",
-      "series": "SS",
       "title": "Hikari - Setting off on a New Journey!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "SS025",
     "jpn": {
       "airdate": "2011-02-03T00:00:00.000Z",
-      "series": "SS",
       "title": "Nibi Gym - The Greatest Crisis Ever!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "BW019",
@@ -12036,13 +11916,10 @@
     "code": "UN14",
     "jpn": {
       "airdate": "2011-06-11T00:00:00.000Z",
-      "series": "PK",
       "title": "Celestial Globe of Light and Shadow"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "BW036",
@@ -12152,13 +12029,10 @@
     "code": "PK22",
     "jpn": {
       "airdate": "2011-08-01T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu's Summer Bridge Story"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "BW041",
@@ -12900,13 +12774,10 @@
     "code": "PK23",
     "jpn": {
       "airdate": "2012-07-03T00:00:00.000Z",
-      "series": "PK",
       "title": "Sing Meloetta: Search for the Rinka Berries"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "BW087",
@@ -12928,13 +12799,11 @@
     "code": "PK24",
     "jpn": {
       "airdate": "2012-07-14T00:00:00.000Z",
-      "series": "PK",
       "title": "Meloetta's Dazzling Recital"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2013-02-15T00:00:00.000Z",
-      "season": 1,
       "title": "Meloetta's Moonlight Serenade"
     }
   },
@@ -13690,13 +13559,11 @@
     "code": "SS026",
     "jpn": {
       "airdate": "2013-07-11T00:00:00.000Z",
-      "series": "SS",
       "title": "Mewtwo: The Prologue to its Awakening"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2014-01-11T00:00:00.000Z",
-      "season": 1,
       "title": "Mewtwo — Prologue to Awakening"
     }
   },
@@ -13704,13 +13571,11 @@
     "code": "PK25",
     "jpn": {
       "airdate": "2013-07-13T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu and Eievui Friends"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2013-12-06T00:00:00.000Z",
-      "season": 1,
       "title": "Eevee & Friends"
     }
   },
@@ -13886,13 +13751,10 @@
     "code": "SS027",
     "jpn": {
       "airdate": "2013-10-03T00:00:00.000Z",
-      "series": "SS",
       "title": "Dent and Takeshi! Gyarados's Imperial Rage!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "XY001",
@@ -14234,25 +14096,20 @@
     "code": "SS028",
     "jpn": {
       "airdate": "2014-03-27T00:00:00.000Z",
-      "series": "SS",
       "title": "Iris vs Ibuki! The Road to Become a Dragon Master!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "SS029",
     "jpn": {
       "airdate": "2014-04-03T00:00:00.000Z",
-      "series": "SS",
       "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act I~'"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2014-05-31T00:00:00.000Z",
-      "season": 1,
       "title": "Mega Evolution Special I"
     }
   },
@@ -14484,25 +14341,20 @@
     "code": "UN15",
     "jpn": {
       "airdate": "2014-07-12T00:00:00.000Z",
-      "series": "PK",
       "title": "Celestial Debris"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "SS030",
     "jpn": {
       "airdate": "2014-07-17T00:00:00.000Z",
-      "series": "SS",
       "title": "Diancie, Princess of the Ore Country"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2014-11-06T00:00:00.000Z",
-      "season": 1,
       "title": "Diancie, Princess of the Diamond Domain"
     }
   },
@@ -14510,13 +14362,11 @@
     "code": "PK26",
     "jpn": {
       "airdate": "2014-07-19T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu, What's This Key For?"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {
       "airdate": "2015-02-02T00:00:00.000Z",
-      "season": 1,
       "title": "Pikachu, What's This Key?"
     }
   },
@@ -14760,13 +14610,11 @@
     "code": "SS031",
     "jpn": {
       "airdate": "2014-11-06T00:00:00.000Z",
-      "series": "SS",
       "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act II~'"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2015-02-07T00:00:00.000Z",
-      "season": 1,
       "title": "Mega Evolution Special II"
     }
   },
@@ -15011,13 +14859,10 @@
     "code": "SS032",
     "jpn": {
       "airdate": "2015-03-19T00:00:00.000Z",
-      "series": "SS",
       "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act III~'"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "XY065",
@@ -15127,13 +14972,10 @@
     "code": "PK27",
     "jpn": {
       "airdate": "2015-07-18T00:00:00.000Z",
-      "series": "PK",
       "title": "Pikachu and the Pokémon Band"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   },
   {
     "code": "M18",
@@ -15147,12 +14989,9 @@
   {
     "code": "SS033",
     "jpn": {
-      "series": "SS",
       "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
+    "usa": {}
   }
 ]
