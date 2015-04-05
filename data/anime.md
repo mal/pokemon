@@ -947,11 +947,10 @@
 | XY052 | A Stealthy Challenge!                                                             | 2014-12-11 | 2015-02-28 |
 | XY053 | A Race for Home!                                                                  | 2014-12-18 | 2015-03-07 |
 | XY054 | Facing the Grand Design!                                                          | 2014-12-25 | 2015-03-14 |
-| SS033 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'  | 2015-01-01 |  _Unaired_ |
 | XY055 | A Slippery Encounter!                                                             | 2015-01-08 | 2015-03-21 |
 | XY056 | One for the Goomy!                                                                | 2015-01-15 | 2015-03-28 |
 | XY057 | Thawing an Icy Panic!                                                             | 2015-01-22 | 2015-04-04 |
-| XY058 | Green, Green Grass Types of Home!                                                 | 2015-01-29 | 2015-04-11 |
+| XY058 | The Green, Green Grass Types of Home!                                             | 2015-01-29 | 2015-04-11 |
 | XY059 | Under the Pledging Tree!                                                          | 2015-02-05 | 2015-04-18 |
 | XY060 | Showcase, Debut!                                                                  | 2015-02-12 | 2015-04-25 |
 | XY061 | An Oasis of Hope!                                                                 | 2015-02-19 | 2015-05-02 |
@@ -969,3 +968,4 @@
 | XY072 | [JPN] Hospitality of the Scary House!                                             | 2015-05-14 |  _Unaired_ |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                                | 2015-07-18 |  _Unaired_ |
 | M18   | [JPN] The Archdjinni of the Rings: Hoopa                                          | 2015-07-18 |  _Unaired_ |
+| SS033 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'  |  _Unaired_ |  _Unaired_ |

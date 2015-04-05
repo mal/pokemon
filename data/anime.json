@@ -14851,18 +14851,6 @@
     }
   },
   {
-    "code": "SS033",
-    "jpn": {
-      "airdate": "2015-01-01T00:00:00.000Z",
-      "series": "SS",
-      "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "season": 1
-    }
-  },
-  {
     "code": "XY055",
     "jpn": {
       "airdate": "2015-01-08T00:00:00.000Z",
@@ -14923,7 +14911,7 @@
       "airdate": "2015-04-11T00:00:00.000Z",
       "number": 9,
       "season": 18,
-      "title": "Green, Green Grass Types of Home!"
+      "title": "The Green, Green Grass Types of Home!"
     }
   },
   {
@@ -15155,5 +15143,16 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {}
+  },
+  {
+    "code": "SS033",
+    "jpn": {
+      "series": "SS",
+      "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {
+      "season": 1
+    }
   }
 ]
