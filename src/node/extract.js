@@ -2,7 +2,9 @@ var Node = require('./util/node');
 
 function clean(ep) {
     ep.each(function (a) {
-        delete a.number, a.season, a.series;
+        delete a.number;
+        delete a.season;
+        delete a.series;
     });
 }
 
