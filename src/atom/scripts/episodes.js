@@ -1,11 +1,15 @@
 +function () {
     var rows = Array.prototype.slice.call(document.querySelectorAll('table.roundy tr'));
+
     var eps = [];
+    var guess = /^\w+ \d{4}$/;
 
     function airdate(e) {
       var str = string(e);
       if (str === 'Unaired')
         return;
+      if (str === 'No airdate has been announced' || guess.test(str))
+        return null;
       try {
         return new Date(str + ' UTC').toISOString().substr(0, 10);
       } catch (e) {}

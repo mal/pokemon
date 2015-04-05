@@ -34,7 +34,8 @@ function polyfill() {
 function score() {
     let last = 0, index = {};
     return function (ep) {
-        last = ep.jpn.airdate ? ep.jpn.airdate.getTime() : last;
+        if (ep.score)
+            last = ep.score;
         ep.score = last in index ? index[last] += 10 : index[last] = last;
         return ep;
     };

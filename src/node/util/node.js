@@ -1,13 +1,18 @@
 "use strict";
 
 let codes = ['jpn', 'usa'];
+let future = new Date('9999').getTime();
 
 function Node(data) {
     data.code = data.code === '*' ? null : data.code;
+
+    let time = new Date(data.jpn.airdate).getTime();
+    this.score = time === 0 ? future : time ? time : false;
+
     this.data = data;
     this.each(function (a) {
         a.airdate = new Date(a.airdate);
-        if (isNaN(a.airdate))
+        if (!+a.airdate)
             delete a.airdate;
     });
 }
