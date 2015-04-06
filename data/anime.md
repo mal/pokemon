@@ -713,12 +713,12 @@
 | DP176 | Coming Full Festival Circle!                                                      | 2010-05-13 | 2010-10-02 |
 | DP177 | A Grand Fight for Winning!                                                        | 2010-05-20 | 2010-10-09 |
 | DP178 | For The Love Of Meowth!                                                           | 2010-05-27 | 2010-10-23 |
+| M13   | Zoroark: Master of Illusions                                                      | 2010-07-10 | 2011-02-05 |
 | DP179 | The Eighth Wonder of the Sinnoh World!                                            | 2010-06-03 | 2010-10-30 |
 | DP180 | Four Roads Diverged in a Pokémon Port!                                            | 2010-06-10 | 2010-11-06 |
 | DP181 | Bucking the Treasure Trend!                                                       | 2010-06-17 | 2010-11-13 |
 | DP182 | An Old Family Blend!                                                              | 2010-06-24 | 2010-11-20 |
 | DP183 | League Unleashed!                                                                 | 2010-07-01 | 2010-11-27 |
-| M13   | Zoroark: Master of Illusions                                                      | 2010-07-10 | 2011-02-05 |
 | DP184 | Casting a Paul on Barry!                                                          | 2010-07-15 | 2010-12-04 |
 | DP185 | Working on a Right Move!                                                          | 2010-07-22 | 2010-12-11 |
 | PK21  | [JPN] Pikachu's Big Mysterious Adventure                                          | 2010-08-01 |  _Unaired_ |

@@ -11084,6 +11084,18 @@
     }
   },
   {
+    "code": "M13",
+    "jpn": {
+      "airdate": "2010-07-10T00:00:00.000Z",
+      "title": "Ruler of Illusions: Zoroark"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2011-02-05T00:00:00.000Z",
+      "title": "Zoroark: Master of Illusions"
+    }
+  },
+  {
     "code": "DP179",
     "jpn": {
       "airdate": "2010-06-03T00:00:00.000Z",
@@ -11161,18 +11173,6 @@
       "number": 26,
       "season": 13,
       "title": "League Unleashed!"
-    }
-  },
-  {
-    "code": "M13",
-    "jpn": {
-      "airdate": "2010-07-10T00:00:00.000Z",
-      "title": "Ruler of Illusions: Zoroark"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2011-02-05T00:00:00.000Z",
-      "title": "Zoroark: Master of Illusions"
     }
   },
   {
