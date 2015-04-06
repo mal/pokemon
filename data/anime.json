@@ -11144,6 +11144,15 @@
     }
   },
   {
+    "code": "PK21",
+    "jpn": {
+      "airdate": "2010-08-01T00:00:00.000Z",
+      "title": "Pikachu's Big Mysterious Adventure"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {}
+  },
+  {
     "code": "DP182",
     "jpn": {
       "airdate": "2010-06-24T00:00:00.000Z",
@@ -11206,15 +11215,6 @@
       "season": 13,
       "title": "Working on a Right Move!"
     }
-  },
-  {
-    "code": "PK21",
-    "jpn": {
-      "airdate": "2010-08-01T00:00:00.000Z",
-      "title": "Pikachu's Big Mysterious Adventure"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {}
   },
   {
     "code": "DP186",

@@ -717,11 +717,11 @@
 | DP179 | The Eighth Wonder of the Sinnoh World!                                            | 2010-06-03 | 2010-10-30 |
 | DP180 | Four Roads Diverged in a Pokémon Port!                                            | 2010-06-10 | 2010-11-06 |
 | DP181 | Bucking the Treasure Trend!                                                       | 2010-06-17 | 2010-11-13 |
+| PK21  | [JPN] Pikachu's Big Mysterious Adventure                                          | 2010-08-01 |  _Unaired_ |
 | DP182 | An Old Family Blend!                                                              | 2010-06-24 | 2010-11-20 |
 | DP183 | League Unleashed!                                                                 | 2010-07-01 | 2010-11-27 |
 | DP184 | Casting a Paul on Barry!                                                          | 2010-07-15 | 2010-12-04 |
 | DP185 | Working on a Right Move!                                                          | 2010-07-22 | 2010-12-11 |
-| PK21  | [JPN] Pikachu's Big Mysterious Adventure                                          | 2010-08-01 |  _Unaired_ |
 | DP186 | Familiarity Breeds Strategy!                                                      | 2010-08-05 | 2010-12-18 |
 | DP187 | A Real Rival Rouser!                                                              | 2010-08-12 | 2011-01-08 |
 | DP188 | Battling a Thaw in Relations!                                                     | 2010-08-19 | 2011-01-15 |
