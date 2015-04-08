@@ -770,10 +770,10 @@
 | UN14  | [JPN] Celestial Globe of Light and Shadow                                         | 2011-06-11 |  _Unaired_ |
 | BW036 | Archeops In The Modern World!                                                     | 2011-06-16 | 2011-10-08 |
 | BW037 | A Fishing Connoisseur in a Fishy Competition!                                     | 2011-06-23 | 2011-10-15 |
-| BW038 | Movie Time! Zorua in "The Legend of the Pokémon Knight"!                          | 2011-06-30 | 2011-10-22 |
-| BW039 | Reunion Battles In Nimbasa!                                                       | 2011-07-07 | 2011-10-29 |
 | M14   | White—Victini and Zekrom                                                          | 2011-07-16 | 2011-12-03 |
 | M14b  | Black—Victini and Reshiram                                                        | 2011-07-16 | 2011-12-10 |
+| BW038 | Movie Time! Zorua in "The Legend of the Pokémon Knight"!                          | 2011-06-30 | 2011-10-22 |
+| BW039 | Reunion Battles In Nimbasa!                                                       | 2011-07-07 | 2011-10-29 |
 | BW040 | Cilan Versus Trip, Ash Versus Georgia!                                            | 2011-07-21 | 2011-11-05 |
 | PK22  | [JPN] Pikachu's Summer Bridge Story                                               | 2011-08-01 |  _Unaired_ |
 | BW041 | The Club Battle Hearts of Fury: Emolga Versus Sawk!                               | 2011-08-04 | 2011-11-12 |

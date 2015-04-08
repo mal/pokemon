@@ -11954,6 +11954,30 @@
     }
   },
   {
+    "code": "M14",
+    "jpn": {
+      "airdate": "2011-07-16T00:00:00.000Z",
+      "title": "Victini and the Black Hero: Zekrom"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2011-12-03T00:00:00.000Z",
+      "title": "White—Victini and Zekrom"
+    }
+  },
+  {
+    "code": "M14b",
+    "jpn": {
+      "airdate": "2011-07-16T00:00:00.000Z",
+      "title": "Victini and the White Hero: Reshiram"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2011-12-10T00:00:00.000Z",
+      "title": "Black—Victini and Reshiram"
+    }
+  },
+  {
     "code": "BW038",
     "jpn": {
       "airdate": "2011-06-30T00:00:00.000Z",
@@ -11983,30 +12007,6 @@
       "number": 39,
       "season": 14,
       "title": "Reunion Battles In Nimbasa!"
-    }
-  },
-  {
-    "code": "M14",
-    "jpn": {
-      "airdate": "2011-07-16T00:00:00.000Z",
-      "title": "Victini and the Black Hero: Zekrom"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2011-12-03T00:00:00.000Z",
-      "title": "White—Victini and Zekrom"
-    }
-  },
-  {
-    "code": "M14b",
-    "jpn": {
-      "airdate": "2011-07-16T00:00:00.000Z",
-      "title": "Victini and the White Hero: Reshiram"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2011-12-10T00:00:00.000Z",
-      "title": "Black—Victini and Reshiram"
     }
   },
   {
