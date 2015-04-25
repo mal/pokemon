@@ -816,6 +816,7 @@
 | BW078 | Guarding the Guardian of the Mountain!                                            | 2012-05-10 | 2012-09-08 |
 | BW079 | Caution: Icy Battle Conditions!                                                   | 2012-05-17 | 2012-09-15 |
 | BW080 | Clash of the Connoisseurs!                                                        | 2012-05-24 | 2012-09-22 |
+| M15   | Kyurem VS. The Sword of Justice                                                   | 2012-07-14 | 2012-12-08 |
 | BW081 | Crisis at Ferroseed Research!                                                     | 2012-05-31 | 2012-09-29 |
 | BW082 | An Epic Defense Force!                                                            | 2012-06-07 | 2012-10-06 |
 | BW083 | Rocking The Virbank Gym! Part 1                                                   | 2012-06-14 | 2012-10-13 |
@@ -825,7 +826,6 @@
 | PK23  | [JPN] Sing Meloetta: Search for the Rinka Berries                                 | 2012-07-03 |  _Unaired_ |
 | BW087 | Expedition to Onix Island!                                                        | 2012-07-05 | 2012-11-10 |
 | PK24  | Meloetta's Moonlight Serenade                                                     | 2012-07-14 | 2013-02-15 |
-| M15   | Kyurem VS. The Sword of Justice                                                   | 2012-07-14 | 2012-12-08 |
 | BW088 | The Mystery of the Missing Cubchoo!                                               | 2012-07-19 | 2012-11-17 |
 | BW089 | Iris and the Rogue Dragonite!                                                     | 2012-07-26 | 2012-11-24 |
 | BW090 | Jostling for the Junior Cup!                                                      | 2012-08-02 | 2012-12-01 |
