@@ -345,8 +345,6 @@
 | UN07  | Pichu Bros. in Party Panic                                                        | 2003-07-18 | 2003-12-01 |
 | AG035 | Win, Lose or Drew!                                                                | 2003-07-24 | 2004-05-29 |
 | AG036 | The Spheal of Approval                                                            | 2003-07-31 | 2004-05-29 |
-| PK12  | Gotta Dance!!                                                                     | 2003-07-19 | 2004-06-01 |
-| M06   | Jirachi: Wish Maker                                                               | 2003-07-19 | 2004-06-01 |
 | AG037 | Jump for Joy                                                                      | 2003-08-07 | 2004-08-27 |
 | AG038 | A Different Kind of Misty!                                                        | 2003-08-14 | 2004-08-27 |
 | AG039 | A Poké-BLOCK Party!                                                               | 2003-08-21 | 2004-09-04 |
@@ -360,6 +358,8 @@
 | AG045 | A Togepi Mirage!                                                                  | 2003-10-02 | 2004-10-02 |
 | SS013 | Celebi and Joy                                                                    | 2003-10-07 | 2006-08-12 |
 | AG046 | Candid Camerupt!                                                                  | 2003-10-09 | 2004-10-09 |
+| PK12  | Gotta Dance!!                                                                     | 2003-07-19 | 2004-06-01 |
+| M06   | Jirachi: Wish Maker                                                               | 2003-07-19 | 2004-06-01 |
 | SS014 | Journey to the Starting Line                                                      | 2003-10-14 | 2006-08-26 |
 | AG047 | I Feel Skitty!                                                                    | 2003-10-16 | 2004-10-23 |
 | AG048 | Zig Zag Zangoose                                                                  | 2003-10-23 | 2004-10-23 |

@@ -5369,30 +5369,6 @@
     }
   },
   {
-    "code": "PK12",
-    "jpn": {
-      "airdate": "2003-07-19T00:00:00.000Z",
-      "title": "Secret Base of the Dancing Pokémon"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {
-      "airdate": "2004-06-01T00:00:00.000Z",
-      "title": "Gotta Dance!!"
-    }
-  },
-  {
-    "code": "M06",
-    "jpn": {
-      "airdate": "2003-07-19T00:00:00.000Z",
-      "title": "Wishing Star of the Seven Nights: Jirachi"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2004-06-01T00:00:00.000Z",
-      "title": "Jirachi: Wish Maker"
-    }
-  },
-  {
     "code": "AG037",
     "jpn": {
       "airdate": "2003-08-07T00:00:00.000Z",
@@ -5586,6 +5562,30 @@
       "number": 319,
       "season": 1,
       "title": "Candid Camerupt!"
+    }
+  },
+  {
+    "code": "PK12",
+    "jpn": {
+      "airdate": "2003-07-19T00:00:00.000Z",
+      "title": "Secret Base of the Dancing Pokémon"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {
+      "airdate": "2004-06-01T00:00:00.000Z",
+      "title": "Gotta Dance!!"
+    }
+  },
+  {
+    "code": "M06",
+    "jpn": {
+      "airdate": "2003-07-19T00:00:00.000Z",
+      "title": "Wishing Star of the Seven Nights: Jirachi"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2004-06-01T00:00:00.000Z",
+      "title": "Jirachi: Wish Maker"
     }
   },
   {
