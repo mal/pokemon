@@ -402,10 +402,10 @@
 | AG083 | Unfair-Weather Friends                                                            | 2004-07-01 | 2005-06-18 |
 | AG084 | Who's Flying Now?                                                                 | 2004-07-08 | 2005-06-25 |
 | AG085 | Sky High Gym Battle!                                                              | 2004-07-15 | 2005-07-09 |
-| M07   | Destiny Deoxys                                                                    | 2004-07-17 | 2005-01-22 |
 | AG086 | Lights, Camerupt, Action!                                                         | 2004-07-22 | 2005-07-16 |
 | AG087 | Crazy as a Lunatone                                                               | 2004-07-29 | 2005-08-20 |
 | PK13  | [JPN] Pikachu's Summer Festival                                                   | 2004-08-01 |  _Unaired_ |
+| M07   | Destiny Deoxys                                                                    | 2004-07-17 | 2005-01-22 |
 | AG088 | The Garden of Eatin'                                                              | 2004-08-05 | 2005-08-27 |
 | AG089 | A Scare to Remember                                                               | 2004-08-12 | 2005-09-03 |
 | AG090 | Pokéblock, Stock and Berry                                                        | 2004-08-19 | 2005-09-03 |

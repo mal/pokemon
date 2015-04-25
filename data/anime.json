@@ -6246,18 +6246,6 @@
     }
   },
   {
-    "code": "M07",
-    "jpn": {
-      "airdate": "2004-07-17T00:00:00.000Z",
-      "title": "Sky-Splitting Visitor: Deoxys"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2005-01-22T00:00:00.000Z",
-      "title": "Destiny Deoxys"
-    }
-  },
-  {
     "code": "AG086",
     "jpn": {
       "airdate": "2004-07-22T00:00:00.000Z",
@@ -6297,6 +6285,18 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
     "usa": {}
+  },
+  {
+    "code": "M07",
+    "jpn": {
+      "airdate": "2004-07-17T00:00:00.000Z",
+      "title": "Sky-Splitting Visitor: Deoxys"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2005-01-22T00:00:00.000Z",
+      "title": "Destiny Deoxys"
+    }
   },
   {
     "code": "AG088",
