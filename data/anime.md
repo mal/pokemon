@@ -288,7 +288,7 @@
 | EP262 | You're a Star, Larvitar!                                                          | 2002-08-22 | 2003-09-06 |
 | EP263 | Address Unown!                                                                    | 2002-08-29 | 2003-09-13 |
 | EP264 | Mother of All Battles                                                             | 2002-09-05 | 2003-09-15 |
-| EP265 | Pop Goes the Sneasel                                                              | 2002-09-12 | 2003-09-16 |
+| EP265 | Pop Goes The Sneasel                                                              | 2002-09-12 | 2003-09-16 |
 | EP266 | A Claim to Flame!                                                                 | 2002-09-19 | 2003-09-17 |
 | EP267 | Love, Pokémon Style                                                               | 2002-09-26 | 2003-09-18 |
 | EP268 | Tie One On!                                                                       | 2002-10-03 | 2003-09-19 |
@@ -952,7 +952,7 @@
 | XY057 | Thawing an Icy Panic!                                                             | 2015-01-22 | 2015-04-04 |
 | XY058 | The Green, Green Grass Types of Home!                                             | 2015-01-29 | 2015-04-11 |
 | XY059 | Under the Pledging Tree!                                                          | 2015-02-05 | 2015-04-18 |
-| XY060 | Showcase, Debut!                                                                  | 2015-02-12 | 2015-04-25 |
+| XY060 | A Showcase Debut!                                                                 | 2015-02-12 | 2015-04-25 |
 | XY061 | An Oasis of Hope!                                                                 | 2015-02-19 | 2015-05-02 |
 | XY062 | The Future Is Now, Thanks to Determination!                                       | 2015-02-26 | 2015-05-09 |
 | XY063 | A Fork in the Road! A Parting of the Ways!                                        | 2015-03-05 | 2015-05-16 |
@@ -966,6 +966,8 @@
 | XY070 | [JPN] Conclusion! Numelgon, Go Over the Rainbow!!                                 | 2015-04-30 |  _Unaired_ |
 | XY071 | [JPN] The Worst Luck? Eureka VS Nyarth!!                                          | 2015-05-07 |  _Unaired_ |
 | XY072 | [JPN] Hospitality of the Scary House!                                             | 2015-05-14 |  _Unaired_ |
+| XY073 | [JPN] Battle at the Fashion Show! Tatsubay VS Shushupu!!                          | 2015-05-21 |  _Unaired_ |
+| XY074 | [JPN] Kunoe Gym Battle! The Beautiful Fairy Trap!!                                | 2015-05-28 |  _Unaired_ |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                                | 2015-07-18 |  _Unaired_ |
-| M18   | [JPN] The Archdjinni of the Rings: Hoopa                                          | 2015-07-18 |  _Unaired_ |
+| M18   | Hoopa and the Clash of Ages                                                       | 2015-07-18 |  _Unaired_ |
 | SS033 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'  |  _Unaired_ |  _Unaired_ |

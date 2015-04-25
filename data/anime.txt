@@ -286,7 +286,7 @@ Here's Lookin' at You, Elekid
 You're a Star, Larvitar!
 Address Unown!
 Mother of All Battles
-Pop Goes the Sneasel
+Pop Goes The Sneasel
 A Claim to Flame!
 Love, Pokémon Style
 Tie One On!
@@ -950,7 +950,7 @@ One for the Goomy!
 Thawing an Icy Panic!
 The Green, Green Grass Types of Home!
 Under the Pledging Tree!
-Showcase, Debut!
+A Showcase Debut!
 An Oasis of Hope!
 The Future Is Now, Thanks to Determination!
 A Fork in the Road! A Parting of the Ways!
@@ -964,6 +964,8 @@ A Fork in the Road! A Parting of the Ways!
 [JPN] Conclusion! Numelgon, Go Over the Rainbow!!
 [JPN] The Worst Luck? Eureka VS Nyarth!!
 [JPN] Hospitality of the Scary House!
+[JPN] Battle at the Fashion Show! Tatsubay VS Shushupu!!
+[JPN] Kunoe Gym Battle! The Beautiful Fairy Trap!!
 [JPN] Pikachu and the Pokémon Band
-[JPN] The Archdjinni of the Rings: Hoopa
+Hoopa and the Clash of Ages
 [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'
