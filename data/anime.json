@@ -11954,6 +11954,15 @@
     }
   },
   {
+    "code": "PK22",
+    "jpn": {
+      "airdate": "2011-08-01T00:00:00.000Z",
+      "title": "Pikachu's Summer Bridge Story"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
+    "usa": {}
+  },
+  {
     "code": "M14",
     "jpn": {
       "airdate": "2011-07-16T00:00:00.000Z",
@@ -12024,15 +12033,6 @@
       "season": 1,
       "title": "Cilan Versus Trip, Ash Versus Georgia!"
     }
-  },
-  {
-    "code": "PK22",
-    "jpn": {
-      "airdate": "2011-08-01T00:00:00.000Z",
-      "title": "Pikachu's Summer Bridge Story"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_shorts",
-    "usa": {}
   },
   {
     "code": "BW041",
