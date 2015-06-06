@@ -8,7 +8,7 @@
       var str = string(e);
       if (str === 'Unaired')
         return;
-      if (str === 'No airdate has been announced' || guess.test(str))
+      if (str === 'No airdatehas been announced' || guess.test(str))
         return null;
       try {
         return new Date(str + ' UTC').toISOString().substr(0, 10);
