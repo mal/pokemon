@@ -46,6 +46,6 @@ tmp:
 	mkdir $@
 
 tmp/raw.json: node_modules tmp
-	xvfb-run atom-shell src/atom/index.js $@
+	DISPLAY=:0 atom-shell src/atom/index.js $@
 	
 .PHONY: clean force reset
