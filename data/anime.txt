@@ -35,7 +35,7 @@ The Kangaskhan Kid
 [JPN] The Legend of Miniryu
 The Bridge Bike Gang
 Ditto's Mysterious Mansion
-[JPN] Electric Soldier Porygon
+[JPN] Computer Warrior Porygon
 [JPN] Anime: Pocket Monsters Problem Inspection Report
 Holiday Hi-Jynx
 Snow Way Out!
@@ -296,7 +296,7 @@ Playing with Fire!
 Johto Photo Finish
 Gotta Catch Ya Later!
 Hoenn Alone!
-Get the Show on the Road
+Get the Show on the Road!
 A Ruin with a View
 A Family That Battles Together Stays Together!
 There's no Place Like Hoenn
@@ -330,27 +330,27 @@ Gone Corphishin'
 A Corphish Out of Water
 A Mudkip Mission
 Turning Over a Nuzleaf
-A Three Team Scheme
-Seeing is Believing
-Ready, Willing and Sableye
+A Three Team Scheme!
+Seeing is Believing!
+Ready, Willing, and Sableye
 Big Meowth, Little Dreams (Part 1)
 Big Meowth, Little Dreams (Part 2)
-A Meditite Fight
+A Meditite Fight!
 Just One of the Geysers
 Abandon Ship!
-Now that's Flower Power!
+Now That's Flower Power!
 Having a Wailord of a Time
 Pichu Bros. in Party Panic
 Win, Lose or Drew!
 The Spheal of Approval
-Jump for Joy
+Jump for Joy!
 A Different Kind of Misty!
 A Poké-BLOCK Party!
-Watt's with Wattson
+Watt's with Wattson?
 A Date with Delcatty
 What You Seed is What You Get
 Love at First Flight
-Let Bagons be Bagons
+Let Bagons Be Bagons
 The Princess and the Togepi
 Training Daze
 A Togepi Mirage!
@@ -360,13 +360,13 @@ Gotta Dance!!
 Jirachi: Wish Maker
 Journey to the Starting Line
 I Feel Skitty!
-Zig Zag Zangoose
+ZigZag Zangoose!
 Maxxed Out!
 Pros and Con Artists
 Come What May!
 Cheer Pressure
 Game Winning Assist
-Fight for the Meteorite
+Fight for the Meteorite!
 Poetry Commotion!
 Going, Going, Yawn
 Going for a Spinda
@@ -378,7 +378,7 @@ Disguise Da Limit
 Take the Lombre Home
 True Blue Swablu
 Gulpin it Down
-Exploud and Clear
+Exploud and Clear!
 Go Go Ludicolo!
 Putting the Air Back in Aerodactyl
 A Double Dilemma
@@ -387,17 +387,17 @@ Balance of Power
 A Six Pack Attack!
 The Bicker the Better
 Grass Hysteria!
-Hokey Poké Balls
+Hokey Poké Balls!
 Whiscash and Ash
 Me, Myself and Time
 A Fan with a Plan
 Cruisin' for a Losin'
 [JPN] Challenge from the Sky
-Pearls are a Spoink's Best Friend!
+Pearls are a Spoink's Best Friend
 That's Just Swellow
 Take This House and Shuppet
 A Shroomish Skirmish
-Unfair-Weather Friends
+Unfair Weather Friends
 Who's Flying Now?
 Sky High Gym Battle!
 Lights, Camerupt, Action!
@@ -405,8 +405,8 @@ Crazy as a Lunatone
 [JPN] Pikachu's Summer Festival
 Destiny Deoxys
 The Garden of Eatin'
-A Scare to Remember
-Pokéblock, Stock and Berry
+A Scare to Remember!
+Pokéblock, Stock, and Berry
 Lessons in Lilycove
 Judgment Day!
 Clamperl of Wisdom
@@ -428,18 +428,18 @@ Claydol Big and Tall
 Once in a Mawile
 Beg, Burrow and Steal
 Absol-ute Disaster
-Let it Snow, Let it Snow, Let it Snorunt
+Let it Snow, Let it Snow, Let it Snorunt!
 Do I Hear a Ralts?
 The Great Eight Fate!
 Eight Ain't Enough
-Showdown at Linoone
+Showdown At Linoone
 Who, What, When, Where, Wynaut?
-Date Expectations!
+Date Expectations
 Mean With Envy
 Pacifidlog Jam
 Berry, Berry Interesting
 Less is Morrison
-The Ribbon Cup Caper!
+The Ribbon Cup Caper
 [JPN] Pokémon 3D Adventure: Find Mew!
 [JPN] Satoshi and Haruka! Heated Battles of Hōen!!
 Hi Ho Silver Wind!
@@ -464,62 +464,62 @@ Hooked on Onix
 Rough, Tough Jigglypuff
 On Cloud Arcanine
 Sitting Psyduck
-Hail to the Chef
+Hail to the Chef!
 Caterpie's Big Dilemma
 The Saffron Con
 A Hurdle for Squirtle
-Pasta La Vista
+Pasta La Vista!
 Fear Factor Phony
 Sweet Baby James
 A Chip Off the Old Brock
-Wheel... of Frontier!
-May's Egg-cellent Adventure!
+Wheel of Frontier
+May's Egg-Cellent Adventure
 The Mastermind of Mirage Pokémon
 Weekend Warrior
 On Olden Pond
-Tactics Theatrics!
+Tactics Theatrics!!
 Reversing the Charges
 The Green Guardian
 From Cradle to Save
 Time-Warp Heals All Wounds
-Queen of the Serpentine
+Queen of the Serpentine!
 Off the Unbeaten Path
 Harley Rides Again
-Odd Pokémon Out
-Spontaneous Combusken
-Cutting the Ties that Bind
+Odd Pokémon Out!
+Spontaneous Combusken!
+Cutting the Ties that Bind!
 Ka Boom with a View!
-King and Queen for a Day
-Curbing the Crimson Tide
-What I Did for Love
-Three Jynx and a Baby
-Talking a Good Game
-Second Time's the Charm
+King and Queen for a Day!
+Curbing the Crimson Tide!
+What I Did for Love!
+Three Jynx and a Baby!
+Talking a Good Game!
+Second Time's the Charm!
 Pokémon Ranger - Deoxys Crisis! (Part 1)
 Pokémon Ranger - Deoxys Crisis! (Part 2)
-All That Glitters is Not Golden
-New Plot - Odd Lot
-Going for Choke
-The Ole' Berate and Switch
-Grating Spaces
-Battling the Enemy Within
+All That Glitters is Not Golden!
+New Plot, Odd Lot!
+Going for Choke!
+The Ole' Berate and Switch!
+Grating Spaces!
+Battling the Enemy Within!
 [JPN] Get Together! Pokémon Planet Center
-Slaking Kong
+Slaking Kong!
 May, We Harley Drew'd Ya!
-Thinning the Hoard
-Channeling the Battle Zone
+Thinning the Hoard!
+Channeling the Battle Zone!
 Pikachu's Ocean Adventure
-Aipom & Circumstance
+Aipom and Circumstance!
 Pokémon Ranger and the Temple of the Sea
 Strategy Tomorrow - Comedy Tonight!
-Duels of the Jungle
+Duels of the Jungle!
 Pikachu's Island Adventure
 Overjoyed!
-The Unbeatable Lightness of Seeing
-Pinch Healing
-Gathering the Gang of Four
-Pace - The Final Frontier
-Once More with Reeling
+The Unbeatable Lightness of Seeing!
+Pinch Healing!
+Gathering the Gang of Four!
+Pace - The Final Frontier!
+Once More With Reeling!
 Home is Where the Start Is!
 Following a Maiden's Voyage!
 Two Degrees of Separation!
@@ -742,7 +742,7 @@ Minccino—Neat and Tidy!
 A Night in the Nacrene City Museum!
 The Battle According to Lenora!
 Rematch at the Nacrene Gym!
-Scraggy—Hatched to Be Wild!
+Scraggy—Hatched to be Wild!
 Sewaddle and Burgh in Pinwheel Forest!
 [JPN] Hikari - Setting off on a New Journey!
 [JPN] Nibi Gym - The Greatest Crisis Ever!
@@ -954,18 +954,23 @@ A Showcase Debut!
 An Oasis of Hope!
 The Future Is Now, Thanks to Determination!
 A Fork in the Road! A Parting of the Ways!
-[JPN] Fokko VS Mahoxy! A Splendid Performance Battle!!
+Battling with Elegance and a Big Smile!
 [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act III~'
-[JPN] Kameil and Raichu Appear! Good Luck Numeil!!
-[JPN] The Miare City Investigation! Citroid VS Black Citroid!!
-[JPN] Miare Gym Battle! Satoshi VS Citron!!
-[JPN] The Coveted Mega Evolution! Gaburias's Bonds!!
-[JPN] Battle in the Wetlands! Numelgon VS Florges!!
+Good Friends, Great Training!
+Confronting the Darkness!
+Moment of Lumiose Truth!
+Garchomp's Mega Bond!
+Defending the Homeland!
 [JPN] Conclusion! Numelgon, Go Over the Rainbow!!
 [JPN] The Worst Luck? Eureka VS Nyarth!!
-[JPN] Hospitality of the Scary House!
+[JPN] The Scary House's Welcoming Services!
 [JPN] Battle at the Fashion Show! Tatsubay VS Shushupu!!
 [JPN] Kunoe Gym Battle! The Beautiful Fairy Trap!!
+[JPN] Three-Match Rival Battle! Towards the Future!!
+[JPN] The Wind, the Egg and Onbat!
+[JPN] The Pokémon Sky Relay Challenge! Fly, Onbat!!
+[JPN] Fierce Battle in the Monster Ball Factory! Pikachu VS Nyarth!!
+[JPN] Tairenar and Yancham!! A Captivating Fiery Performance!!
 [JPN] Pikachu and the Pokémon Band
 Hoopa and the Clash of Ages
 [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'

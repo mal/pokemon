@@ -37,7 +37,7 @@
 | EP035 | [JPN] The Legend of Miniryu                                                       | 1997-11-25 |  _Unaired_ |
 | EP036 | The Bridge Bike Gang                                                              | 1997-12-02 | 1998-10-23 |
 | EP037 | Ditto's Mysterious Mansion                                                        | 1997-12-09 | 1998-10-26 |
-| EP038 | [JPN] Electric Soldier Porygon                                                    | 1997-12-16 |  _Unaired_ |
+| EP038 | [JPN] Computer Warrior Porygon                                                    | 1997-12-16 |  _Unaired_ |
 | UN01  | [JPN] Anime: Pocket Monsters Problem Inspection Report                            | 1998-04-11 |  _Unaired_ |
 | UN02  | Holiday Hi-Jynx                                                                   | 1998-10-05 | 1999-12-11 |
 | UN03  | Snow Way Out!                                                                     | 1998-10-05 | 1999-12-18 |
@@ -298,7 +298,7 @@
 | EP272 | Johto Photo Finish                                                                | 2002-10-31 | 2003-10-11 |
 | EP273 | Gotta Catch Ya Later!                                                             | 2002-11-07 | 2003-10-18 |
 | EP274 | Hoenn Alone!                                                                      | 2002-11-14 | 2003-10-25 |
-| AG001 | Get the Show on the Road                                                          | 2002-11-21 | 2003-03-15 |
+| AG001 | Get the Show on the Road!                                                         | 2002-11-21 | 2003-03-15 |
 | AG002 | A Ruin with a View                                                                | 2002-11-28 | 2003-03-15 |
 | SS001 | A Family That Battles Together Stays Together!                                    | 2002-12-03 | 2006-06-24 |
 | AG003 | There's no Place Like Hoenn                                                       | 2002-12-05 | 2003-11-15 |
@@ -332,27 +332,27 @@
 | AG024 | A Corphish Out of Water                                                           | 2003-05-08 | 2004-02-28 |
 | AG025 | A Mudkip Mission                                                                  | 2003-05-15 | 2004-03-13 |
 | AG026 | Turning Over a Nuzleaf                                                            | 2003-05-22 | 2004-04-03 |
-| AG027 | A Three Team Scheme                                                               | 2003-05-29 | 2004-04-17 |
-| AG028 | Seeing is Believing                                                               | 2003-06-05 | 2004-04-24 |
-| AG029 | Ready, Willing and Sableye                                                        | 2003-06-12 | 2004-05-01 |
+| AG027 | A Three Team Scheme!                                                              | 2003-05-29 | 2004-04-17 |
+| AG028 | Seeing is Believing!                                                              | 2003-06-05 | 2004-04-24 |
+| AG029 | Ready, Willing, and Sableye                                                       | 2003-06-12 | 2004-05-01 |
 | SS009 | Big Meowth, Little Dreams (Part 1)                                                | 2003-06-17 | 2006-10-21 |
 | SS010 | Big Meowth, Little Dreams (Part 2)                                                | 2003-06-17 | 2006-10-21 |
-| AG030 | A Meditite Fight                                                                  | 2003-06-19 | 2004-05-08 |
+| AG030 | A Meditite Fight!                                                                 | 2003-06-19 | 2004-05-08 |
 | AG031 | Just One of the Geysers                                                           | 2003-06-26 | 2004-05-15 |
 | AG032 | Abandon Ship!                                                                     | 2003-07-03 | 2004-05-15 |
-| AG033 | Now that's Flower Power!                                                          | 2003-07-10 | 2004-05-22 |
+| AG033 | Now That's Flower Power!                                                          | 2003-07-10 | 2004-05-22 |
 | AG034 | Having a Wailord of a Time                                                        | 2003-07-17 | 2004-05-22 |
 | UN07  | Pichu Bros. in Party Panic                                                        | 2003-07-18 | 2003-12-01 |
 | AG035 | Win, Lose or Drew!                                                                | 2003-07-24 | 2004-05-29 |
 | AG036 | The Spheal of Approval                                                            | 2003-07-31 | 2004-05-29 |
-| AG037 | Jump for Joy                                                                      | 2003-08-07 | 2004-08-27 |
+| AG037 | Jump for Joy!                                                                     | 2003-08-07 | 2004-08-27 |
 | AG038 | A Different Kind of Misty!                                                        | 2003-08-14 | 2004-08-27 |
 | AG039 | A Poké-BLOCK Party!                                                               | 2003-08-21 | 2004-09-04 |
-| AG040 | Watt's with Wattson                                                               | 2003-08-28 | 2004-09-04 |
+| AG040 | Watt's with Wattson?                                                              | 2003-08-28 | 2004-09-04 |
 | SS011 | A Date with Delcatty                                                              | 2003-09-02 | 2006-08-05 |
 | AG041 | What You Seed is What You Get                                                     | 2003-09-04 | 2004-09-11 |
 | AG042 | Love at First Flight                                                              | 2003-09-11 | 2004-10-16 |
-| AG043 | Let Bagons be Bagons                                                              | 2003-09-18 | 2004-09-18 |
+| AG043 | Let Bagons Be Bagons                                                              | 2003-09-18 | 2004-09-18 |
 | AG044 | The Princess and the Togepi                                                       | 2003-09-25 | 2004-09-25 |
 | SS012 | Training Daze                                                                     | 2003-09-30 | 2006-08-19 |
 | AG045 | A Togepi Mirage!                                                                  | 2003-10-02 | 2004-10-02 |
@@ -362,13 +362,13 @@
 | M06   | Jirachi: Wish Maker                                                               | 2003-07-19 | 2004-06-01 |
 | SS014 | Journey to the Starting Line                                                      | 2003-10-14 | 2006-08-26 |
 | AG047 | I Feel Skitty!                                                                    | 2003-10-16 | 2004-10-23 |
-| AG048 | Zig Zag Zangoose                                                                  | 2003-10-23 | 2004-10-23 |
+| AG048 | ZigZag Zangoose!                                                                  | 2003-10-23 | 2004-10-23 |
 | AG049 | Maxxed Out!                                                                       | 2003-10-30 | 2004-10-30 |
 | AG050 | Pros and Con Artists                                                              | 2003-11-06 | 2004-10-30 |
 | AG051 | Come What May!                                                                    | 2003-11-13 | 2004-11-06 |
 | AG052 | Cheer Pressure                                                                    | 2003-11-20 | 2004-11-06 |
 | AG053 | Game Winning Assist                                                               | 2003-11-27 | 2004-11-13 |
-| AG054 | Fight for the Meteorite                                                           | 2003-12-04 | 2004-11-13 |
+| AG054 | Fight for the Meteorite!                                                          | 2003-12-04 | 2004-11-13 |
 | AG055 | Poetry Commotion!                                                                 | 2003-12-11 | 2004-11-20 |
 | AG056 | Going, Going, Yawn                                                                | 2003-12-18 | 2004-11-20 |
 | AG057 | Going for a Spinda                                                                | 2003-12-25 | 2004-11-27 |
@@ -380,7 +380,7 @@
 | AG063 | Take the Lombre Home                                                              | 2004-02-12 | 2005-01-29 |
 | AG064 | True Blue Swablu                                                                  | 2004-02-19 | 2005-02-05 |
 | AG065 | Gulpin it Down                                                                    | 2004-02-26 | 2005-02-12 |
-| AG066 | Exploud and Clear                                                                 | 2004-03-04 | 2005-02-19 |
+| AG066 | Exploud and Clear!                                                                | 2004-03-04 | 2005-02-19 |
 | AG067 | Go Go Ludicolo!                                                                   | 2004-03-11 | 2005-02-26 |
 | SS015 | Putting the Air Back in Aerodactyl                                                | 2004-03-16 | 2006-09-02 |
 | AG068 | A Double Dilemma                                                                  | 2004-03-18 | 2005-03-05 |
@@ -389,17 +389,17 @@
 | AG071 | A Six Pack Attack!                                                                | 2004-04-08 | 2005-03-26 |
 | AG072 | The Bicker the Better                                                             | 2004-04-15 | 2005-04-02 |
 | AG073 | Grass Hysteria!                                                                   | 2004-04-22 | 2005-04-09 |
-| AG074 | Hokey Poké Balls                                                                  | 2004-04-29 | 2005-04-16 |
+| AG074 | Hokey Poké Balls!                                                                 | 2004-04-29 | 2005-04-16 |
 | AG075 | Whiscash and Ash                                                                  | 2004-05-06 | 2005-04-23 |
 | AG076 | Me, Myself and Time                                                               | 2004-05-13 | 2005-04-30 |
 | AG077 | A Fan with a Plan                                                                 | 2004-05-20 | 2005-05-07 |
 | AG078 | Cruisin' for a Losin'                                                             | 2004-05-27 | 2005-05-14 |
 | UN08  | [JPN] Challenge from the Sky                                                      | 2004-05-29 |  _Unaired_ |
-| AG079 | Pearls are a Spoink's Best Friend!                                                | 2004-06-03 | 2005-05-21 |
+| AG079 | Pearls are a Spoink's Best Friend                                                 | 2004-06-03 | 2005-05-21 |
 | AG080 | That's Just Swellow                                                               | 2004-06-10 | 2005-05-28 |
 | AG081 | Take This House and Shuppet                                                       | 2004-06-17 | 2005-06-04 |
 | AG082 | A Shroomish Skirmish                                                              | 2004-06-24 | 2005-06-11 |
-| AG083 | Unfair-Weather Friends                                                            | 2004-07-01 | 2005-06-18 |
+| AG083 | Unfair Weather Friends                                                            | 2004-07-01 | 2005-06-18 |
 | AG084 | Who's Flying Now?                                                                 | 2004-07-08 | 2005-06-25 |
 | AG085 | Sky High Gym Battle!                                                              | 2004-07-15 | 2005-07-09 |
 | AG086 | Lights, Camerupt, Action!                                                         | 2004-07-22 | 2005-07-16 |
@@ -407,8 +407,8 @@
 | PK13  | [JPN] Pikachu's Summer Festival                                                   | 2004-08-01 |  _Unaired_ |
 | M07   | Destiny Deoxys                                                                    | 2004-07-17 | 2005-01-22 |
 | AG088 | The Garden of Eatin'                                                              | 2004-08-05 | 2005-08-27 |
-| AG089 | A Scare to Remember                                                               | 2004-08-12 | 2005-09-03 |
-| AG090 | Pokéblock, Stock and Berry                                                        | 2004-08-19 | 2005-09-03 |
+| AG089 | A Scare to Remember!                                                              | 2004-08-12 | 2005-09-03 |
+| AG090 | Pokéblock, Stock, and Berry                                                       | 2004-08-19 | 2005-09-03 |
 | AG091 | Lessons in Lilycove                                                               | 2004-08-26 | 2005-09-10 |
 | AG092 | Judgment Day!                                                                     | 2004-09-02 | 2005-09-10 |
 | AG093 | Clamperl of Wisdom                                                                | 2004-09-09 | 2005-09-17 |
@@ -430,18 +430,18 @@
 | AG105 | Once in a Mawile                                                                  | 2004-12-02 | 2005-12-10 |
 | AG106 | Beg, Burrow and Steal                                                             | 2004-12-09 | 2005-12-17 |
 | AG107 | Absol-ute Disaster                                                                | 2004-12-16 | 2006-01-07 |
-| AG108 | Let it Snow, Let it Snow, Let it Snorunt                                          | 2004-12-23 | 2006-01-14 |
+| AG108 | Let it Snow, Let it Snow, Let it Snorunt!                                         | 2004-12-23 | 2006-01-14 |
 | AG109 | Do I Hear a Ralts?                                                                | 2005-01-06 | 2006-01-21 |
 | AG110 | The Great Eight Fate!                                                             | 2005-01-13 | 2006-01-28 |
 | AG111 | Eight Ain't Enough                                                                | 2005-01-20 | 2006-01-28 |
-| AG112 | Showdown at Linoone                                                               | 2005-01-27 | 2006-02-04 |
+| AG112 | Showdown At Linoone                                                               | 2005-01-27 | 2006-02-04 |
 | AG113 | Who, What, When, Where, Wynaut?                                                   | 2005-02-03 | 2006-02-04 |
-| AG114 | Date Expectations!                                                                | 2005-02-10 | 2006-04-01 |
+| AG114 | Date Expectations                                                                 | 2005-02-10 | 2006-04-01 |
 | AG115 | Mean With Envy                                                                    | 2005-02-17 | 2006-04-01 |
 | AG116 | Pacifidlog Jam                                                                    | 2005-02-24 | 2006-04-08 |
 | AG117 | Berry, Berry Interesting                                                          | 2005-03-03 | 2006-02-11 |
 | AG118 | Less is Morrison                                                                  | 2005-03-10 | 2006-02-11 |
-| AG119 | The Ribbon Cup Caper!                                                             | 2005-03-17 | 2006-02-18 |
+| AG119 | The Ribbon Cup Caper                                                              | 2005-03-17 | 2006-02-18 |
 | PK14  | [JPN] Pokémon 3D Adventure: Find Mew!                                             | 2005-03-18 |  _Unaired_ |
 | AG120 | [JPN] Satoshi and Haruka! Heated Battles of Hōen!!                                | 2005-03-24 |  _Unaired_ |
 | AG121 | Hi Ho Silver Wind!                                                                | 2005-04-07 | 2006-02-18 |
@@ -466,62 +466,62 @@
 | AG138 | Rough, Tough Jigglypuff                                                           | 2005-08-11 | 2006-05-13 |
 | AG139 | On Cloud Arcanine                                                                 | 2005-08-18 | 2006-05-20 |
 | AG140 | Sitting Psyduck                                                                   | 2005-08-25 | 2006-05-27 |
-| AG141 | Hail to the Chef                                                                  | 2005-09-01 | 2006-06-03 |
+| AG141 | Hail to the Chef!                                                                 | 2005-09-01 | 2006-06-03 |
 | AG142 | Caterpie's Big Dilemma                                                            | 2005-09-08 | 2006-06-10 |
 | AG143 | The Saffron Con                                                                   | 2005-09-15 | 2006-06-17 |
 | AG144 | A Hurdle for Squirtle                                                             | 2005-09-22 | 2006-06-24 |
-| AG145 | Pasta La Vista                                                                    | 2005-09-29 | 2006-07-08 |
+| AG145 | Pasta La Vista!                                                                   | 2005-09-29 | 2006-07-08 |
 | AG146 | Fear Factor Phony                                                                 | 2005-10-06 | 2006-09-08 |
 | AG147 | Sweet Baby James                                                                  | 2005-10-13 | 2006-09-09 |
 | AG148 | A Chip Off the Old Brock                                                          | 2005-10-20 | 2006-09-16 |
-| AG149 | Wheel... of Frontier!                                                             | 2005-10-27 | 2006-09-16 |
-| AG150 | May's Egg-cellent Adventure!                                                      | 2005-11-03 | 2006-09-23 |
+| AG149 | Wheel of Frontier                                                                 | 2005-10-27 | 2006-09-16 |
+| AG150 | May's Egg-Cellent Adventure                                                       | 2005-11-03 | 2006-09-23 |
 | TV03  | The Mastermind of Mirage Pokémon                                                  | 2006-10-13 | 2006-04-29 |
 | AG151 | Weekend Warrior                                                                   | 2005-11-10 | 2006-09-23 |
 | AG152 | On Olden Pond                                                                     | 2005-11-17 | 2006-09-30 |
-| AG153 | Tactics Theatrics!                                                                | 2005-11-24 | 2006-09-30 |
+| AG153 | Tactics Theatrics!!                                                               | 2005-11-24 | 2006-09-30 |
 | AG154 | Reversing the Charges                                                             | 2005-12-01 | 2006-10-07 |
 | AG155 | The Green Guardian                                                                | 2005-12-08 | 2006-10-07 |
 | AG156 | From Cradle to Save                                                               | 2005-12-15 | 2006-10-14 |
 | AG157 | Time-Warp Heals All Wounds                                                        | 2005-12-22 | 2006-10-14 |
-| AG158 | Queen of the Serpentine                                                           | 2006-01-05 | 2006-10-21 |
+| AG158 | Queen of the Serpentine!                                                          | 2006-01-05 | 2006-10-21 |
 | AG159 | Off the Unbeaten Path                                                             | 2006-01-12 | 2006-10-21 |
 | AG160 | Harley Rides Again                                                                | 2006-01-19 | 2006-10-28 |
-| AG161 | Odd Pokémon Out                                                                   | 2006-01-26 | 2006-10-28 |
-| AG162 | Spontaneous Combusken                                                             | 2006-02-02 | 2006-11-04 |
-| AG163 | Cutting the Ties that Bind                                                        | 2006-02-09 | 2006-11-04 |
+| AG161 | Odd Pokémon Out!                                                                  | 2006-01-26 | 2006-10-28 |
+| AG162 | Spontaneous Combusken!                                                            | 2006-02-02 | 2006-11-04 |
+| AG163 | Cutting the Ties that Bind!                                                       | 2006-02-09 | 2006-11-04 |
 | AG164 | Ka Boom with a View!                                                              | 2006-02-16 | 2006-11-11 |
-| AG165 | King and Queen for a Day                                                          | 2006-02-23 | 2006-11-11 |
-| AG166 | Curbing the Crimson Tide                                                          | 2006-03-02 | 2006-11-18 |
-| AG167 | What I Did for Love                                                               | 2006-03-09 | 2006-11-18 |
-| AG168 | Three Jynx and a Baby                                                             | 2006-03-16 | 2006-11-25 |
-| AG169 | Talking a Good Game                                                               | 2006-03-23 | 2006-11-25 |
-| AG170 | Second Time's the Charm                                                           | 2006-03-30 | 2006-11-27 |
+| AG165 | King and Queen for a Day!                                                         | 2006-02-23 | 2006-11-11 |
+| AG166 | Curbing the Crimson Tide!                                                         | 2006-03-02 | 2006-11-18 |
+| AG167 | What I Did for Love!                                                              | 2006-03-09 | 2006-11-18 |
+| AG168 | Three Jynx and a Baby!                                                            | 2006-03-16 | 2006-11-25 |
+| AG169 | Talking a Good Game!                                                              | 2006-03-23 | 2006-11-25 |
+| AG170 | Second Time's the Charm!                                                          | 2006-03-30 | 2006-11-27 |
 | AG171 | Pokémon Ranger - Deoxys Crisis! (Part 1)                                          | 2006-04-13 | 2006-10-28 |
 | AG172 | Pokémon Ranger - Deoxys Crisis! (Part 2)                                          | 2006-04-13 | 2006-10-28 |
-| AG173 | All That Glitters is Not Golden                                                   | 2006-04-20 | 2006-11-28 |
-| AG174 | New Plot - Odd Lot                                                                | 2006-04-27 | 2006-11-29 |
-| AG175 | Going for Choke                                                                   | 2006-05-04 | 2006-11-30 |
-| AG176 | The Ole' Berate and Switch                                                        | 2006-05-11 | 2006-12-04 |
-| AG177 | Grating Spaces                                                                    | 2006-05-18 | 2006-12-05 |
-| AG178 | Battling the Enemy Within                                                         | 2006-05-25 | 2006-12-06 |
+| AG173 | All That Glitters is Not Golden!                                                  | 2006-04-20 | 2006-11-28 |
+| AG174 | New Plot, Odd Lot!                                                                | 2006-04-27 | 2006-11-29 |
+| AG175 | Going for Choke!                                                                  | 2006-05-04 | 2006-11-30 |
+| AG176 | The Ole' Berate and Switch!                                                       | 2006-05-11 | 2006-12-04 |
+| AG177 | Grating Spaces!                                                                   | 2006-05-18 | 2006-12-05 |
+| AG178 | Battling the Enemy Within!                                                        | 2006-05-25 | 2006-12-06 |
 | UN10  | [JPN] Get Together! Pokémon Planet Center                                         | 2006-06-03 |  _Unaired_ |
-| AG179 | Slaking Kong                                                                      | 2006-06-08 | 2006-12-07 |
+| AG179 | Slaking Kong!                                                                     | 2006-06-08 | 2006-12-07 |
 | AG180 | May, We Harley Drew'd Ya!                                                         | 2006-06-15 | 2006-12-11 |
-| AG181 | Thinning the Hoard                                                                | 2006-06-22 | 2006-12-12 |
-| AG182 | Channeling the Battle Zone                                                        | 2006-06-29 | 2006-12-13 |
+| AG181 | Thinning the Hoard!                                                               | 2006-06-22 | 2006-12-12 |
+| AG182 | Channeling the Battle Zone!                                                       | 2006-06-29 | 2006-12-13 |
 | PK16  | Pikachu's Ocean Adventure                                                         | 2006-05-20 | 2008-07-01 |
-| AG183 | Aipom & Circumstance                                                              | 2006-07-06 | 2006-12-14 |
+| AG183 | Aipom and Circumstance!                                                           | 2006-07-06 | 2006-12-14 |
 | M09   | Pokémon Ranger and the Temple of the Sea                                          | 2006-07-15 | 2007-03-23 |
 | AG184 | Strategy Tomorrow - Comedy Tonight!                                               | 2006-07-20 | 2007-01-06 |
-| AG185 | Duels of the Jungle                                                               | 2006-07-27 | 2007-01-13 |
+| AG185 | Duels of the Jungle!                                                              | 2006-07-27 | 2007-01-13 |
 | PK17  | Pikachu's Island Adventure                                                        | 2006-08-01 | 2007-04-03 |
 | AG186 | Overjoyed!                                                                        | 2006-08-03 | 2007-01-20 |
-| AG187 | The Unbeatable Lightness of Seeing                                                | 2006-08-10 | 2007-01-27 |
-| AG188 | Pinch Healing                                                                     | 2006-08-17 | 2007-02-03 |
-| AG189 | Gathering the Gang of Four                                                        | 2006-08-24 | 2007-02-10 |
-| AG190 | Pace - The Final Frontier                                                         | 2006-08-31 | 2007-02-17 |
-| AG191 | Once More with Reeling                                                            | 2006-09-07 | 2007-02-24 |
+| AG187 | The Unbeatable Lightness of Seeing!                                               | 2006-08-10 | 2007-01-27 |
+| AG188 | Pinch Healing!                                                                    | 2006-08-17 | 2007-02-03 |
+| AG189 | Gathering the Gang of Four!                                                       | 2006-08-24 | 2007-02-10 |
+| AG190 | Pace - The Final Frontier!                                                        | 2006-08-31 | 2007-02-17 |
+| AG191 | Once More With Reeling!                                                           | 2006-09-07 | 2007-02-24 |
 | AG192 | Home is Where the Start Is!                                                       | 2006-09-14 | 2007-03-03 |
 | DP001 | Following a Maiden's Voyage!                                                      | 2006-09-28 | 2007-04-20 |
 | DP002 | Two Degrees of Separation!                                                        | 2006-09-28 | 2007-04-20 |
@@ -744,7 +744,7 @@
 | BW014 | A Night in the Nacrene City Museum!                                               | 2010-12-23 | 2011-05-07 |
 | BW015 | The Battle According to Lenora!                                                   | 2011-01-06 | 2011-05-14 |
 | BW016 | Rematch at the Nacrene Gym!                                                       | 2011-01-13 | 2011-05-21 |
-| BW017 | Scraggy—Hatched to Be Wild!                                                       | 2011-01-20 | 2011-05-28 |
+| BW017 | Scraggy—Hatched to be Wild!                                                       | 2011-01-20 | 2011-05-28 |
 | BW018 | Sewaddle and Burgh in Pinwheel Forest!                                            | 2011-01-27 | 2011-06-04 |
 | SS024 | [JPN] Hikari - Setting off on a New Journey!                                      | 2011-02-03 |  _Unaired_ |
 | SS025 | [JPN] Nibi Gym - The Greatest Crisis Ever!                                        | 2011-02-03 |  _Unaired_ |
@@ -956,18 +956,23 @@
 | XY061 | An Oasis of Hope!                                                                 | 2015-02-19 | 2015-05-02 |
 | XY062 | The Future Is Now, Thanks to Determination!                                       | 2015-02-26 | 2015-05-09 |
 | XY063 | A Fork in the Road! A Parting of the Ways!                                        | 2015-03-05 | 2015-05-16 |
-| XY064 | [JPN] Fokko VS Mahoxy! A Splendid Performance Battle!!                            | 2015-03-12 |  _Unaired_ |
+| XY064 | Battling with Elegance and a Big Smile!                                           | 2015-03-12 | 2015-05-23 |
 | SS032 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act III~' | 2015-03-19 |  _Unaired_ |
-| XY065 | [JPN] Kameil and Raichu Appear! Good Luck Numeil!!                                | 2015-03-26 |  _Unaired_ |
-| XY066 | [JPN] The Miare City Investigation! Citroid VS Black Citroid!!                    | 2015-04-02 |  _Unaired_ |
-| XY067 | [JPN] Miare Gym Battle! Satoshi VS Citron!!                                       | 2015-04-09 |  _Unaired_ |
-| XY068 | [JPN] The Coveted Mega Evolution! Gaburias's Bonds!!                              | 2015-04-16 |  _Unaired_ |
-| XY069 | [JPN] Battle in the Wetlands! Numelgon VS Florges!!                               | 2015-04-23 |  _Unaired_ |
+| XY065 | Good Friends, Great Training!                                                     | 2015-03-26 | 2015-05-30 |
+| XY066 | Confronting the Darkness!                                                         | 2015-04-02 | 2015-06-06 |
+| XY067 | Moment of Lumiose Truth!                                                          | 2015-04-09 | 2015-06-13 |
+| XY068 | Garchomp's Mega Bond!                                                             | 2015-04-16 | 2015-06-20 |
+| XY069 | Defending the Homeland!                                                           | 2015-04-23 | 2015-06-27 |
 | XY070 | [JPN] Conclusion! Numelgon, Go Over the Rainbow!!                                 | 2015-04-30 |  _Unaired_ |
 | XY071 | [JPN] The Worst Luck? Eureka VS Nyarth!!                                          | 2015-05-07 |  _Unaired_ |
-| XY072 | [JPN] Hospitality of the Scary House!                                             | 2015-05-14 |  _Unaired_ |
+| XY072 | [JPN] The Scary House's Welcoming Services!                                       | 2015-05-14 |  _Unaired_ |
 | XY073 | [JPN] Battle at the Fashion Show! Tatsubay VS Shushupu!!                          | 2015-05-21 |  _Unaired_ |
 | XY074 | [JPN] Kunoe Gym Battle! The Beautiful Fairy Trap!!                                | 2015-05-28 |  _Unaired_ |
+| XY075 | [JPN] Three-Match Rival Battle! Towards the Future!!                              | 2015-06-04 |  _Unaired_ |
+| XY076 | [JPN] The Wind, the Egg and Onbat!                                                | 2015-06-11 |  _Unaired_ |
+| XY077 | [JPN] The Pokémon Sky Relay Challenge! Fly, Onbat!!                               | 2015-06-18 |  _Unaired_ |
+| XY078 | [JPN] Fierce Battle in the Monster Ball Factory! Pikachu VS Nyarth!!              | 2015-06-25 |  _Unaired_ |
+| XY079 | [JPN] Tairenar and Yancham!! A Captivating Fiery Performance!!                    | 2015-07-02 |  _Unaired_ |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                                | 2015-07-18 |  _Unaired_ |
 | M18   | Hoopa and the Clash of Ages                                                       | 2015-07-18 |  _Unaired_ |
 | SS033 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'  |  _Unaired_ |  _Unaired_ |
