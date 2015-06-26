@@ -14912,7 +14912,7 @@
       "airdate": "2015-06-13T00:00:00.000Z",
       "number": 862,
       "season": 1,
-      "title": "Moment of Lumiose Truth!"
+      "title": "The Moment of Lumiose Truth!"
     }
   },
   {
@@ -14957,7 +14957,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-07-04T00:00:00.000Z",
+      "number": 865,
+      "season": 1,
+      "title": "Beyond the Rainbow!"
     }
   },
   {
@@ -14979,7 +14982,7 @@
       "airdate": "2015-05-14T00:00:00.000Z",
       "number": 72,
       "series": "XY",
-      "title": "The Scary House's Welcoming Services!"
+      "title": "The Scary House's Welcoming Sevices!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15052,6 +15055,24 @@
     }
   },
   {
+    "code": "SS033",
+    "jpn": {
+      "airdate": "2015-06-18T00:00:00.000Z",
+      "title": "Pikachu Becomes a Star!? It's Movie Debut!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {}
+  },
+  {
+    "code": "SS034",
+    "jpn": {
+      "airdate": "2015-06-19T00:00:00.000Z",
+      "title": "The Minidjinni of the Word \"Appear!\": Hoopa"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {}
+  },
+  {
     "code": "XY078",
     "jpn": {
       "airdate": "2015-06-25T00:00:00.000Z",
@@ -15071,6 +15092,19 @@
       "number": 79,
       "series": "XY",
       "title": "Tairenar and Yancham!! A Captivating Fiery Performance!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY080",
+    "jpn": {
+      "airdate": "2015-07-09T00:00:00.000Z",
+      "number": 80,
+      "series": "XY",
+      "title": "Satoshi Leaps Through Time! Rotom's Wish!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15098,9 +15132,35 @@
     }
   },
   {
-    "code": "SS033",
+    "code": "XY081",
     "jpn": {
-      "title": "Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'"
+      "airdate": "2015-07-23T00:00:00.000Z",
+      "number": 81,
+      "series": "XY",
+      "title": "The Pumpjin Festival! Farewell, Bakeccha!?"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY082",
+    "jpn": {
+      "airdate": "2015-07-30T00:00:00.000Z",
+      "number": 82,
+      "series": "XY",
+      "title": "Crossing the Snow Mountains! Mammoo and Yukinooh!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SS035",
+    "jpn": {
+      "title": "Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {}

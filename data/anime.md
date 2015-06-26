@@ -960,19 +960,24 @@
 | SS032 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act III~' | 2015-03-19 |  _Unaired_ |
 | XY065 | Good Friends, Great Training!                                                     | 2015-03-26 | 2015-05-30 |
 | XY066 | Confronting the Darkness!                                                         | 2015-04-02 | 2015-06-06 |
-| XY067 | Moment of Lumiose Truth!                                                          | 2015-04-09 | 2015-06-13 |
+| XY067 | The Moment of Lumiose Truth!                                                      | 2015-04-09 | 2015-06-13 |
 | XY068 | Garchomp's Mega Bond!                                                             | 2015-04-16 | 2015-06-20 |
 | XY069 | Defending the Homeland!                                                           | 2015-04-23 | 2015-06-27 |
-| XY070 | [JPN] Conclusion! Numelgon, Go Over the Rainbow!!                                 | 2015-04-30 |  _Unaired_ |
+| XY070 | Beyond the Rainbow!                                                               | 2015-04-30 | 2015-07-04 |
 | XY071 | [JPN] The Worst Luck? Eureka VS Nyarth!!                                          | 2015-05-07 |  _Unaired_ |
-| XY072 | [JPN] The Scary House's Welcoming Services!                                       | 2015-05-14 |  _Unaired_ |
+| XY072 | [JPN] The Scary House's Welcoming Sevices!                                        | 2015-05-14 |  _Unaired_ |
 | XY073 | [JPN] Battle at the Fashion Show! Tatsubay VS Shushupu!!                          | 2015-05-21 |  _Unaired_ |
 | XY074 | [JPN] Kunoe Gym Battle! The Beautiful Fairy Trap!!                                | 2015-05-28 |  _Unaired_ |
 | XY075 | [JPN] Three-Match Rival Battle! Towards the Future!!                              | 2015-06-04 |  _Unaired_ |
 | XY076 | [JPN] The Wind, the Egg and Onbat!                                                | 2015-06-11 |  _Unaired_ |
 | XY077 | [JPN] The Pokémon Sky Relay Challenge! Fly, Onbat!!                               | 2015-06-18 |  _Unaired_ |
+| SS033 | [JPN] Pikachu Becomes a Star!? It's Movie Debut!!                                 | 2015-06-18 |  _Unaired_ |
+| SS034 | [JPN] The Minidjinni of the Word "Appear!": Hoopa                                 | 2015-06-19 |  _Unaired_ |
 | XY078 | [JPN] Fierce Battle in the Monster Ball Factory! Pikachu VS Nyarth!!              | 2015-06-25 |  _Unaired_ |
 | XY079 | [JPN] Tairenar and Yancham!! A Captivating Fiery Performance!!                    | 2015-07-02 |  _Unaired_ |
+| XY080 | [JPN] Satoshi Leaps Through Time! Rotom's Wish!!                                  | 2015-07-09 |  _Unaired_ |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                                | 2015-07-18 |  _Unaired_ |
 | M18   | Hoopa and the Clash of Ages                                                       | 2015-07-18 |  _Unaired_ |
-| SS033 | [JPN] Pocket Monsters XY Special Episode 'The Strongest Mega Evolution ~Act IV~'  |  _Unaired_ |  _Unaired_ |
+| XY081 | [JPN] The Pumpjin Festival! Farewell, Bakeccha!?                                  | 2015-07-23 |  _Unaired_ |
+| XY082 | [JPN] Crossing the Snow Mountains! Mammoo and Yukinooh!!                          | 2015-07-30 |  _Unaired_ |
+| SS035 | [JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~  |  _Unaired_ |  _Unaired_ |
