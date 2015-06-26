@@ -20,7 +20,7 @@ $(FORMAT): %: pages/data/anime.%
 # tasks
 
 clean: reset
-	rm -r pages/data
+	rm -r node_modules
 
 reset:
 	rm -r tmp
@@ -46,6 +46,6 @@ tmp:
 	mkdir $@
 
 tmp/raw.json: node_modules tmp
-	DISPLAY=:0 atom-shell src/atom/index.js $@
+	DISPLAY=:0 electron src/atom/index.js $@
 	
 .PHONY: clean force reset
