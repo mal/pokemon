@@ -353,8 +353,8 @@
 | AG041 | What You Seed is What You Get                                                     | 2003-09-04 | 2004-09-11 |
 | AG042 | Love at First Flight                                                              | 2003-09-11 | 2004-10-16 |
 | AG043 | Let Bagons Be Bagons                                                              | 2003-09-18 | 2004-09-18 |
-| AG044 | The Princess and the Togepi                                                       | 2003-09-25 | 2004-09-25 |
 | SS012 | Training Daze                                                                     | 2003-09-30 | 2006-08-19 |
+| AG044 | The Princess and the Togepi                                                       | 2003-09-25 | 2004-09-25 |
 | AG045 | A Togepi Mirage!                                                                  | 2003-10-02 | 2004-10-02 |
 | SS013 | Celebi and Joy                                                                    | 2003-10-07 | 2006-08-12 |
 | AG046 | Candid Camerupt!                                                                  | 2003-10-09 | 2004-10-09 |

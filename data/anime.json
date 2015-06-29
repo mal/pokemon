@@ -5493,6 +5493,18 @@
     }
   },
   {
+    "code": "SS012",
+    "jpn": {
+      "airdate": "2003-09-30T00:00:00.000Z",
+      "title": "Rocket-dan: Origin of Love and Youth"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {
+      "airdate": "2006-08-19T00:00:00.000Z",
+      "title": "Training Daze"
+    }
+  },
+  {
     "code": "AG044",
     "jpn": {
       "airdate": "2003-09-25T00:00:00.000Z",
@@ -5506,18 +5518,6 @@
       "number": 317,
       "season": 1,
       "title": "The Princess and the Togepi"
-    }
-  },
-  {
-    "code": "SS012",
-    "jpn": {
-      "airdate": "2003-09-30T00:00:00.000Z",
-      "title": "Rocket-dan: Origin of Love and Youth"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "airdate": "2006-08-19T00:00:00.000Z",
-      "title": "Training Daze"
     }
   },
   {
