@@ -25,6 +25,9 @@ clean: reset
 reset:
 	rm -r tmp
 
+serve:
+	docker run -it -p 4000:4000 -v "$$PWD/pages":/srv/jekyll jekyll/pages jekyll serve
+
 update: all
 	cd pages && \
 	  git commit $(message) data && \
@@ -48,4 +51,4 @@ tmp:
 tmp/raw.json: node_modules tmp
 	DISPLAY=:0 electron src/atom/index.js $@
 	
-.PHONY: clean force reset
+.PHONY: clean force reset serve update
