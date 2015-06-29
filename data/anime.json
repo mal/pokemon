@@ -10852,18 +10852,6 @@
     }
   },
   {
-    "code": "SS022",
-    "jpn": {
-      "airdate": "2010-02-28T00:00:00.000Z",
-      "title": "Pokémon Ranger: Traces of Light"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "airdate": "2010-11-10T00:00:00.000Z",
-      "title": "Pokémon Ranger: Guardian Signs (Part One)"
-    }
-  },
-  {
     "code": "DP166",
     "jpn": {
       "airdate": "2010-03-04T00:00:00.000Z",
@@ -10877,6 +10865,18 @@
       "number": 628,
       "season": 1,
       "title": "The Fleeing Tower of Sunyshore!"
+    }
+  },
+  {
+    "code": "SS022",
+    "jpn": {
+      "airdate": "2010-02-28T00:00:00.000Z",
+      "title": "Pokémon Ranger: Traces of Light"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {
+      "airdate": "2010-11-10T00:00:00.000Z",
+      "title": "Pokémon Ranger: Guardian Signs (Part One)"
     }
   },
   {

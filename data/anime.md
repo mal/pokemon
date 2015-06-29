@@ -698,8 +698,8 @@
 | DP163 | Fighting Ire with Fire!                                                           | 2010-02-11 | 2010-07-10 |
 | DP164 | Piplup, Up and Away!                                                              | 2010-02-18 | 2010-07-17 |
 | DP165 | Flint Sparks the Fire!                                                            | 2010-02-25 | 2010-07-24 |
-| SS022 | Pokémon Ranger: Guardian Signs (Part One)                                         | 2010-02-28 | 2010-11-10 |
 | DP166 | The Fleeing Tower of Sunyshore!                                                   | 2010-03-04 | 2010-07-31 |
+| SS022 | Pokémon Ranger: Guardian Signs (Part One)                                         | 2010-02-28 | 2010-11-10 |
 | SS023 | Pokémon Ranger: Guardian Signs (Part Two)                                         | 2010-03-07 | 2010-11-10 |
 | DP167 | Teaching the Student Teacher!                                                     | 2010-03-11 | 2010-08-07 |
 | DP168 | Keeping in Top Forme!                                                             | 2010-03-18 | 2010-08-14 |
