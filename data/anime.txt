@@ -53,11 +53,11 @@ Holy Matrimony!
 So Near, Yet So Farfetch'd
 Who Gets to Keep Togepi?
 Bulbasaur's Mysterious Garden
+The Purr-fect Hero
 The Case of the K-9 Caper!
 Pokémon Paparazzi
 The Ultimate Test
 The Breeding Center Secret
-The Purr-fect Hero
 Riddle Me This
 Volcanic Panic
 Beach Blank-Out Blastoise
@@ -317,6 +317,9 @@ The Blue Badge of Courage
 All in a Day's Wurmple
 Of Meowth and Pokémon (Part 1)
 Of Meowth and Pokémon (Part 2)
+Pichu Bros. in Party Panic
+Big Meowth, Little Dreams (Part 1)
+Big Meowth, Little Dreams (Part 2)
 Gonna Rule The School!
 The Winner by a Nosepass
 Stairway to Devon
@@ -333,15 +336,14 @@ Turning Over a Nuzleaf
 A Three Team Scheme!
 Seeing is Believing!
 Ready, Willing, and Sableye
-Big Meowth, Little Dreams (Part 1)
-Big Meowth, Little Dreams (Part 2)
 A Meditite Fight!
 Just One of the Geysers
 Abandon Ship!
 Now That's Flower Power!
 Having a Wailord of a Time
-Pichu Bros. in Party Panic
 Win, Lose or Drew!
+Gotta Dance!!
+Jirachi: Wish Maker
 The Spheal of Approval
 Jump for Joy!
 A Different Kind of Misty!
@@ -351,13 +353,11 @@ A Date with Delcatty
 What You Seed is What You Get
 Love at First Flight
 Let Bagons Be Bagons
-Training Daze
 The Princess and the Togepi
 A Togepi Mirage!
+Training Daze
 Celebi and Joy
 Candid Camerupt!
-Gotta Dance!!
-Jirachi: Wish Maker
 Journey to the Starting Line
 I Feel Skitty!
 ZigZag Zangoose!
@@ -400,10 +400,10 @@ A Shroomish Skirmish
 Unfair Weather Friends
 Who's Flying Now?
 Sky High Gym Battle!
+Destiny Deoxys
 Lights, Camerupt, Action!
 Crazy as a Lunatone
 [JPN] Pikachu's Summer Festival
-Destiny Deoxys
 The Garden of Eatin'
 A Scare to Remember!
 Pokéblock, Stock, and Berry
@@ -438,9 +438,9 @@ Date Expectations
 Mean With Envy
 Pacifidlog Jam
 Berry, Berry Interesting
+[JPN] Pokémon 3D Adventure: Find Mew!
 Less is Morrison
 The Ribbon Cup Caper
-[JPN] Pokémon 3D Adventure: Find Mew!
 [JPN] Satoshi and Haruka! Heated Battles of Hōen!!
 Hi Ho Silver Wind!
 Deceit and Assist
@@ -469,12 +469,12 @@ Caterpie's Big Dilemma
 The Saffron Con
 A Hurdle for Squirtle
 Pasta La Vista!
+Pokémon Mystery Dungeon: Team Go-Getters out of the Gate!
 Fear Factor Phony
 Sweet Baby James
 A Chip Off the Old Brock
 Wheel of Frontier
 May's Egg-Cellent Adventure
-The Mastermind of Mirage Pokémon
 Weekend Warrior
 On Olden Pond
 Tactics Theatrics!!
@@ -500,15 +500,16 @@ Pokémon Ranger - Deoxys Crisis! (Part 2)
 All That Glitters is Not Golden!
 New Plot, Odd Lot!
 Going for Choke!
+The Mastermind of Mirage Pokémon
 The Ole' Berate and Switch!
 Grating Spaces!
 Battling the Enemy Within!
 [JPN] Get Together! Pokémon Planet Center
 Slaking Kong!
+Pikachu's Ocean Adventure
 May, We Harley Drew'd Ya!
 Thinning the Hoard!
 Channeling the Battle Zone!
-Pikachu's Ocean Adventure
 Aipom and Circumstance!
 Pokémon Ranger and the Temple of the Sea
 Strategy Tomorrow - Comedy Tonight!
@@ -544,7 +545,6 @@ Mutiny in the Bounty!
 Ya See We Want An Evolution!
 Borrowing on Bad Faith!
 Faced With Steelix Determination!
-Pokémon Mystery Dungeon: Team Go-Getters out of the Gate!
 Cooking up a Sweet Story!
 Oh Do You Know The Poffin Plan!
 Getting the Pre-Contest Titters!
@@ -570,6 +570,7 @@ Malice In Wonderland!
 Mass Hip-Po-Sis!
 Ill-Will Hunting!
 Pokémon Mystery Dungeon: Explorers of Time & Darkness
+Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness
 A Maze-ing Race!
 Sandshrew's Locker!
 [JPN] Satoshi and Hikari! Facing a New Adventure!!
@@ -650,7 +651,6 @@ Trials and Adulations!
 [JPN] Mysterious Creatures: Pocket Monsters
 The Lonely Snover
 Stopped in the Name of Love
-Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness
 Old Rivals, New Tricks!
 To Thine Own Pokémon Be True!
 Battling a Cute Drama!
@@ -711,11 +711,11 @@ Opposites Interact!
 Coming Full Festival Circle!
 A Grand Fight for Winning!
 For The Love Of Meowth!
-Zoroark: Master of Illusions
 The Eighth Wonder of the Sinnoh World!
 Four Roads Diverged in a Pokémon Port!
 Bucking the Treasure Trend!
 [JPN] Pikachu's Big Mysterious Adventure
+Zoroark: Master of Illusions
 An Old Family Blend!
 League Unleashed!
 Casting a Paul on Barry!
@@ -814,7 +814,6 @@ Evolution by Fire!
 Guarding the Guardian of the Mountain!
 Caution: Icy Battle Conditions!
 Clash of the Connoisseurs!
-Kyurem VS. The Sword of Justice
 Crisis at Ferroseed Research!
 An Epic Defense Force!
 Rocking The Virbank Gym! Part 1
@@ -834,6 +833,7 @@ The Road to Humilau!
 Unrest at the Nursery!
 Meloetta and the Undersea Temple!
 Unova's Survival Crisis!
+Kyurem VS. The Sword of Justice
 Beauties Battling for Pride and Prestige!
 A Surface to Air Tag Battle Team!
 A Village Homecoming!
@@ -870,8 +870,8 @@ Butterfree and Me!
 The Path That Leads to Goodbye!
 Searching for a Wish!
 Capacia Island UFO!
-Mewtwo — Prologue to Awakening
 Eevee & Friends
+Mewtwo — Prologue to Awakening
 Genesect and The Legend Awakened
 The Journalist from Another Region!
 Mystery on a Deserted Island!
@@ -882,8 +882,8 @@ Team Rocket's Shocking Recruit!
 Survival of the Striaton Gym!
 Best Wishes Until We Meet Again!
 The Dream Continues!
-Pokémon Origins
 [JPN] Dent and Takeshi! Gyarados's Imperial Rage!!
+Pokémon Origins
 Kalos, Where Dreams and Adventures Begin!
 Lumiose City Pursuit!
 A Battle of Aerial Mobility!
@@ -923,15 +923,15 @@ The Bonds of Mega Evolution!
 The Forest Champion!
 [JPN] Celestial Debris
 Battles in the Sky!
+Pikachu, What's This Key?
+Diancie, Princess of the Diamond Domain
+Diancie and the Cocoon of Destruction
 The Cave of Mirrors!
 Forging Forest Friendships!
 Summer of Discovery!
 Day Three Blockbusters!
 Foggy Pokémon Orienteering!
 Battling Into the Hall of Fame!
-Diancie, Princess of the Diamond Domain
-Pikachu, What's This Key?
-Diancie and the Cocoon of Destruction
 Origins of Mega Evolution!
 Showdown at the Shalour Gym!
 Splitting Heirs!
