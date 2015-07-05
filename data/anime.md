@@ -925,15 +925,15 @@
 | XY035 | The Forest Champion!                                                              | 2014-07-10 | 2014-09-13 |
 | UN15  | [JPN] Celestial Debris                                                            | 2014-07-12 |  _Unaired_ |
 | XY036 | Battles in the Sky!                                                               | 2014-07-24 | 2014-09-20 |
-| SS030 | Diancie, Princess of the Diamond Domain                                           | 2014-07-17 | 2014-11-06 |
-| PK26  | Pikachu, What's This Key?                                                         | 2014-07-19 | 2015-02-02 |
-| M17   | Diancie and the Cocoon of Destruction                                             | 2014-07-19 | 2014-11-08 |
 | XY037 | The Cave of Mirrors!                                                              | 2014-07-31 | 2014-09-27 |
 | XY038 | Forging Forest Friendships!                                                       | 2014-08-07 | 2014-10-04 |
 | XY039 | Summer of Discovery!                                                              | 2014-08-14 | 2014-10-11 |
 | XY040 | Day Three Blockbusters!                                                           | 2014-08-21 | 2014-10-18 |
 | XY041 | Foggy Pokémon Orienteering!                                                       | 2014-08-28 | 2014-10-25 |
 | XY042 | Battling Into the Hall of Fame!                                                   | 2014-09-04 | 2014-11-01 |
+| SS030 | Diancie, Princess of the Diamond Domain                                           | 2014-07-17 | 2014-11-06 |
+| PK26  | Pikachu, What's This Key?                                                         | 2014-07-19 | 2015-02-02 |
+| M17   | Diancie and the Cocoon of Destruction                                             | 2014-07-19 | 2014-11-08 |
 | XY043 | Origins of Mega Evolution!                                                        | 2014-09-18 | 2014-11-08 |
 | XY044 | Showdown at the Shalour Gym!                                                      | 2014-09-25 | 2014-11-15 |
 | XY045 | Splitting Heirs!                                                                  | 2014-10-02 | 2014-11-22 |

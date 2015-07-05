@@ -14363,42 +14363,6 @@
     }
   },
   {
-    "code": "SS030",
-    "jpn": {
-      "airdate": "2014-07-17T00:00:00.000Z",
-      "title": "Diancie, Princess of the Ore Country"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {
-      "airdate": "2014-11-06T00:00:00.000Z",
-      "title": "Diancie, Princess of the Diamond Domain"
-    }
-  },
-  {
-    "code": "PK26",
-    "jpn": {
-      "airdate": "2014-07-19T00:00:00.000Z",
-      "title": "Pikachu, What's This Key For?"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_short",
-    "usa": {
-      "airdate": "2015-02-02T00:00:00.000Z",
-      "title": "Pikachu, What's This Key?"
-    }
-  },
-  {
-    "code": "M17",
-    "jpn": {
-      "airdate": "2014-07-19T00:00:00.000Z",
-      "title": "The Cocoon of Destruction and Diancie"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
-    "usa": {
-      "airdate": "2014-11-08T00:00:00.000Z",
-      "title": "Diancie and the Cocoon of Destruction"
-    }
-  },
-  {
     "code": "XY037",
     "jpn": {
       "airdate": "2014-07-31T00:00:00.000Z",
@@ -14492,6 +14456,42 @@
       "number": 837,
       "season": 1,
       "title": "Battling Into the Hall of Fame!"
+    }
+  },
+  {
+    "code": "SS030",
+    "jpn": {
+      "airdate": "2014-07-17T00:00:00.000Z",
+      "title": "Diancie, Princess of the Ore Country"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {
+      "airdate": "2014-11-06T00:00:00.000Z",
+      "title": "Diancie, Princess of the Diamond Domain"
+    }
+  },
+  {
+    "code": "PK26",
+    "jpn": {
+      "airdate": "2014-07-19T00:00:00.000Z",
+      "title": "Pikachu, What's This Key For?"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_short",
+    "usa": {
+      "airdate": "2015-02-02T00:00:00.000Z",
+      "title": "Pikachu, What's This Key?"
+    }
+  },
+  {
+    "code": "M17",
+    "jpn": {
+      "airdate": "2014-07-19T00:00:00.000Z",
+      "title": "The Cocoon of Destruction and Diancie"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "airdate": "2014-11-08T00:00:00.000Z",
+      "title": "Diancie and the Cocoon of Destruction"
     }
   },
   {
