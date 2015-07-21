@@ -14848,7 +14848,7 @@
       "airdate": "2015-03-12T00:00:00.000Z",
       "number": 64,
       "series": "XY",
-      "title": "Fokko VS Mahoxy! A Splendid Performance Battle!!"
+      "title": "Fokko VS Mafoxy! A Splendid Performance Battle!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14953,7 +14953,7 @@
       "airdate": "2015-04-30T00:00:00.000Z",
       "number": 70,
       "series": "XY",
-      "title": "Conclusion! Numelgon, Go Over the Rainbow!!"
+      "title": "Conclusion! Numelgon, Somewhere Over the Rainbow!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14973,7 +14973,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-07-11T00:00:00.000Z",
+      "number": 866,
+      "season": 1,
+      "title": "So You're Having a Bad Day!"
     }
   },
   {
@@ -14982,11 +14985,14 @@
       "airdate": "2015-05-14T00:00:00.000Z",
       "number": 72,
       "series": "XY",
-      "title": "The Scary House's Welcoming Sevices!"
+      "title": "The Scary House's Welcoming Services!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-07-18T00:00:00.000Z",
+      "number": 867,
+      "season": 1,
+      "title": "Scary Hospitality!"
     }
   },
   {
@@ -14999,7 +15005,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-07-25T00:00:00.000Z",
+      "number": 868,
+      "season": 1,
+      "title": "A Fashionable Battle!"
     }
   },
   {
@@ -15012,7 +15021,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-08-01T00:00:00.000Z",
+      "number": 869,
+      "season": 1,
+      "title": "Fairy-Type Trickery!"
     }
   },
   {
@@ -15151,6 +15163,45 @@
       "number": 82,
       "series": "XY",
       "title": "Crossing the Snow Mountains! Mammoo and Yukinooh!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY083",
+    "jpn": {
+      "airdate": "2015-08-13T00:00:00.000Z",
+      "number": 83,
+      "series": "XY",
+      "title": "Harimaron! Its First Errand!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY084",
+    "jpn": {
+      "airdate": "2015-08-20T00:00:00.000Z",
+      "number": 84,
+      "series": "XY",
+      "title": "A Broken Twig and a Broken Heart! Tairenar's Strong Feelings!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY085",
+    "jpn": {
+      "airdate": "2015-08-27T00:00:00.000Z",
+      "number": 85,
+      "series": "XY",
+      "title": "Photo Op on Fire! Snap the Legend!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {

@@ -964,10 +964,10 @@
 | XY068 | Garchomp's Mega Bond!                                                             | 2015-04-16 | 2015-06-20 |
 | XY069 | Defending the Homeland!                                                           | 2015-04-23 | 2015-06-27 |
 | XY070 | Beyond the Rainbow!                                                               | 2015-04-30 | 2015-07-04 |
-| XY071 | [JPN] The Worst Luck? Eureka VS Nyarth!!                                          | 2015-05-07 |  _Unaired_ |
-| XY072 | [JPN] The Scary House's Welcoming Sevices!                                        | 2015-05-14 |  _Unaired_ |
-| XY073 | [JPN] Battle at the Fashion Show! Tatsubay VS Shushupu!!                          | 2015-05-21 |  _Unaired_ |
-| XY074 | [JPN] Kunoe Gym Battle! The Beautiful Fairy Trap!!                                | 2015-05-28 |  _Unaired_ |
+| XY071 | So You're Having a Bad Day!                                                       | 2015-05-07 | 2015-07-11 |
+| XY072 | Scary Hospitality!                                                                | 2015-05-14 | 2015-07-18 |
+| XY073 | A Fashionable Battle!                                                             | 2015-05-21 | 2015-07-25 |
+| XY074 | Fairy-Type Trickery!                                                              | 2015-05-28 | 2015-08-01 |
 | XY075 | [JPN] Three-Match Rival Battle! Towards the Future!!                              | 2015-06-04 |  _Unaired_ |
 | XY076 | [JPN] The Wind, the Egg and Onbat!                                                | 2015-06-11 |  _Unaired_ |
 | XY077 | [JPN] The Pokémon Sky Relay Challenge! Fly, Onbat!!                               | 2015-06-18 |  _Unaired_ |
@@ -980,4 +980,7 @@
 | M18   | Hoopa and the Clash of Ages                                                       | 2015-07-18 |  _Unaired_ |
 | XY081 | [JPN] The Pumpjin Festival! Farewell, Bakeccha!?                                  | 2015-07-23 |  _Unaired_ |
 | XY082 | [JPN] Crossing the Snow Mountains! Mammoo and Yukinooh!!                          | 2015-07-30 |  _Unaired_ |
+| XY083 | [JPN] Harimaron! Its First Errand!!                                               | 2015-08-13 |  _Unaired_ |
+| XY084 | [JPN] A Broken Twig and a Broken Heart! Tairenar's Strong Feelings!!              | 2015-08-20 |  _Unaired_ |
+| XY085 | [JPN] Photo Op on Fire! Snap the Legend!!                                         | 2015-08-27 |  _Unaired_ |
 | SS035 | [JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~  |  _Unaired_ |  _Unaired_ |
