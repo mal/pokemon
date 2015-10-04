@@ -34,8 +34,14 @@ function scrape(url, script, done) {
 
     var site = win[url] = new BrowserWindow({
         preload: bootstrap,
+        show: false,
         'web-preferences': {
-            'web-security': true
+            'web-security': true,
+            images: false,
+            java: false,
+            webgl: false,
+            webaudio: false,
+            plugins: false
         }
     });
 
