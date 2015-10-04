@@ -13977,7 +13977,7 @@
       "airdate": "2014-04-19T00:00:00.000Z",
       "number": 809,
       "season": 1,
-      "title": "Seeking Shelter From the Storm!"
+      "title": "Seeking Shelter from the Storm!"
     }
   },
   {
@@ -14416,7 +14416,7 @@
       "airdate": "2014-08-21T00:00:00.000Z",
       "number": 40,
       "series": "XY",
-      "title": "Serena VS Shauna! PokéVision Showdown!!"
+      "title": "Serena VS Shauna! Pokévision Showdown!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14455,7 +14455,7 @@
       "airdate": "2014-11-01T00:00:00.000Z",
       "number": 837,
       "season": 1,
-      "title": "Battling Into the Hall of Fame!"
+      "title": "Battling into the Hall of Fame!"
     }
   },
   {
@@ -15190,7 +15190,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-10-03T00:00:00.000Z",
+      "number": 877,
+      "season": 1,
+      "title": "Over the Mountain of Snow!"
     }
   },
   {
@@ -15203,7 +15206,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-10-10T00:00:00.000Z",
+      "number": 878,
+      "season": 1,
+      "title": "Adventures in Running Errands!"
     }
   },
   {
@@ -15216,7 +15222,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-10-17T00:00:00.000Z",
+      "number": 879,
+      "season": 1,
+      "title": "Mending a Broken Spirit!"
     }
   },
   {
@@ -15264,7 +15273,7 @@
       "airdate": "2015-09-24T00:00:00.000Z",
       "number": 88,
       "series": "XY",
-      "title": "The Eievui Who is Shy of Strangers!? The Catcher in the Flower Garden!!"
+      "title": "The Eievui Who is Shy of Strangers!? Capture at the Flower Garden!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15290,7 +15299,46 @@
       "airdate": "2015-10-08T00:00:00.000Z",
       "number": 90,
       "series": "XY",
-      "title": "The Happy Dance Comes After the Quiz!? The Hyakkoku  TriPokalon Tournament!!"
+      "title": "The Happy Dance Comes After the Quiz!? The HyakkokuTriPokalon Tournament!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY091",
+    "jpn": {
+      "airdate": "2015-10-15T00:00:00.000Z",
+      "number": 91,
+      "series": "XY",
+      "title": "The Crisis in Kalos! The Battle of the Giant Sundial!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY092",
+    "jpn": {
+      "airdate": "2015-10-22T00:00:00.000Z",
+      "number": 92,
+      "series": "XY",
+      "title": "The Double Battle in the Hyakkoku Gym! Gojika's Future Sight!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY093",
+    "jpn": {
+      "airdate": "2015-10-29T00:00:00.000Z",
+      "number": 93,
+      "series": "XY",
+      "title": "Z's Explosive Birth! What Lurks in Kalos!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15300,6 +15348,7 @@
   {
     "code": "SS035",
     "jpn": {
+      "airdate": "2015-10-29T00:00:00.000Z",
       "title": "Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",

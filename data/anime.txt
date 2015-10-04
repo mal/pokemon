@@ -897,7 +897,7 @@ Mega-Mega Meowth Madness!
 The Bamboozling Forest!
 To Catch a Pokémon Smuggler!
 Kindergarten Chaos!
-Seeking Shelter From the Storm!
+Seeking Shelter from the Storm!
 An Appetite for Battle!
 A Jolting Switcheroo!
 A Rush of Ninja Wisdom!
@@ -928,7 +928,7 @@ Forging Forest Friendships!
 Summer of Discovery!
 Day Three Blockbusters!
 Foggy Pokémon Orienteering!
-Battling Into the Hall of Fame!
+Battling into the Hall of Fame!
 Diancie, Princess of the Diamond Domain
 Pikachu, What's This Key?
 Diancie and the Cocoon of Destruction
@@ -977,13 +977,16 @@ Rotom's Wish!
 [JPN] Pikachu and the Pokémon Band
 Hoopa and the Clash of Ages
 A Festival Trade! A Festival Farewell?
-[JPN] Crossing the Snow Mountains! Mammoo and Yukinooh!!
-[JPN] Harimaron! Its First Errand!!
-[JPN] A Broken Twig and a Broken Heart! Tairenar's Strong Feelings!!
+Over the Mountain of Snow!
+Adventures in Running Errands!
+Mending a Broken Spirit!
 [JPN] Photo Op on Fire! Snap the Legend!!
 [JPN] Eureka the Caretaker! The Spoiled Chigoras!!
 [JPN] Memories of the Train! Citron and Horubee!!
-[JPN] The Eievui Who is Shy of Strangers!? The Catcher in the Flower Garden!!
+[JPN] The Eievui Who is Shy of Strangers!? Capture at the Flower Garden!!
 [JPN] A Tag Battle is a Friendship Battle! Eievui's First Time in a Fight!!
-[JPN] The Happy Dance Comes After the Quiz!? The Hyakkoku  TriPokalon Tournament!!
+[JPN] The Happy Dance Comes After the Quiz!? The HyakkokuTriPokalon Tournament!!
+[JPN] The Crisis in Kalos! The Battle of the Giant Sundial!!
+[JPN] The Double Battle in the Hyakkoku Gym! Gojika's Future Sight!
+[JPN] Z's Explosive Birth! What Lurks in Kalos!!
 [JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~
