@@ -14018,7 +14018,7 @@
       "airdate": "2014-02-20T00:00:00.000Z",
       "number": 17,
       "series": "XY",
-      "title": "Keromatsu VS Gekogahshier! Ninja Battle!!"
+      "title": "Keromatsu VS Gekogashira! Ninja Battle!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14656,7 +14656,7 @@
       "airdate": "2014-12-11T00:00:00.000Z",
       "number": 52,
       "series": "XY",
-      "title": "Ninja Arts Showdown! Gekogahshier VS Gamenodes!!"
+      "title": "Ninja Arts Showdown! Gekogashira VS Gamenodes!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14752,7 +14752,7 @@
       "airdate": "2015-01-29T00:00:00.000Z",
       "number": 58,
       "series": "XY",
-      "title": "Hiyoku Gym Battle! Gekogahshier VS Gogoat!!"
+      "title": "Hiyoku Gym Battle! Gekogashira VS Gogoat!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15082,10 +15082,13 @@
     "code": "SS033",
     "jpn": {
       "airdate": "2015-06-18T00:00:00.000Z",
-      "title": "Pikachu Becomes a Star!? It's Movie Debut!!"
+      "title": "Pikachu Becomes a Star!? It's Movie Debut!!  How to Pikachu The Movie! OK! Action!!  The Lightning-fast Hero! Super Pikachu!!  Pikachu's Shocking Bloopers"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {}
+    "usa": {
+      "airdate": "2015-11-21T00:00:00.000Z",
+      "title": "Lights! Camera! Pika!"
+    }
   },
   {
     "code": "SS034",
@@ -15234,11 +15237,14 @@
       "airdate": "2015-08-27T00:00:00.000Z",
       "number": 85,
       "series": "XY",
-      "title": "Photo Op on Fire! Snap the Legend!!"
+      "title": "Fire in Focus! Snap the Legend!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-10-24T00:00:00.000Z",
+      "number": 880,
+      "season": 1,
+      "title": "A Legendary Photo Op!"
     }
   },
   {
@@ -15247,11 +15253,14 @@
       "airdate": "2015-09-10T00:00:00.000Z",
       "number": 86,
       "series": "XY",
-      "title": "Eureka the Caretaker! The Spoiled Chigoras!!"
+      "title": "Eureka Will Take Care of You! The Pampered Chigoras!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-10-31T00:00:00.000Z",
+      "number": 881,
+      "season": 1,
+      "title": "The Tiny Caretaker!"
     }
   },
   {
@@ -15260,11 +15269,14 @@
       "airdate": "2015-09-17T00:00:00.000Z",
       "number": 87,
       "series": "XY",
-      "title": "Memories of the Train! Citron and Horubee!!"
+      "title": "A Train Revisited! Citron and Horubee!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-11-07T00:00:00.000Z",
+      "number": 882,
+      "season": 1,
+      "title": "A Trip Down Memory Train!"
     }
   },
   {
@@ -15273,11 +15285,14 @@
       "airdate": "2015-09-24T00:00:00.000Z",
       "number": 88,
       "series": "XY",
-      "title": "The Eievui Who is Shy of Strangers!? Capture at the Flower Garden!!"
+      "title": "Eievui is Shy with Strangers!? The Catcher in the Flowers!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-11-14T00:00:00.000Z",
+      "number": 883,
+      "season": 1,
+      "title": "The Frocking Find in the Flowers!"
     }
   },
   {
@@ -15290,7 +15305,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-11-28T00:00:00.000Z",
+      "number": 884,
+      "season": 1,
+      "title": "Tag Team Inspiration!"
     }
   },
   {
@@ -15353,5 +15371,44 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {}
+  },
+  {
+    "code": "XY094",
+    "jpn": {
+      "airdate": "2015-11-05T00:00:00.000Z",
+      "number": 94,
+      "series": "XY",
+      "title": "Hot-blooded Hariborg! Puni-chan is Being Targeted!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY095",
+    "jpn": {
+      "airdate": "2015-11-12T00:00:00.000Z",
+      "number": 95,
+      "series": "XY",
+      "title": "Mega Tabunne VS Giga Giga Nyarth!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY096",
+    "jpn": {
+      "airdate": "2015-11-19T00:00:00.000Z",
+      "number": 96,
+      "series": "XY",
+      "title": "Shishiko and Kaenjishi! A Fiery Journey!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
   }
 ]

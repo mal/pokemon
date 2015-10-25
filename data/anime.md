@@ -971,7 +971,7 @@
 | XY075 | Rivals: Today and Tomorrow!                                                      | 2015-06-04 | 2015-08-08 |
 | XY076 | A Not-So-Flying Start!                                                           | 2015-06-11 | 2015-08-22 |
 | XY077 | A Relay in the Sky!                                                              | 2015-06-18 | 2015-08-29 |
-| SS033 | [JPN] Pikachu Becomes a Star!? It's Movie Debut!!                                | 2015-06-18 |  _Unaired_ |
+| SS033 | Lights! Camera! Pika!                                                            | 2015-06-18 | 2015-11-21 |
 | SS034 | [JPN] The Minidjinni of the Word "Appear!": Hoopa                                | 2015-06-19 |  _Unaired_ |
 | XY078 | A Frenzied Factory Fiasco!                                                       | 2015-06-25 | 2015-09-05 |
 | XY079 | Performing with Fiery Charm!                                                     | 2015-07-02 | 2015-09-12 |
@@ -982,13 +982,16 @@
 | XY082 | Over the Mountain of Snow!                                                       | 2015-07-30 | 2015-10-03 |
 | XY083 | Adventures in Running Errands!                                                   | 2015-08-13 | 2015-10-10 |
 | XY084 | Mending a Broken Spirit!                                                         | 2015-08-20 | 2015-10-17 |
-| XY085 | [JPN] Photo Op on Fire! Snap the Legend!!                                        | 2015-08-27 |  _Unaired_ |
-| XY086 | [JPN] Eureka the Caretaker! The Spoiled Chigoras!!                               | 2015-09-10 |  _Unaired_ |
-| XY087 | [JPN] Memories of the Train! Citron and Horubee!!                                | 2015-09-17 |  _Unaired_ |
-| XY088 | [JPN] The Eievui Who is Shy of Strangers!? Capture at the Flower Garden!!        | 2015-09-24 |  _Unaired_ |
-| XY089 | [JPN] A Tag Battle is a Friendship Battle! Eievui's First Time in a Fight!!      | 2015-10-01 |  _Unaired_ |
+| XY085 | A Legendary Photo Op!                                                            | 2015-08-27 | 2015-10-24 |
+| XY086 | The Tiny Caretaker!                                                              | 2015-09-10 | 2015-10-31 |
+| XY087 | A Trip Down Memory Train!                                                        | 2015-09-17 | 2015-11-07 |
+| XY088 | The Frocking Find in the Flowers!                                                | 2015-09-24 | 2015-11-14 |
+| XY089 | Tag Team Inspiration!                                                            | 2015-10-01 | 2015-11-28 |
 | XY090 | [JPN] The Happy Dance Comes After the Quiz!? The HyakkokuTriPokalon Tournament!! | 2015-10-08 |  _Unaired_ |
 | XY091 | [JPN] The Crisis in Kalos! The Battle of the Giant Sundial!!                     | 2015-10-15 |  _Unaired_ |
 | XY092 | [JPN] The Double Battle in the Hyakkoku Gym! Gojika's Future Sight!              | 2015-10-22 |  _Unaired_ |
 | XY093 | [JPN] Z's Explosive Birth! What Lurks in Kalos!!                                 | 2015-10-29 |  _Unaired_ |
 | SS035 | [JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~ | 2015-10-29 |  _Unaired_ |
+| XY094 | [JPN] Hot-blooded Hariborg! Puni-chan is Being Targeted!!                        | 2015-11-05 |  _Unaired_ |
+| XY095 | [JPN] Mega Tabunne VS Giga Giga Nyarth!!                                         | 2015-11-12 |  _Unaired_ |
+| XY096 | [JPN] Shishiko and Kaenjishi! A Fiery Journey!!                                  | 2015-11-19 |  _Unaired_ |
