@@ -15097,7 +15097,9 @@
       "title": "The Minidjinni of the Word \"Appear!\": Hoopa"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {}
+    "usa": {
+      "title": "Hoopa, The Mischief of Pokémon"
+    }
   },
   {
     "code": "XY078",
@@ -15164,6 +15166,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
+      "airdate": "2015-11-07T00:00:00.000Z",
       "title": "Hoopa and the Clash of Ages"
     }
   },
@@ -15292,7 +15295,7 @@
       "airdate": "2015-11-14T00:00:00.000Z",
       "number": 883,
       "season": 1,
-      "title": "The Frocking Find in the Flowers!"
+      "title": "A Frolicking Find in the Flowers!"
     }
   },
   {
@@ -15317,11 +15320,14 @@
       "airdate": "2015-10-08T00:00:00.000Z",
       "number": 90,
       "series": "XY",
-      "title": "The Happy Dance Comes After the Quiz!? The HyakkokuTriPokalon Tournament!!"
+      "title": "The Happy Dance Comes After the Quiz!? The Hyakkoku TriPokalon Tournament!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-12-05T00:00:00.000Z",
+      "number": 885,
+      "season": 1,
+      "title": "A Performance Pop Quiz!"
     }
   },
   {
@@ -15334,7 +15340,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-12-12T00:00:00.000Z",
+      "number": 886,
+      "season": 1,
+      "title": "Cloudy Fate, Bright Future!"
     }
   },
   {
@@ -15347,7 +15356,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2015-12-19T00:00:00.000Z",
+      "number": 887,
+      "season": 1,
+      "title": "All Eyes on the Future!"
     }
   },
   {
@@ -15405,6 +15417,45 @@
       "number": 96,
       "series": "XY",
       "title": "Shishiko and Kaenjishi! A Fiery Journey!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY097",
+    "jpn": {
+      "airdate": "2015-11-26T00:00:00.000Z",
+      "number": 97,
+      "series": "XY",
+      "title": "Pikachu, the Dreams that Puni-chan Sees!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY098",
+    "jpn": {
+      "airdate": "2015-12-03T00:00:00.000Z",
+      "number": 98,
+      "series": "XY",
+      "title": "Welcome to the Ninja Village! The Legend of the Heroic Gekkouga!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY099",
+    "jpn": {
+      "airdate": "2015-12-10T00:00:00.000Z",
+      "number": 99,
+      "series": "XY",
+      "title": "Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {

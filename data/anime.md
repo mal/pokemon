@@ -972,12 +972,12 @@
 | XY076 | A Not-So-Flying Start!                                                           | 2015-06-11 | 2015-08-22 |
 | XY077 | A Relay in the Sky!                                                              | 2015-06-18 | 2015-08-29 |
 | SS033 | Lights! Camera! Pika!                                                            | 2015-06-18 | 2015-11-21 |
-| SS034 | [JPN] The Minidjinni of the Word "Appear!": Hoopa                                | 2015-06-19 |  _Unaired_ |
+| SS034 | Hoopa, The Mischief of Pokémon                                                   | 2015-06-19 |  _Unaired_ |
 | XY078 | A Frenzied Factory Fiasco!                                                       | 2015-06-25 | 2015-09-05 |
 | XY079 | Performing with Fiery Charm!                                                     | 2015-07-02 | 2015-09-12 |
 | XY080 | Rotom's Wish!                                                                    | 2015-07-09 | 2015-09-19 |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                               | 2015-07-18 |  _Unaired_ |
-| M18   | Hoopa and the Clash of Ages                                                      | 2015-07-18 |  _Unaired_ |
+| M18   | Hoopa and the Clash of Ages                                                      | 2015-07-18 | 2015-11-07 |
 | XY081 | A Festival Trade! A Festival Farewell?                                           | 2015-07-23 | 2015-09-26 |
 | XY082 | Over the Mountain of Snow!                                                       | 2015-07-30 | 2015-10-03 |
 | XY083 | Adventures in Running Errands!                                                   | 2015-08-13 | 2015-10-10 |
@@ -985,13 +985,16 @@
 | XY085 | A Legendary Photo Op!                                                            | 2015-08-27 | 2015-10-24 |
 | XY086 | The Tiny Caretaker!                                                              | 2015-09-10 | 2015-10-31 |
 | XY087 | A Trip Down Memory Train!                                                        | 2015-09-17 | 2015-11-07 |
-| XY088 | The Frocking Find in the Flowers!                                                | 2015-09-24 | 2015-11-14 |
+| XY088 | A Frolicking Find in the Flowers!                                                | 2015-09-24 | 2015-11-14 |
 | XY089 | Tag Team Inspiration!                                                            | 2015-10-01 | 2015-11-28 |
-| XY090 | [JPN] The Happy Dance Comes After the Quiz!? The HyakkokuTriPokalon Tournament!! | 2015-10-08 |  _Unaired_ |
-| XY091 | [JPN] The Crisis in Kalos! The Battle of the Giant Sundial!!                     | 2015-10-15 |  _Unaired_ |
-| XY092 | [JPN] The Double Battle in the Hyakkoku Gym! Gojika's Future Sight!              | 2015-10-22 |  _Unaired_ |
+| XY090 | A Performance Pop Quiz!                                                          | 2015-10-08 | 2015-12-05 |
+| XY091 | Cloudy Fate, Bright Future!                                                      | 2015-10-15 | 2015-12-12 |
+| XY092 | All Eyes on the Future!                                                          | 2015-10-22 | 2015-12-19 |
 | XY093 | [JPN] Z's Explosive Birth! What Lurks in Kalos!!                                 | 2015-10-29 |  _Unaired_ |
 | SS035 | [JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~ | 2015-10-29 |  _Unaired_ |
 | XY094 | [JPN] Hot-blooded Hariborg! Puni-chan is Being Targeted!!                        | 2015-11-05 |  _Unaired_ |
 | XY095 | [JPN] Mega Tabunne VS Giga Giga Nyarth!!                                         | 2015-11-12 |  _Unaired_ |
 | XY096 | [JPN] Shishiko and Kaenjishi! A Fiery Journey!!                                  | 2015-11-19 |  _Unaired_ |
+| XY097 | [JPN] Pikachu, the Dreams that Puni-chan Sees!                                   | 2015-11-26 |  _Unaired_ |
+| XY098 | [JPN] Welcome to the Ninja Village! The Legend of the Heroic Gekkouga!!          | 2015-12-03 |  _Unaired_ |
+| XY099 | [JPN] Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!           | 2015-12-10 |  _Unaired_ |
