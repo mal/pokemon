@@ -26,6 +26,7 @@ Primeape Goes Bananas
 Pokémon Scent-sation!
 Hypno's Naptime
 Pokémon Fashion Flash
+[JPN] Pocket Monsters, Fall Special!
 The Punchy Pokémon
 Sparks Fly for Magnemite
 Dig Those Diglett!
@@ -83,6 +84,7 @@ All Fired Up!
 Round One - Begin!
 Fire and Ice
 The Fourth Round Rumble
+[JPN] It's the New Year! Pocket Monsters Special!
 A Friend In Deed
 Friend and Foe Alike
 Friends to the End
@@ -929,7 +931,7 @@ Summer of Discovery!
 Day Three Blockbusters!
 Foggy Pokémon Orienteering!
 Battling into the Hall of Fame!
-Diancie, Princess of the Diamond Domain
+Diancie — Princess of the Diamond Domain
 Pikachu, What's This Key?
 Diancie and the Cocoon of Destruction
 Origins of Mega Evolution!
@@ -969,8 +971,8 @@ Fairy-Type Trickery!
 Rivals: Today and Tomorrow!
 A Not-So-Flying Start!
 A Relay in the Sky!
-Lights! Camera! Pika!
-Hoopa, The Mischief of Pokémon
+Lights! Camera! Pika!How to make a Pikachu Movie: Ready...Action!Lightning Fast! Brave and Strong! Super-Pikachu!The Very Best of Super-Pikachu's Back-Slapping Bloopers!
+Hoopa — The Mischief Pokémon
 A Frenzied Factory Fiasco!
 Performing with Fiery Charm!
 Rotom's Wish!
@@ -984,7 +986,7 @@ A Legendary Photo Op!
 The Tiny Caretaker!
 A Trip Down Memory Train!
 A Frolicking Find in the Flowers!
-Tag Team Inspiration!
+Tag Team Battle Inspiration!
 A Performance Pop Quiz!
 Cloudy Fate, Bright Future!
 All Eyes on the Future!
@@ -993,6 +995,8 @@ All Eyes on the Future!
 [JPN] Hot-blooded Hariborg! Puni-chan is Being Targeted!!
 [JPN] Mega Tabunne VS Giga Giga Nyarth!!
 [JPN] Shishiko and Kaenjishi! A Fiery Journey!!
-[JPN] Pikachu, the Dreams that Puni-chan Sees!
+[JPN] Pikachu, Dreams of Puni-chan!
 [JPN] Welcome to the Ninja Village! The Legend of the Heroic Gekkouga!!
 [JPN] Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!
+[JPN] Dance, Eievui! Its TriPokalon Debut!!
+[JPN] Terminus Cave! The Mystery of Z is Set in Motion!!

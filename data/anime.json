@@ -448,6 +448,15 @@
     }
   },
   {
+    "code": "UN01",
+    "jpn": {
+      "airdate": "1997-10-10T00:00:00.000Z",
+      "title": "Pocket Monsters, Fall Special!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
+    "usa": {}
+  },
+  {
     "code": "EP029",
     "jpn": {
       "airdate": "1997-10-14T00:00:00.000Z",
@@ -602,7 +611,7 @@
     }
   },
   {
-    "code": "UN01",
+    "code": "UN02",
     "jpn": {
       "airdate": "1998-04-11T00:00:00.000Z",
       "title": "Anime: Pocket Monsters Problem Inspection Report"
@@ -611,7 +620,7 @@
     "usa": {}
   },
   {
-    "code": "UN02",
+    "code": "UN03",
     "jpn": {
       "airdate": "1998-10-05T00:00:00.000Z",
       "series": "EP",
@@ -626,7 +635,7 @@
     }
   },
   {
-    "code": "UN03",
+    "code": "UN04",
     "jpn": {
       "airdate": "1998-10-05T00:00:00.000Z",
       "series": "EP",
@@ -1085,7 +1094,7 @@
     }
   },
   {
-    "code": "UN04",
+    "code": "UN06",
     "src": "http://bulbapedia.bulbagarden.net/wiki/The_Uncut_Story_of_Mewtwo%27s_Origin",
     "jpn": {
       "airdate": "1999-07-08T00:00:00.000Z",
@@ -1323,6 +1332,15 @@
       "season": 1,
       "title": "The Fourth Round Rumble"
     }
+  },
+  {
+    "code": "UN05",
+    "jpn": {
+      "airdate": "1999-01-01T00:00:00.000Z",
+      "title": "It's the New Year! Pocket Monsters Special!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
+    "usa": {}
   },
   {
     "code": "EP078",
@@ -2187,7 +2205,7 @@
     }
   },
   {
-    "code": "UN05",
+    "code": "UN07",
     "jpn": {
       "airdate": "2000-01-01T00:00:00.000Z",
       "title": "Yadoking's Day"
@@ -3044,7 +3062,7 @@
     }
   },
   {
-    "code": "UN06",
+    "code": "UN08",
     "jpn": {
       "airdate": "2000-12-22T00:00:00.000Z",
       "title": "We are the Pichu Brothers - Balloon disturbance"
@@ -5325,7 +5343,7 @@
     }
   },
   {
-    "code": "UN07",
+    "code": "UN09",
     "jpn": {
       "airdate": "2003-07-18T00:00:00.000Z",
       "title": "Pichu Bros. Wild Adventure"
@@ -6125,7 +6143,7 @@
     }
   },
   {
-    "code": "UN08",
+    "code": "UN10",
     "jpn": {
       "airdate": "2004-05-29T00:00:00.000Z",
       "title": "Challenge from the Sky"
@@ -6543,7 +6561,7 @@
     }
   },
   {
-    "code": "UN09",
+    "code": "UN11",
     "jpn": {
       "series": "AG",
       "title": "Shaking Island Battle! Dojoach VS Namazun!!"
@@ -7841,7 +7859,7 @@
     }
   },
   {
-    "code": "UN10",
+    "code": "UN12",
     "jpn": {
       "airdate": "2006-06-03T00:00:00.000Z",
       "title": "Get Together! Pokémon Planet Center"
@@ -9448,7 +9466,7 @@
     }
   },
   {
-    "code": "UN11",
+    "code": "UN13",
     "jpn": {
       "airdate": "2008-05-31T00:00:00.000Z",
       "title": "Get Together! Pokémon Star Festival"
@@ -10871,7 +10889,7 @@
     "code": "SS022",
     "jpn": {
       "airdate": "2010-02-28T00:00:00.000Z",
-      "title": "Pokémon Ranger: Traces of Light"
+      "title": "Pokémon Ranger: Traces of Light (Part One)"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
@@ -11683,7 +11701,7 @@
     }
   },
   {
-    "code": "UN12",
+    "code": "UN14",
     "jpn": {
       "series": "BW",
       "title": "Rocket-dan VS Plasma-dan! (Part 1)"
@@ -11694,7 +11712,7 @@
     }
   },
   {
-    "code": "UN13",
+    "code": "UN15",
     "jpn": {
       "series": "BW",
       "title": "Rocket-dan VS Plasma-dan! (Part 2)"
@@ -11913,7 +11931,7 @@
     }
   },
   {
-    "code": "UN14",
+    "code": "UN16",
     "jpn": {
       "airdate": "2011-06-11T00:00:00.000Z",
       "title": "Celestial Globe of Light and Shadow"
@@ -14338,7 +14356,7 @@
     }
   },
   {
-    "code": "UN15",
+    "code": "UN17",
     "jpn": {
       "airdate": "2014-07-12T00:00:00.000Z",
       "title": "Celestial Debris"
@@ -14467,7 +14485,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2014-11-06T00:00:00.000Z",
-      "title": "Diancie, Princess of the Diamond Domain"
+      "title": "Diancie — Princess of the Diamond Domain"
     }
   },
   {
@@ -15087,7 +15105,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2015-11-21T00:00:00.000Z",
-      "title": "Lights! Camera! Pika!"
+      "title": "Lights! Camera! Pika!How to make a Pikachu Movie: Ready...Action!Lightning Fast! Brave and Strong! Super-Pikachu!The Very Best of Super-Pikachu's Back-Slapping Bloopers!"
     }
   },
   {
@@ -15098,7 +15116,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
-      "title": "Hoopa, The Mischief of Pokémon"
+      "title": "Hoopa — The Mischief Pokémon"
     }
   },
   {
@@ -15166,7 +15184,6 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
-      "airdate": "2015-11-07T00:00:00.000Z",
       "title": "Hoopa and the Clash of Ages"
     }
   },
@@ -15311,7 +15328,7 @@
       "airdate": "2015-11-28T00:00:00.000Z",
       "number": 884,
       "season": 1,
-      "title": "Tag Team Inspiration!"
+      "title": "Tag Team Battle Inspiration!"
     }
   },
   {
@@ -15429,7 +15446,7 @@
       "airdate": "2015-11-26T00:00:00.000Z",
       "number": 97,
       "series": "XY",
-      "title": "Pikachu, the Dreams that Puni-chan Sees!"
+      "title": "Pikachu, Dreams of Puni-chan!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15456,6 +15473,32 @@
       "number": 99,
       "series": "XY",
       "title": "Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY100",
+    "jpn": {
+      "airdate": "2015-12-17T00:00:00.000Z",
+      "number": 100,
+      "series": "XY",
+      "title": "Dance, Eievui! Its TriPokalon Debut!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY101",
+    "jpn": {
+      "airdate": "2015-12-24T00:00:00.000Z",
+      "number": 101,
+      "series": "XY",
+      "title": "Terminus Cave! The Mystery of Z is Set in Motion!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
