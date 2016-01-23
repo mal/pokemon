@@ -407,7 +407,7 @@
 | AG086 | Lights, Camerupt, Action!                                                                                                                                                 | 2004-07-22 | 2005-07-16 |
 | AG087 | Crazy as a Lunatone                                                                                                                                                       | 2004-07-29 | 2005-08-20 |
 | PK13  | [JPN] Pikachu's Summer Festival                                                                                                                                           | 2004-08-01 |  _Unaired_ |
-| M07   | Destiny Deoxys                                                                                                                                                            | 2004-07-17 | 2005-01-22 |
+| M07   | Pokémon: Destiny Deoxys                                                                                                                                                   | 2004-07-17 | 2005-01-22 |
 | AG088 | The Garden of Eatin'                                                                                                                                                      | 2004-08-05 | 2005-08-27 |
 | AG089 | A Scare to Remember!                                                                                                                                                      | 2004-08-12 | 2005-09-03 |
 | AG090 | Pokéblock, Stock, and Berry                                                                                                                                               | 2004-08-19 | 2005-09-03 |
@@ -460,7 +460,7 @@
 | AG132 | The Scheme Team                                                                                                                                                           | 2005-06-23 | 2006-04-08 |
 | AG133 | The Right Place and the Right Mime                                                                                                                                        | 2005-06-30 | 2006-04-15 |
 | AG134 | A Real Cleffa-Hanger                                                                                                                                                      | 2005-07-07 | 2006-04-15 |
-| M08   | Lucario and the Mystery of Mew                                                                                                                                            | 2005-07-16 | 2006-09-19 |
+| M08   | Pokémon: Lucario and the Mystery of Mew                                                                                                                                   | 2005-07-16 | 2006-09-19 |
 | AG135 | Numero Uno Articuno                                                                                                                                                       | 2005-07-21 | 2006-04-22 |
 | AG136 | The Symbol Life                                                                                                                                                           | 2005-07-28 | 2006-04-22 |
 | PK15  | [JPN] Pikachu's Ghost Carnival                                                                                                                                            | 2005-08-01 |  _Unaired_ |
@@ -565,7 +565,7 @@
 | DP037 | The Grass Menagerie!                                                                                                                                                      | 2007-06-07 | 2007-11-17 |
 | DP038 | One Big Happiny Family!                                                                                                                                                   | 2007-06-21 | 2007-11-24 |
 | DP039 | Steamboat Willies!                                                                                                                                                        | 2007-07-05 | 2007-12-01 |
-| M10   | The Rise of Darkrai                                                                                                                                                       | 2007-07-14 | 2008-02-24 |
+| M10   | Pokémon: The Rise of Darkrai                                                                                                                                              | 2007-07-14 | 2008-02-24 |
 | DP040 | Top-Down Training!                                                                                                                                                        | 2007-07-19 | 2007-12-08 |
 | DP041 | A Stand-Up Sit-Down!                                                                                                                                                      | 2007-07-26 | 2007-12-15 |
 | PK18  | [JPN] Pikachu's Exploration Club                                                                                                                                          | 2007-08-01 |  _Unaired_ |
@@ -616,7 +616,7 @@
 | DP084 | Hungry For the Good Life!                                                                                                                                                 | 2008-07-03 | 2008-12-06 |
 | DP085 | Fighting Fear With Fear!!                                                                                                                                                 | 2008-07-03 | 2008-12-13 |
 | DP086 | Arriving in Style!                                                                                                                                                        | 2008-07-10 | 2008-12-20 |
-| M11   | Giratina and the Sky Warrior                                                                                                                                              | 2008-07-19 | 2009-02-13 |
+| M11   | Pokémon: Giratina and the Sky Warrior                                                                                                                                     | 2008-07-19 | 2009-02-13 |
 | DP087 | The Psyduck Stops Here!                                                                                                                                                   | 2008-07-24 | 2008-12-27 |
 | PK19  | [JPN] Pikachu's Ice Adventure                                                                                                                                             | 2008-08-01 |  _Unaired_ |
 | DP088 | Camping It Up!                                                                                                                                                            | 2008-08-07 | 2009-01-03 |
@@ -668,7 +668,7 @@
 | DP133 | Uncrushing Defeat!                                                                                                                                                        | 2009-06-25 | 2009-11-21 |
 | DP134 | Promoting Healthy Tangrowth!                                                                                                                                              | 2009-07-02 | 2009-12-05 |
 | DP135 | Beating the Bustle and Hustle!                                                                                                                                            | 2009-07-09 | 2009-12-12 |
-| M12   | Arceus and the Jewel of Life                                                                                                                                              | 2009-07-18 | 2009-11-20 |
+| M12   | Pokémon: Arceus and the Jewel of Life                                                                                                                                     | 2009-07-18 | 2009-11-20 |
 | DP136 | Gateway to Ruin!                                                                                                                                                          | 2009-07-23 | 2009-12-19 |
 | PK20  | [JPN] Pikachu's Big Sparking Search                                                                                                                                       | 2009-08-01 |  _Unaired_ |
 | DP137 | Three Sides to Every Story!                                                                                                                                               | 2009-08-06 | 2009-12-26 |
@@ -715,7 +715,7 @@
 | DP176 | Coming Full Festival Circle!                                                                                                                                              | 2010-05-13 | 2010-10-02 |
 | DP177 | A Grand Fight for Winning!                                                                                                                                                | 2010-05-20 | 2010-10-09 |
 | DP178 | For The Love Of Meowth!                                                                                                                                                   | 2010-05-27 | 2010-10-23 |
-| M13   | Zoroark: Master of Illusions                                                                                                                                              | 2010-07-10 | 2011-02-05 |
+| M13   | Pokémon—Zoroark: Master of Illusions                                                                                                                                      | 2010-07-10 | 2011-02-05 |
 | DP179 | The Eighth Wonder of the Sinnoh World!                                                                                                                                    | 2010-06-03 | 2010-10-30 |
 | DP180 | Four Roads Diverged in a Pokémon Port!                                                                                                                                    | 2010-06-10 | 2010-11-06 |
 | DP181 | Bucking the Treasure Trend!                                                                                                                                               | 2010-06-17 | 2010-11-13 |
@@ -773,8 +773,8 @@
 | BW036 | Archeops In The Modern World!                                                                                                                                             | 2011-06-16 | 2011-10-08 |
 | BW037 | A Fishing Connoisseur in a Fishy Competition!                                                                                                                             | 2011-06-23 | 2011-10-15 |
 | PK22  | [JPN] Pikachu's Summer Bridge Story                                                                                                                                       | 2011-08-01 |  _Unaired_ |
-| M14   | White—Victini and Zekrom                                                                                                                                                  | 2011-07-16 | 2011-12-03 |
-| M14b  | Black—Victini and Reshiram                                                                                                                                                | 2011-07-16 | 2011-12-10 |
+| M14   | Pokémon the Movie: White—Victini and Zekrom                                                                                                                               | 2011-07-16 | 2011-12-03 |
+| M14b  | Pokémon the Movie: Black—Victini and Reshiram                                                                                                                             | 2011-07-16 | 2011-12-10 |
 | BW038 | Movie Time! Zorua in "The Legend of the Pokémon Knight"!                                                                                                                  | 2011-06-30 | 2011-10-22 |
 | BW039 | Reunion Battles In Nimbasa!                                                                                                                                               | 2011-07-07 | 2011-10-29 |
 | BW040 | Cilan Versus Trip, Ash Versus Georgia!                                                                                                                                    | 2011-07-21 | 2011-11-05 |
@@ -818,7 +818,7 @@
 | BW078 | Guarding the Guardian of the Mountain!                                                                                                                                    | 2012-05-10 | 2012-09-08 |
 | BW079 | Caution: Icy Battle Conditions!                                                                                                                                           | 2012-05-17 | 2012-09-15 |
 | BW080 | Clash of the Connoisseurs!                                                                                                                                                | 2012-05-24 | 2012-09-22 |
-| M15   | Kyurem VS. The Sword of Justice                                                                                                                                           | 2012-07-14 | 2012-12-08 |
+| M15   | Pokémon the Movie: Kyurem VS. The Sword of Justice                                                                                                                        | 2012-07-14 | 2012-12-08 |
 | BW081 | Crisis at Ferroseed Research!                                                                                                                                             | 2012-05-31 | 2012-09-29 |
 | BW082 | An Epic Defense Force!                                                                                                                                                    | 2012-06-07 | 2012-10-06 |
 | BW083 | Rocking The Virbank Gym! Part 1                                                                                                                                           | 2012-06-14 | 2012-10-13 |
@@ -876,7 +876,7 @@
 | BW133 | Capacia Island UFO!                                                                                                                                                       | 2013-07-04 | 2013-10-05 |
 | SS026 | Mewtwo — Prologue to Awakening                                                                                                                                            | 2013-07-11 | 2014-01-11 |
 | PK25  | Eevee & Friends                                                                                                                                                           | 2013-07-13 | 2013-12-06 |
-| M16   | Genesect and The Legend Awakened                                                                                                                                          | 2013-07-13 | 2013-10-19 |
+| M16   | Pokémon the Movie: Genesect and The Legend Awakened                                                                                                                       | 2013-07-13 | 2013-10-19 |
 | BW134 | The Journalist from Another Region!                                                                                                                                       | 2013-07-18 | 2013-10-12 |
 | BW135 | Mystery on a Deserted Island!                                                                                                                                             | 2013-07-25 | 2013-10-19 |
 | BW136 | A Pokémon of a Different Color!                                                                                                                                           | 2013-08-01 | 2013-10-26 |
@@ -935,7 +935,7 @@
 | XY042 | Battling into the Hall of Fame!                                                                                                                                           | 2014-09-04 | 2014-11-01 |
 | SS030 | Diancie — Princess of the Diamond Domain                                                                                                                                  | 2014-07-17 | 2014-11-06 |
 | PK26  | Pikachu, What's This Key?                                                                                                                                                 | 2014-07-19 | 2015-02-02 |
-| M17   | Diancie and the Cocoon of Destruction                                                                                                                                     | 2014-07-19 | 2014-11-08 |
+| M17   | Pokémon the Movie: Diancie and the Cocoon of Destruction                                                                                                                  | 2014-07-19 | 2014-11-08 |
 | XY043 | Origins of Mega Evolution!                                                                                                                                                | 2014-09-18 | 2014-11-08 |
 | XY044 | Showdown at the Shalour Gym!                                                                                                                                              | 2014-09-25 | 2014-11-15 |
 | XY045 | Splitting Heirs!                                                                                                                                                          | 2014-10-02 | 2014-11-22 |
@@ -974,12 +974,12 @@
 | XY076 | A Not-So-Flying Start!                                                                                                                                                    | 2015-06-11 | 2015-08-22 |
 | XY077 | A Relay in the Sky!                                                                                                                                                       | 2015-06-18 | 2015-08-29 |
 | SS033 | Lights! Camera! Pika!How to make a Pikachu Movie: Ready...Action!Lightning Fast! Brave and Strong! Super-Pikachu!The Very Best of Super-Pikachu's Back-Slapping Bloopers! | 2015-06-18 | 2015-11-21 |
-| SS034 | Hoopa — The Mischief Pokémon                                                                                                                                              | 2015-06-19 |  _Unaired_ |
+| SS034 | Hoopa — The Mischief Pokémon                                                                                                                                              | 2015-06-19 | 2015-12-03 |
 | XY078 | A Frenzied Factory Fiasco!                                                                                                                                                | 2015-06-25 | 2015-09-05 |
 | XY079 | Performing with Fiery Charm!                                                                                                                                              | 2015-07-02 | 2015-09-12 |
 | XY080 | Rotom's Wish!                                                                                                                                                             | 2015-07-09 | 2015-09-19 |
 | PK27  | [JPN] Pikachu and the Pokémon Band                                                                                                                                        | 2015-07-18 |  _Unaired_ |
-| M18   | Hoopa and the Clash of Ages                                                                                                                                               | 2015-07-18 |  _Unaired_ |
+| M18   | Pokémon the Movie: Hoopa and the Clash of Ages                                                                                                                            | 2015-07-18 | 2015-11-05 |
 | XY081 | A Festival Trade! A Festival Farewell?                                                                                                                                    | 2015-07-23 | 2015-09-26 |
 | XY082 | Over the Mountain of Snow!                                                                                                                                                | 2015-07-30 | 2015-10-03 |
 | XY083 | Adventures in Running Errands!                                                                                                                                            | 2015-08-13 | 2015-10-10 |
@@ -993,7 +993,7 @@
 | XY091 | Cloudy Fate, Bright Future!                                                                                                                                               | 2015-10-15 | 2015-12-12 |
 | XY092 | All Eyes on the Future!                                                                                                                                                   | 2015-10-22 | 2015-12-19 |
 | XY093 | [JPN] Z's Explosive Birth! What Lurks in Kalos!!                                                                                                                          | 2015-10-29 |  _Unaired_ |
-| SS035 | [JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~                                                                                          | 2015-10-29 |  _Unaired_ |
+| SS035 | Mega Evolution Special IV                                                                                                                                                 | 2015-10-29 | 2015-12-26 |
 | XY094 | [JPN] Hot-blooded Hariborg! Puni-chan is Being Targeted!!                                                                                                                 | 2015-11-05 |  _Unaired_ |
 | XY095 | [JPN] Mega Tabunne VS Giga Giga Nyarth!!                                                                                                                                  | 2015-11-12 |  _Unaired_ |
 | XY096 | [JPN] Shishiko and Kaenjishi! A Fiery Journey!!                                                                                                                           | 2015-11-19 |  _Unaired_ |
@@ -1002,3 +1002,4 @@
 | XY099 | [JPN] Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!                                                                                                    | 2015-12-10 |  _Unaired_ |
 | XY100 | [JPN] Dance, Eievui! Its TriPokalon Debut!!                                                                                                                               | 2015-12-17 |  _Unaired_ |
 | XY101 | [JPN] Terminus Cave! The Mystery of Z is Set in Motion!!                                                                                                                  | 2015-12-24 |  _Unaired_ |
+| M19   | M19                                                                                                                                                                       | 2016-07-16 |  _Unaired_ |

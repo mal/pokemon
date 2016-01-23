@@ -6313,7 +6313,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2005-01-22T00:00:00.000Z",
-      "title": "Destiny Deoxys"
+      "title": "Pokémon: Destiny Deoxys"
     }
   },
   {
@@ -7130,7 +7130,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2006-09-19T00:00:00.000Z",
-      "title": "Lucario and the Mystery of Mew"
+      "title": "Pokémon: Lucario and the Mystery of Mew"
     }
   },
   {
@@ -8772,7 +8772,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2008-02-24T00:00:00.000Z",
-      "title": "The Rise of Darkrai"
+      "title": "Pokémon: The Rise of Darkrai"
     }
   },
   {
@@ -9563,7 +9563,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2009-02-13T00:00:00.000Z",
-      "title": "Giratina and the Sky Warrior"
+      "title": "Pokémon: Giratina and the Sky Warrior"
     }
   },
   {
@@ -10377,7 +10377,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2009-11-20T00:00:00.000Z",
-      "title": "Arceus and the Jewel of Life"
+      "title": "Pokémon: Arceus and the Jewel of Life"
     }
   },
   {
@@ -11110,7 +11110,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2011-02-05T00:00:00.000Z",
-      "title": "Zoroark: Master of Illusions"
+      "title": "Pokémon—Zoroark: Master of Illusions"
     }
   },
   {
@@ -11989,7 +11989,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2011-12-03T00:00:00.000Z",
-      "title": "White—Victini and Zekrom"
+      "title": "Pokémon the Movie: White—Victini and Zekrom"
     }
   },
   {
@@ -12001,7 +12001,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2011-12-10T00:00:00.000Z",
-      "title": "Black—Victini and Reshiram"
+      "title": "Pokémon the Movie: Black—Victini and Reshiram"
     }
   },
   {
@@ -12701,7 +12701,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2012-12-08T00:00:00.000Z",
-      "title": "Kyurem VS. The Sword of Justice"
+      "title": "Pokémon the Movie: Kyurem VS. The Sword of Justice"
     }
   },
   {
@@ -13606,7 +13606,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2013-10-19T00:00:00.000Z",
-      "title": "Genesect and The Legend Awakened"
+      "title": "Pokémon the Movie: Genesect and The Legend Awakened"
     }
   },
   {
@@ -14509,7 +14509,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
       "airdate": "2014-11-08T00:00:00.000Z",
-      "title": "Diancie and the Cocoon of Destruction"
+      "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction"
     }
   },
   {
@@ -15116,6 +15116,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
+      "airdate": "2015-12-03T00:00:00.000Z",
       "title": "Hoopa — The Mischief Pokémon"
     }
   },
@@ -15184,7 +15185,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
-      "title": "Hoopa and the Clash of Ages"
+      "airdate": "2015-11-05T00:00:00.000Z",
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages"
     }
   },
   {
@@ -15396,10 +15398,13 @@
     "code": "SS035",
     "jpn": {
       "airdate": "2015-10-29T00:00:00.000Z",
-      "title": "Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~"
+      "title": "Pocket Monsters XY Special Episode: The Strongest Mega Evolution ~Act IV~"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
-    "usa": {}
+    "usa": {
+      "airdate": "2015-12-26T00:00:00.000Z",
+      "title": "Mega Evolution Special IV"
+    }
   },
   {
     "code": "XY094",
@@ -15503,6 +15508,17 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
       "season": 1
+    }
+  },
+  {
+    "code": "M19",
+    "jpn": {
+      "airdate": "2016-07-16T00:00:00.000Z",
+      "title": "Pokémon the movie XY & Z 2016"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
+    "usa": {
+      "title": "M19"
     }
   }
 ]

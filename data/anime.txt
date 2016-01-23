@@ -405,7 +405,7 @@ Sky High Gym Battle!
 Lights, Camerupt, Action!
 Crazy as a Lunatone
 [JPN] Pikachu's Summer Festival
-Destiny Deoxys
+Pokémon: Destiny Deoxys
 The Garden of Eatin'
 A Scare to Remember!
 Pokéblock, Stock, and Berry
@@ -458,7 +458,7 @@ At the End of the Fray
 The Scheme Team
 The Right Place and the Right Mime
 A Real Cleffa-Hanger
-Lucario and the Mystery of Mew
+Pokémon: Lucario and the Mystery of Mew
 Numero Uno Articuno
 The Symbol Life
 [JPN] Pikachu's Ghost Carnival
@@ -563,7 +563,7 @@ A Secret Sphere of Influence!
 The Grass Menagerie!
 One Big Happiny Family!
 Steamboat Willies!
-The Rise of Darkrai
+Pokémon: The Rise of Darkrai
 Top-Down Training!
 A Stand-Up Sit-Down!
 [JPN] Pikachu's Exploration Club
@@ -614,7 +614,7 @@ A Crasher Course in Power!
 Hungry For the Good Life!
 Fighting Fear With Fear!!
 Arriving in Style!
-Giratina and the Sky Warrior
+Pokémon: Giratina and the Sky Warrior
 The Psyduck Stops Here!
 [JPN] Pikachu's Ice Adventure
 Camping It Up!
@@ -666,7 +666,7 @@ Evolving Strategies!
 Uncrushing Defeat!
 Promoting Healthy Tangrowth!
 Beating the Bustle and Hustle!
-Arceus and the Jewel of Life
+Pokémon: Arceus and the Jewel of Life
 Gateway to Ruin!
 [JPN] Pikachu's Big Sparking Search
 Three Sides to Every Story!
@@ -713,7 +713,7 @@ Opposites Interact!
 Coming Full Festival Circle!
 A Grand Fight for Winning!
 For The Love Of Meowth!
-Zoroark: Master of Illusions
+Pokémon—Zoroark: Master of Illusions
 The Eighth Wonder of the Sinnoh World!
 Four Roads Diverged in a Pokémon Port!
 Bucking the Treasure Trend!
@@ -771,8 +771,8 @@ Where Did You Go, Audino?
 Archeops In The Modern World!
 A Fishing Connoisseur in a Fishy Competition!
 [JPN] Pikachu's Summer Bridge Story
-White—Victini and Zekrom
-Black—Victini and Reshiram
+Pokémon the Movie: White—Victini and Zekrom
+Pokémon the Movie: Black—Victini and Reshiram
 Movie Time! Zorua in "The Legend of the Pokémon Knight"!
 Reunion Battles In Nimbasa!
 Cilan Versus Trip, Ash Versus Georgia!
@@ -816,7 +816,7 @@ Evolution by Fire!
 Guarding the Guardian of the Mountain!
 Caution: Icy Battle Conditions!
 Clash of the Connoisseurs!
-Kyurem VS. The Sword of Justice
+Pokémon the Movie: Kyurem VS. The Sword of Justice
 Crisis at Ferroseed Research!
 An Epic Defense Force!
 Rocking The Virbank Gym! Part 1
@@ -874,7 +874,7 @@ Searching for a Wish!
 Capacia Island UFO!
 Mewtwo — Prologue to Awakening
 Eevee & Friends
-Genesect and The Legend Awakened
+Pokémon the Movie: Genesect and The Legend Awakened
 The Journalist from Another Region!
 Mystery on a Deserted Island!
 A Pokémon of a Different Color!
@@ -933,7 +933,7 @@ Foggy Pokémon Orienteering!
 Battling into the Hall of Fame!
 Diancie — Princess of the Diamond Domain
 Pikachu, What's This Key?
-Diancie and the Cocoon of Destruction
+Pokémon the Movie: Diancie and the Cocoon of Destruction
 Origins of Mega Evolution!
 Showdown at the Shalour Gym!
 Splitting Heirs!
@@ -977,7 +977,7 @@ A Frenzied Factory Fiasco!
 Performing with Fiery Charm!
 Rotom's Wish!
 [JPN] Pikachu and the Pokémon Band
-Hoopa and the Clash of Ages
+Pokémon the Movie: Hoopa and the Clash of Ages
 A Festival Trade! A Festival Farewell?
 Over the Mountain of Snow!
 Adventures in Running Errands!
@@ -991,7 +991,7 @@ A Performance Pop Quiz!
 Cloudy Fate, Bright Future!
 All Eyes on the Future!
 [JPN] Z's Explosive Birth! What Lurks in Kalos!!
-[JPN] Pocket Monsters XY Special Episode: The Strongest Mega Evolution !~Act IV~
+Mega Evolution Special IV
 [JPN] Hot-blooded Hariborg! Puni-chan is Being Targeted!!
 [JPN] Mega Tabunne VS Giga Giga Nyarth!!
 [JPN] Shishiko and Kaenjishi! A Fiery Journey!!
@@ -1000,3 +1000,4 @@ All Eyes on the Future!
 [JPN] Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!
 [JPN] Dance, Eievui! Its TriPokalon Debut!!
 [JPN] Terminus Cave! The Mystery of Z is Set in Motion!!
+M19
