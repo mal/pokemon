@@ -51,7 +51,7 @@
 | EP045 | The Song of Jigglypuff                                                                                                                                                    | 1998-05-21 | 1999-02-20 |
 | EP047 | A Chansey Operation                                                                                                                                                       | 1998-06-04 | 1999-03-06 |
 | EP052 | Princess vs. Princess                                                                                                                                                     | 1998-07-09 | 1999-04-10 |
-| EP046 | Attack of the Prehistoric Pokémon                                                                                                                                         | 1998-05-28 | 1999-03-06 |
+| EP046 | Attack of the Prehistoric Pokémon                                                                                                                                         | 1998-05-28 | 1999-02-27 |
 | EP048 | Holy Matrimony!                                                                                                                                                           | 1998-06-11 | 1999-03-13 |
 | EP049 | So Near, Yet So Farfetch'd                                                                                                                                                | 1998-06-18 | 1999-03-20 |
 | EP050 | Who Gets to Keep Togepi?                                                                                                                                                  | 1998-06-25 | 1999-03-27 |
@@ -71,8 +71,8 @@
 | EP065 | Showdown at the Po-ké Corral                                                                                                                                              | 1998-10-08 | 1999-09-30 |
 | PK01  | Pikachu's Vacation                                                                                                                                                        | 1998-07-18 | 1999-11-12 |
 | UN06  | The Uncut Story of Mewtwo's Origin                                                                                                                                        | 1999-07-08 | 2000-03-21 |
-| M01   | Pokémon the First Movie - Mewtwo Strikes Back                                                                                                                             | 1998-07-18 | 1999-11-12 |
-| EP066 | The Evolution Solution                                                                                                                                                    | 1998-10-08 | 1999-09-30 |
+| M01   | Pokémon the First Movie: Mewtwo Strikes Back                                                                                                                              | 1998-07-18 | 1999-11-12 |
+| EP066 | The Evolution Solution                                                                                                                                                    | 1998-10-08 | 1999-10-02 |
 | EP067 | The Pi-Kahuna                                                                                                                                                             | 1998-10-22 | 1999-10-02 |
 | EP068 | Make Room for Gloom                                                                                                                                                       | 1998-10-29 | 1999-10-04 |
 | EP069 | Lights, Camera, Quack-tion!                                                                                                                                               | 1998-11-05 | 1999-10-08 |
@@ -116,7 +116,7 @@
 | EP104 | Bound For Trouble                                                                                                                                                         | 1999-07-15 | 2000-09-15 |
 | EP105 | Charizard Chills                                                                                                                                                          | 1999-07-22 | 2000-09-02 |
 | PK04  | Pikachu's Rescue Adventure                                                                                                                                                | 1999-07-17 | 2000-07-21 |
-| M02   | Pokémon the Movie 2000 - The Power of One                                                                                                                                 | 1999-07-17 | 2000-07-21 |
+| M02   | Pokémon the Movie 2000: The Power of One                                                                                                                                  | 1999-07-17 | 2000-07-21 |
 | EP106 | The Pokémon Water War                                                                                                                                                     | 1999-07-29 | 2000-08-26 |
 | EP107 | Pokémon Food Fight!                                                                                                                                                       | 1999-08-05 | 2000-08-19 |
 | EP108 | Pokémon Double Trouble                                                                                                                                                    | 1999-08-12 | 2000-09-09 |
@@ -198,7 +198,7 @@
 | PK08  | Delibird's Dilemma                                                                                                                                                        | 2000-12-22 | 2006-06-17 |
 | PK09  | Snorlax Snowman                                                                                                                                                           | 2000-12-22 | 2006-06-17 |
 | UN08  | Trouble in Big Town                                                                                                                                                       | 2000-12-22 | 2006-10-14 |
-| TV01  | Mewtwo Returns                                                                                                                                                            | 2000-12-30 | 2001-12-01 |
+| TV01  | Mewtwo Returns                                                                                                                                                            | 2000-12-30 | 2001-12-05 |
 | EP179 | The Apple Corp!                                                                                                                                                           | 2001-01-04 | 2001-12-01 |
 | EP180 | Houndoom's Special Delivery                                                                                                                                               | 2001-01-11 | 2001-12-01 |
 | EP181 | A Ghost of a Chance                                                                                                                                                       | 2001-01-18 | 2001-11-10 |
@@ -449,7 +449,7 @@
 | AG121 | Hi Ho Silver Wind!                                                                                                                                                        | 2005-04-07 | 2006-02-18 |
 | AG122 | Deceit and Assist                                                                                                                                                         | 2005-04-07 | 2006-02-25 |
 | AG123 | Rhapsody in Drew                                                                                                                                                          | 2005-04-07 | 2006-02-25 |
-| AG124 | Island Time                                                                                                                                                               | 2005-04-14 | 2006-03-14 |
+| AG124 | Island Time                                                                                                                                                               | 2005-04-14 | 2006-03-04 |
 | AG125 | Like a Meowth to a Flame                                                                                                                                                  | 2005-04-28 | 2006-03-11 |
 | AG126 | Saved by the Beldum                                                                                                                                                       | 2005-04-28 | 2006-03-11 |
 | AG127 | From Brags to Riches                                                                                                                                                      | 2005-05-05 | 2006-03-11 |
@@ -818,7 +818,7 @@
 | BW078 | Guarding the Guardian of the Mountain!                                                                                                                                    | 2012-05-10 | 2012-09-08 |
 | BW079 | Caution: Icy Battle Conditions!                                                                                                                                           | 2012-05-17 | 2012-09-15 |
 | BW080 | Clash of the Connoisseurs!                                                                                                                                                | 2012-05-24 | 2012-09-22 |
-| M15   | Pokémon the Movie: Kyurem VS. The Sword of Justice                                                                                                                        | 2012-07-14 | 2012-12-08 |
+| M15   | Pokémon the Movie: Kyurem vs. The Sword of Justice                                                                                                                        | 2012-07-14 | 2012-12-08 |
 | BW081 | Crisis at Ferroseed Research!                                                                                                                                             | 2012-05-31 | 2012-09-29 |
 | BW082 | An Epic Defense Force!                                                                                                                                                    | 2012-06-07 | 2012-10-06 |
 | BW083 | Rocking The Virbank Gym! Part 1                                                                                                                                           | 2012-06-14 | 2012-10-13 |
@@ -978,7 +978,7 @@
 | XY078 | A Frenzied Factory Fiasco!                                                                                                                                                | 2015-06-25 | 2015-09-05 |
 | XY079 | Performing with Fiery Charm!                                                                                                                                              | 2015-07-02 | 2015-09-12 |
 | XY080 | Rotom's Wish!                                                                                                                                                             | 2015-07-09 | 2015-09-19 |
-| PK27  | [JPN] Pikachu and the Pokémon Band                                                                                                                                        | 2015-07-18 |  _Unaired_ |
+| PK27  | Pikachu and the Pokémon Music Squad                                                                                                                                       | 2015-07-18 | 2015-12-21 |
 | M18   | Pokémon the Movie: Hoopa and the Clash of Ages                                                                                                                            | 2015-07-18 | 2015-11-05 |
 | XY081 | A Festival Trade! A Festival Farewell?                                                                                                                                    | 2015-07-23 | 2015-09-26 |
 | XY082 | Over the Mountain of Snow!                                                                                                                                                | 2015-07-30 | 2015-10-03 |
@@ -992,7 +992,7 @@
 | XY090 | A Performance Pop Quiz!                                                                                                                                                   | 2015-10-08 | 2015-12-05 |
 | XY091 | Cloudy Fate, Bright Future!                                                                                                                                               | 2015-10-15 | 2015-12-12 |
 | XY092 | All Eyes on the Future!                                                                                                                                                   | 2015-10-22 | 2015-12-19 |
-| XY093 | [JPN] Z's Explosive Birth! What Lurks in Kalos!!                                                                                                                          | 2015-10-29 |  _Unaired_ |
+| XY093 | [JPN] Z's Explosive Birth! What Lurks in Kalos!!                                                                                                                          | 2015-10-29 | 2016-02-20 |
 | SS035 | Mega Evolution Special IV                                                                                                                                                 | 2015-10-29 | 2015-12-26 |
 | XY094 | [JPN] Hot-blooded Hariborg! Puni-chan is Being Targeted!!                                                                                                                 | 2015-11-05 |  _Unaired_ |
 | XY095 | [JPN] Mega Tabunne VS Giga Giga Nyarth!!                                                                                                                                  | 2015-11-12 |  _Unaired_ |
@@ -1002,4 +1002,9 @@
 | XY099 | [JPN] Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!                                                                                                    | 2015-12-10 |  _Unaired_ |
 | XY100 | [JPN] Dance, Eievui! Its TriPokalon Debut!!                                                                                                                               | 2015-12-17 |  _Unaired_ |
 | XY101 | [JPN] Terminus Cave! The Mystery of Z is Set in Motion!!                                                                                                                  | 2015-12-24 |  _Unaired_ |
+| XY102 | [JPN] Eureka and Puni-chan!                                                                                                                                               | 2016-01-14 |  _Unaired_ |
+| XY103 | [JPN] Onbat and Flaette! An Encounter in the Wind!!                                                                                                                       | 2016-01-21 |  _Unaired_ |
+| XY104 | [JPN] Satoshi and Serena! Catch One at the Dance Party!!                                                                                                                  | 2016-01-28 |  _Unaired_ |
+| XY105 | [JPN] The Strongest Mega Battle! Gekkouga VS Mega Lizardon!!                                                                                                              | 2016-02-04 |  _Unaired_ |
+| XY106 | [JPN] The Explosive Ground Force! The Great Zygarde Capture Operation!!                                                                                                   | 2016-02-11 |  _Unaired_ |
 | M19   | M19                                                                                                                                                                       | 2016-07-16 |  _Unaired_ |

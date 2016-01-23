@@ -69,7 +69,7 @@ It's Mr. Mime Time
 Showdown at the Po-ké Corral
 Pikachu's Vacation
 The Uncut Story of Mewtwo's Origin
-Pokémon the First Movie - Mewtwo Strikes Back
+Pokémon the First Movie: Mewtwo Strikes Back
 The Evolution Solution
 The Pi-Kahuna
 Make Room for Gloom
@@ -114,7 +114,7 @@ Misty Meets Her Match
 Bound For Trouble
 Charizard Chills
 Pikachu's Rescue Adventure
-Pokémon the Movie 2000 - The Power of One
+Pokémon the Movie 2000: The Power of One
 The Pokémon Water War
 Pokémon Food Fight!
 Pokémon Double Trouble
@@ -816,7 +816,7 @@ Evolution by Fire!
 Guarding the Guardian of the Mountain!
 Caution: Icy Battle Conditions!
 Clash of the Connoisseurs!
-Pokémon the Movie: Kyurem VS. The Sword of Justice
+Pokémon the Movie: Kyurem vs. The Sword of Justice
 Crisis at Ferroseed Research!
 An Epic Defense Force!
 Rocking The Virbank Gym! Part 1
@@ -976,7 +976,7 @@ Hoopa — The Mischief Pokémon
 A Frenzied Factory Fiasco!
 Performing with Fiery Charm!
 Rotom's Wish!
-[JPN] Pikachu and the Pokémon Band
+Pikachu and the Pokémon Music Squad
 Pokémon the Movie: Hoopa and the Clash of Ages
 A Festival Trade! A Festival Farewell?
 Over the Mountain of Snow!
@@ -1000,4 +1000,9 @@ Mega Evolution Special IV
 [JPN] Decisive Battle in the Ninja Village! Gekogashira VS Kirikizan!!
 [JPN] Dance, Eievui! Its TriPokalon Debut!!
 [JPN] Terminus Cave! The Mystery of Z is Set in Motion!!
+[JPN] Eureka and Puni-chan!
+[JPN] Onbat and Flaette! An Encounter in the Wind!!
+[JPN] Satoshi and Serena! Catch One at the Dance Party!!
+[JPN] The Strongest Mega Battle! Gekkouga VS Mega Lizardon!!
+[JPN] The Explosive Ground Force! The Great Zygarde Capture Operation!!
 M19
