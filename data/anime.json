@@ -13615,7 +13615,7 @@
       "airdate": "2013-07-18T00:00:00.000Z",
       "number": 134,
       "series": "BW",
-      "title": "Pansy Appears! Erikiteru and Gōgōto!!"
+      "title": "Pansy Appears! Erikiteru and Gogoat!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -13679,7 +13679,7 @@
       "airdate": "2013-08-22T00:00:00.000Z",
       "number": 138,
       "series": "BW",
-      "title": "GoGo Gōgōto!"
+      "title": "GoGo Gogoat!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15396,7 +15396,8 @@
     "usa": {
       "airdate": "2016-02-20T00:00:00.000Z",
       "number": 888,
-      "season": 1
+      "season": 1,
+      "title": "From A to Z!"
     }
   },
   {
@@ -15421,7 +15422,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-02-27T00:00:00.000Z",
+      "number": 889,
+      "season": 1,
+      "title": "Love Strikes! Eevee, Yikes!"
     }
   },
   {
@@ -15434,7 +15438,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-03-05T00:00:00.000Z",
+      "number": 890,
+      "season": 1,
+      "title": "A Giga Battle With Mega Results!"
     }
   },
   {
@@ -15447,7 +15454,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-03-19T00:00:00.000Z",
+      "number": 891,
+      "season": 1,
+      "title": "A Fiery Rite of Passage!"
     }
   },
   {
@@ -15460,7 +15470,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-03-26T00:00:00.000Z",
+      "number": 892,
+      "season": 1,
+      "title": "Dream a Little Dream from Me!"
     }
   },
   {
@@ -15473,7 +15486,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "The Legend of the Ninja Hero!"
     }
   },
   {
@@ -15486,7 +15500,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Festival of Decisions!"
     }
   },
   {
@@ -15499,7 +15514,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Dancing Debut!"
     }
   },
   {
@@ -15512,7 +15528,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "Meeting at Terminus Cave!"
     }
   },
   {
@@ -15525,7 +15542,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Cellular Connection!"
     }
   },
   {
@@ -15538,7 +15556,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Windswept Encounter!"
     }
   },
   {
@@ -15551,7 +15570,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "Party Dancecapades!"
     }
   },
   {
@@ -15573,7 +15593,72 @@
       "airdate": "2016-02-11T00:00:00.000Z",
       "number": 106,
       "series": "XY",
-      "title": "The Explosive Ground Force! The Great Zygarde Capture Operation!!"
+      "title": "The Explosive Ground Force! The Zygarde Capture Operation!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY107",
+    "jpn": {
+      "airdate": "2016-02-18T00:00:00.000Z",
+      "number": 107,
+      "series": "XY",
+      "title": "The Brigarron from the Wilderness! The Tree-planting Robon!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY108",
+    "jpn": {
+      "airdate": "2016-02-25T00:00:00.000Z",
+      "number": 108,
+      "series": "XY",
+      "title": "The Master Class Trial! What Will You Do, Serena!?"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY109",
+    "jpn": {
+      "airdate": "2016-03-03T00:00:00.000Z",
+      "number": 109,
+      "series": "XY",
+      "title": "Thunder and Onvern! The Lightning of Anger!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY110",
+    "jpn": {
+      "airdate": "2016-03-10T00:00:00.000Z",
+      "number": 110,
+      "series": "XY",
+      "title": "Left and Right! The Kametete's Swaying Heart!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY111",
+    "jpn": {
+      "airdate": "2016-03-17T00:00:00.000Z",
+      "number": 111,
+      "series": "XY",
+      "title": "The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15584,7 +15669,7 @@
     "code": "M19",
     "jpn": {
       "airdate": "2016-07-16T00:00:00.000Z",
-      "title": "Pokémon the movie XY & Z 2016"
+      "title": "Volcanion and the Mechanical Magearna"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
