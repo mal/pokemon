@@ -306,7 +306,7 @@
 | AG003 | There's no Place Like Hoenn                                                                                                                                               | 2002-12-05 | 2003-11-15 |
 | SS002 | Cerulean Blues                                                                                                                                                            | 2002-12-10 | 2006-06-24 |
 | AG004 | You Never Can Taillow                                                                                                                                                     | 2002-12-12 | 2003-11-22 |
-| SS003 | We're No Angels                                                                                                                                                           | 2002-12-17 | 2006-07-01 |
+| SS003 | We're No Angels!                                                                                                                                                          | 2002-12-17 | 2006-07-01 |
 | AG005 | In the Knicker of Time!                                                                                                                                                   | 2002-12-19 | 2003-11-22 |
 | AG006 | A Poached Ego!                                                                                                                                                            | 2002-12-26 | 2003-11-29 |
 | AG007 | Tree's a Crowd                                                                                                                                                            | 2003-01-09 | 2003-11-29 |
@@ -326,7 +326,7 @@
 | AG017 | Stairway to Devon                                                                                                                                                         | 2003-03-20 | 2004-01-17 |
 | AG018 | On a Wingull and a Prayer!                                                                                                                                                | 2003-03-27 | 2004-01-24 |
 | AG019 | Sharpedo Attack!                                                                                                                                                          | 2003-04-03 | 2004-01-31 |
-| SS008 | Oaknapped                                                                                                                                                                 | 2003-04-08 | 2006-07-29 |
+| SS008 | Oaknapped!                                                                                                                                                                | 2003-04-08 | 2006-07-29 |
 | AG020 | Brave the Wave                                                                                                                                                            | 2003-04-10 | 2004-02-07 |
 | AG021 | Which Wurmple's Which?                                                                                                                                                    | 2003-04-17 | 2004-02-14 |
 | AG022 | A Hole Lotta Trouble                                                                                                                                                      | 2003-04-24 | 2004-02-14 |
@@ -358,11 +358,11 @@
 | SS012 | Training Daze                                                                                                                                                             | 2003-09-30 | 2006-08-19 |
 | AG044 | The Princess and the Togepi                                                                                                                                               | 2003-09-25 | 2004-09-25 |
 | AG045 | A Togepi Mirage!                                                                                                                                                          | 2003-10-02 | 2004-10-02 |
-| SS013 | Celebi and Joy                                                                                                                                                            | 2003-10-07 | 2006-08-12 |
+| SS013 | Celebi and Joy!                                                                                                                                                           | 2003-10-07 | 2006-08-12 |
 | AG046 | Candid Camerupt!                                                                                                                                                          | 2003-10-09 | 2004-10-09 |
 | PK12  | Gotta Dance!!                                                                                                                                                             | 2003-07-19 | 2004-06-01 |
 | M06   | Jirachi: Wish Maker                                                                                                                                                       | 2003-07-19 | 2004-06-01 |
-| SS014 | Journey to the Starting Line                                                                                                                                              | 2003-10-14 | 2006-08-26 |
+| SS014 | Journey to the Starting Line!                                                                                                                                             | 2003-10-14 | 2006-08-26 |
 | AG047 | I Feel Skitty!                                                                                                                                                            | 2003-10-16 | 2004-10-23 |
 | AG048 | ZigZag Zangoose!                                                                                                                                                          | 2003-10-23 | 2004-10-23 |
 | AG049 | Maxxed Out!                                                                                                                                                               | 2003-10-30 | 2004-10-30 |
@@ -384,7 +384,7 @@
 | AG065 | Gulpin it Down                                                                                                                                                            | 2004-02-26 | 2005-02-12 |
 | AG066 | Exploud and Clear!                                                                                                                                                        | 2004-03-04 | 2005-02-19 |
 | AG067 | Go Go Ludicolo!                                                                                                                                                           | 2004-03-11 | 2005-02-26 |
-| SS015 | Putting the Air Back in Aerodactyl                                                                                                                                        | 2004-03-16 | 2006-09-02 |
+| SS015 | Putting the Air Back in Aerodactyl!                                                                                                                                       | 2004-03-16 | 2006-09-02 |
 | AG068 | A Double Dilemma                                                                                                                                                          | 2004-03-18 | 2005-03-05 |
 | AG069 | Love, Petalburg Style!                                                                                                                                                    | 2004-03-25 | 2005-03-12 |
 | AG070 | Balance of Power                                                                                                                                                          | 2004-04-01 | 2005-03-19 |
@@ -414,7 +414,7 @@
 | AG091 | Lessons in Lilycove                                                                                                                                                       | 2004-08-26 | 2005-09-10 |
 | AG092 | Judgment Day!                                                                                                                                                             | 2004-09-02 | 2005-09-10 |
 | AG093 | Clamperl of Wisdom                                                                                                                                                        | 2004-09-09 | 2005-09-17 |
-| SS016 | Luvdisc is a Many Splendored Thing                                                                                                                                        | 2004-09-14 | 2006-09-23 |
+| SS016 | Luvdisc is a Many Splendored Thing!                                                                                                                                       | 2004-09-14 | 2006-09-23 |
 | AG094 | The Relicanth Really Can                                                                                                                                                  | 2004-09-16 | 2005-09-24 |
 | SS017 | Those Darn Electabuzz!                                                                                                                                                    | 2004-09-21 | 2006-09-23 |
 | AG095 | The Evolutionary War                                                                                                                                                      | 2004-09-23 | 2005-10-01 |
@@ -995,14 +995,14 @@
 | XY093 | From A to Z!                                                                                                                                                              | 2015-10-29 | 2016-02-20 |
 | SS035 | Mega Evolution Special IV                                                                                                                                                 | 2015-10-29 | 2015-12-26 |
 | XY094 | Love Strikes! Eevee, Yikes!                                                                                                                                               | 2015-11-05 | 2016-02-27 |
-| XY095 | A Giga Battle With Mega Results!                                                                                                                                          | 2015-11-12 | 2016-03-05 |
-| XY096 | A Fiery Rite of Passage!                                                                                                                                                  | 2015-11-19 | 2016-03-19 |
-| XY097 | Dream a Little Dream from Me!                                                                                                                                             | 2015-11-26 | 2016-03-26 |
-| XY098 | The Legend of the Ninja Hero!                                                                                                                                             | 2015-12-03 |  _Unaired_ |
-| XY099 | A Festival of Decisions!                                                                                                                                                  | 2015-12-10 |  _Unaired_ |
-| XY100 | A Dancing Debut!                                                                                                                                                          | 2015-12-17 |  _Unaired_ |
-| XY101 | Meeting at Terminus Cave!                                                                                                                                                 | 2015-12-24 |  _Unaired_ |
-| XY102 | A Cellular Connection!                                                                                                                                                    | 2016-01-14 |  _Unaired_ |
+| XY095 | A Giga Battle with Mega Results!                                                                                                                                          | 2015-11-12 | 2016-03-05 |
+| XY096 | A Fiery Rite of Passage!                                                                                                                                                  | 2015-11-19 | 2016-03-12 |
+| XY097 | Dream a Little Dream from Me!                                                                                                                                             | 2015-11-26 | 2016-03-19 |
+| XY098 | The Legend of the Ninja Hero!                                                                                                                                             | 2015-12-03 | 2016-03-26 |
+| XY099 | A Festival of Decisions!                                                                                                                                                  | 2015-12-10 | 2016-04-02 |
+| XY100 | A Dancing Debut!                                                                                                                                                          | 2015-12-17 | 2016-04-16 |
+| XY101 | Meeting at Terminus Cave!                                                                                                                                                 | 2015-12-24 | 2016-04-23 |
+| XY102 | A Cellular Connection!                                                                                                                                                    | 2016-01-14 | 2016-04-30 |
 | XY103 | A Windswept Encounter!                                                                                                                                                    | 2016-01-21 |  _Unaired_ |
 | XY104 | Party Dancecapades!                                                                                                                                                       | 2016-01-28 |  _Unaired_ |
 | XY105 | [JPN] The Strongest Mega Battle! Gekkouga VS Mega Lizardon!!                                                                                                              | 2016-02-04 |  _Unaired_ |
@@ -1012,4 +1012,6 @@
 | XY109 | [JPN] Thunder and Onvern! The Lightning of Anger!!                                                                                                                        | 2016-03-03 |  _Unaired_ |
 | XY110 | [JPN] Left and Right! The Kametete's Swaying Heart!!                                                                                                                      | 2016-03-10 |  _Unaired_ |
 | XY111 | [JPN] The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!                                                                                                 | 2016-03-17 |  _Unaired_ |
+| XY112 | [JPN] Elle VS Serena! Open the Door to the Future!!                                                                                                                       | 2016-03-24 |  _Unaired_ |
+| XY113 | [JPN] A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!                                                                                                               | 2016-04-07 |  _Unaired_ |
 | M19   | M19                                                                                                                                                                       | 2016-07-16 |  _Unaired_ |

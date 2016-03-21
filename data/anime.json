@@ -4775,7 +4775,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-07-01T00:00:00.000Z",
-      "title": "We're No Angels"
+      "title": "We're No Angels!"
     }
   },
   {
@@ -5075,7 +5075,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-07-29T00:00:00.000Z",
-      "title": "Oaknapped"
+      "title": "Oaknapped!"
     }
   },
   {
@@ -5563,7 +5563,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-08-12T00:00:00.000Z",
-      "title": "Celebi and Joy"
+      "title": "Celebi and Joy!"
     }
   },
   {
@@ -5615,7 +5615,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-08-26T00:00:00.000Z",
-      "title": "Journey to the Starting Line"
+      "title": "Journey to the Starting Line!"
     }
   },
   {
@@ -5963,7 +5963,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-02T00:00:00.000Z",
-      "title": "Putting the Air Back in Aerodactyl"
+      "title": "Putting the Air Back in Aerodactyl!"
     }
   },
   {
@@ -6421,7 +6421,7 @@
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
       "airdate": "2006-09-23T00:00:00.000Z",
-      "title": "Luvdisc is a Many Splendored Thing"
+      "title": "Luvdisc is a Many Splendored Thing!"
     }
   },
   {
@@ -15342,7 +15342,7 @@
       "airdate": "2015-10-08T00:00:00.000Z",
       "number": 90,
       "series": "XY",
-      "title": "The Happy Dance Comes After the Quiz!? The Hyakkoku TriPokalon Tournament!!"
+      "title": "The Happy Dance Comes After the Quiz!? The Hyakkoku TryPokaron Tournament!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15441,7 +15441,7 @@
       "airdate": "2016-03-05T00:00:00.000Z",
       "number": 890,
       "season": 1,
-      "title": "A Giga Battle With Mega Results!"
+      "title": "A Giga Battle with Mega Results!"
     }
   },
   {
@@ -15454,7 +15454,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "airdate": "2016-03-19T00:00:00.000Z",
+      "airdate": "2016-03-12T00:00:00.000Z",
       "number": 891,
       "season": 1,
       "title": "A Fiery Rite of Passage!"
@@ -15470,7 +15470,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "airdate": "2016-03-26T00:00:00.000Z",
+      "airdate": "2016-03-19T00:00:00.000Z",
       "number": 892,
       "season": 1,
       "title": "Dream a Little Dream from Me!"
@@ -15486,6 +15486,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-03-26T00:00:00.000Z",
+      "number": 893,
       "season": 1,
       "title": "The Legend of the Ninja Hero!"
     }
@@ -15500,6 +15502,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-04-02T00:00:00.000Z",
+      "number": 894,
       "season": 1,
       "title": "A Festival of Decisions!"
     }
@@ -15510,10 +15514,12 @@
       "airdate": "2015-12-17T00:00:00.000Z",
       "number": 100,
       "series": "XY",
-      "title": "Dance, Eievui! Its TriPokalon Debut!!"
+      "title": "Dance, Eievui! Its TryPokaron Debut!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-04-16T00:00:00.000Z",
+      "number": 895,
       "season": 1,
       "title": "A Dancing Debut!"
     }
@@ -15528,6 +15534,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-04-23T00:00:00.000Z",
+      "number": 896,
       "season": 1,
       "title": "Meeting at Terminus Cave!"
     }
@@ -15542,6 +15550,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-04-30T00:00:00.000Z",
+      "number": 897,
       "season": 1,
       "title": "A Cellular Connection!"
     }
@@ -15659,6 +15669,32 @@
       "number": 111,
       "series": "XY",
       "title": "The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY112",
+    "jpn": {
+      "airdate": "2016-03-24T00:00:00.000Z",
+      "number": 112,
+      "series": "XY",
+      "title": "Elle VS Serena! Open the Door to the Future!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY113",
+    "jpn": {
+      "airdate": "2016-04-07T00:00:00.000Z",
+      "number": 113,
+      "series": "XY",
+      "title": "A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {

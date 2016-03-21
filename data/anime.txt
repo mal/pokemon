@@ -304,7 +304,7 @@ A Family That Battles Together Stays Together!
 There's no Place Like Hoenn
 Cerulean Blues
 You Never Can Taillow
-We're No Angels
+We're No Angels!
 In the Knicker of Time!
 A Poached Ego!
 Tree's a Crowd
@@ -324,7 +324,7 @@ The Winner by a Nosepass
 Stairway to Devon
 On a Wingull and a Prayer!
 Sharpedo Attack!
-Oaknapped
+Oaknapped!
 Brave the Wave
 Which Wurmple's Which?
 A Hole Lotta Trouble
@@ -356,11 +356,11 @@ Let Bagons Be Bagons
 Training Daze
 The Princess and the Togepi
 A Togepi Mirage!
-Celebi and Joy
+Celebi and Joy!
 Candid Camerupt!
 Gotta Dance!!
 Jirachi: Wish Maker
-Journey to the Starting Line
+Journey to the Starting Line!
 I Feel Skitty!
 ZigZag Zangoose!
 Maxxed Out!
@@ -382,7 +382,7 @@ True Blue Swablu
 Gulpin it Down
 Exploud and Clear!
 Go Go Ludicolo!
-Putting the Air Back in Aerodactyl
+Putting the Air Back in Aerodactyl!
 A Double Dilemma
 Love, Petalburg Style!
 Balance of Power
@@ -412,7 +412,7 @@ Pokéblock, Stock, and Berry
 Lessons in Lilycove
 Judgment Day!
 Clamperl of Wisdom
-Luvdisc is a Many Splendored Thing
+Luvdisc is a Many Splendored Thing!
 The Relicanth Really Can
 Those Darn Electabuzz!
 The Evolutionary War
@@ -993,7 +993,7 @@ All Eyes on the Future!
 From A to Z!
 Mega Evolution Special IV
 Love Strikes! Eevee, Yikes!
-A Giga Battle With Mega Results!
+A Giga Battle with Mega Results!
 A Fiery Rite of Passage!
 Dream a Little Dream from Me!
 The Legend of the Ninja Hero!
@@ -1010,4 +1010,6 @@ Party Dancecapades!
 [JPN] Thunder and Onvern! The Lightning of Anger!!
 [JPN] Left and Right! The Kametete's Swaying Heart!!
 [JPN] The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!
+[JPN] Elle VS Serena! Open the Door to the Future!!
+[JPN] A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!
 M19
