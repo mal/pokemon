@@ -1178,7 +1178,7 @@
       "airdate": "1999-10-08T00:00:00.000Z",
       "number": 69,
       "season": 1,
-      "title": "Lights, Camera, Quack-tion!"
+      "title": "Lights, Camera, Quack-tion"
     }
   },
   {
@@ -4046,7 +4046,7 @@
       "airdate": "2003-02-22T00:00:00.000Z",
       "number": 236,
       "season": 1,
-      "title": "Rage Of Innocence"
+      "title": "Rage of Innocence"
     }
   },
   {
@@ -4347,7 +4347,7 @@
       "airdate": "2003-06-28T00:00:00.000Z",
       "number": 254,
       "season": 1,
-      "title": "Why? Why Not!"
+      "title": "Why? Wynaut!"
     }
   },
   {
@@ -15518,7 +15518,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "airdate": "2016-04-16T00:00:00.000Z",
+      "airdate": "2016-04-09T00:00:00.000Z",
       "number": 895,
       "season": 1,
       "title": "A Dancing Debut!"
@@ -15534,7 +15534,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "airdate": "2016-04-23T00:00:00.000Z",
+      "airdate": "2016-04-16T00:00:00.000Z",
       "number": 896,
       "season": 1,
       "title": "Meeting at Terminus Cave!"
@@ -15550,7 +15550,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "airdate": "2016-04-30T00:00:00.000Z",
+      "airdate": "2016-04-23T00:00:00.000Z",
       "number": 897,
       "season": 1,
       "title": "A Cellular Connection!"
@@ -15566,6 +15566,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-04-30T00:00:00.000Z",
+      "number": 898,
       "season": 1,
       "title": "A Windswept Encounter!"
     }
@@ -15580,6 +15582,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-05-14T00:00:00.000Z",
+      "number": 899,
       "season": 1,
       "title": "Party Dancecapades!"
     }
@@ -15594,7 +15598,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-05-21T00:00:00.000Z",
+      "number": 900,
+      "season": 1,
+      "title": "A Meeting of Two Journeys!"
     }
   },
   {
@@ -15607,7 +15614,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-05-28T00:00:00.000Z",
+      "number": 901,
+      "season": 1,
+      "title": "An Explosive Operation!"
     }
   },
   {
@@ -15695,6 +15705,58 @@
       "number": 113,
       "series": "XY",
       "title": "A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY114",
+    "jpn": {
+      "airdate": "2016-04-14T00:00:00.000Z",
+      "number": 114,
+      "series": "XY",
+      "title": "Serena Becomes Satoshi! The Strongest Pikachu Showdown!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY115",
+    "jpn": {
+      "airdate": "2016-04-21T00:00:00.000Z",
+      "number": 115,
+      "series": "XY",
+      "title": "Satoshi and Alain! Gekkouga VS Mega Lizardon Once Again!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY116",
+    "jpn": {
+      "airdate": "2016-04-28T00:00:00.000Z",
+      "number": 116,
+      "series": "XY",
+      "title": "The Forest's Curse and the White Bokurei!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY117",
+    "jpn": {
+      "airdate": "2016-05-05T00:00:00.000Z",
+      "number": 117,
+      "series": "XY",
+      "title": "Satoshi VS Champion Carnet! VS Mega Sirnight!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {

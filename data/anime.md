@@ -75,7 +75,7 @@
 | EP066 | The Evolution Solution                                                                                                                                                    | 1998-10-08 | 1999-10-02 |
 | EP067 | The Pi-Kahuna                                                                                                                                                             | 1998-10-22 | 1999-10-02 |
 | EP068 | Make Room for Gloom                                                                                                                                                       | 1998-10-29 | 1999-10-04 |
-| EP069 | Lights, Camera, Quack-tion!                                                                                                                                               | 1998-11-05 | 1999-10-08 |
+| EP069 | Lights, Camera, Quack-tion                                                                                                                                                | 1998-11-05 | 1999-10-08 |
 | EP070 | Go West Young Meowth                                                                                                                                                      | 1998-11-12 | 1999-10-09 |
 | EP071 | To Master the Onixpected!                                                                                                                                                 | 1998-11-19 | 1999-10-11 |
 | PK02  | Christmas Night                                                                                                                                                           | 1998-12-22 | 2006-11-25 |
@@ -259,7 +259,7 @@
 | EP233 | A Tyrogue Full of Trouble                                                                                                                                                 | 2002-01-24 | 2003-02-01 |
 | EP234 | Xatu the Future                                                                                                                                                           | 2002-01-31 | 2003-02-08 |
 | EP235 | Talkin' 'Bout an Evolution                                                                                                                                                | 2002-02-07 | 2003-02-15 |
-| EP236 | Rage Of Innocence                                                                                                                                                         | 2002-02-14 | 2003-02-22 |
+| EP236 | Rage of Innocence                                                                                                                                                         | 2002-02-14 | 2003-02-22 |
 | EP237 | As Cold as Pryce                                                                                                                                                          | 2002-02-21 | 2003-03-01 |
 | EP238 | Nice Pryce, Baby!                                                                                                                                                         | 2002-02-28 | 2003-03-08 |
 | EP239 | Whichever Way the Wind Blows                                                                                                                                              | 2002-03-07 | 2003-03-22 |
@@ -278,7 +278,7 @@
 | EP252 | Fangs for Nothin'                                                                                                                                                         | 2002-06-13 | 2003-06-07 |
 | EP253 | Great Bowls of Fire!                                                                                                                                                      | 2002-06-20 | 2003-06-14 |
 | EP254 | Better Eight Than Never                                                                                                                                                   | 2002-06-27 | 2003-06-21 |
-| EP255 | Why? Why Not!                                                                                                                                                             | 2002-07-04 | 2003-06-28 |
+| EP255 | Why? Wynaut!                                                                                                                                                              | 2002-07-04 | 2003-06-28 |
 | EP256 | Just Add Water                                                                                                                                                            | 2002-07-11 | 2003-07-12 |
 | PK11  | Camp Pikachu                                                                                                                                                              | 2002-07-13 | 2004-01-20 |
 | M05   | Pokémon Heroes: Latios & Latias                                                                                                                                           | 2002-07-13 | 2003-05-16 |
@@ -1000,13 +1000,13 @@
 | XY097 | Dream a Little Dream from Me!                                                                                                                                             | 2015-11-26 | 2016-03-19 |
 | XY098 | The Legend of the Ninja Hero!                                                                                                                                             | 2015-12-03 | 2016-03-26 |
 | XY099 | A Festival of Decisions!                                                                                                                                                  | 2015-12-10 | 2016-04-02 |
-| XY100 | A Dancing Debut!                                                                                                                                                          | 2015-12-17 | 2016-04-16 |
-| XY101 | Meeting at Terminus Cave!                                                                                                                                                 | 2015-12-24 | 2016-04-23 |
-| XY102 | A Cellular Connection!                                                                                                                                                    | 2016-01-14 | 2016-04-30 |
-| XY103 | A Windswept Encounter!                                                                                                                                                    | 2016-01-21 |  _Unaired_ |
-| XY104 | Party Dancecapades!                                                                                                                                                       | 2016-01-28 |  _Unaired_ |
-| XY105 | [JPN] The Strongest Mega Battle! Gekkouga VS Mega Lizardon!!                                                                                                              | 2016-02-04 |  _Unaired_ |
-| XY106 | [JPN] The Explosive Ground Force! The Zygarde Capture Operation!!                                                                                                         | 2016-02-11 |  _Unaired_ |
+| XY100 | A Dancing Debut!                                                                                                                                                          | 2015-12-17 | 2016-04-09 |
+| XY101 | Meeting at Terminus Cave!                                                                                                                                                 | 2015-12-24 | 2016-04-16 |
+| XY102 | A Cellular Connection!                                                                                                                                                    | 2016-01-14 | 2016-04-23 |
+| XY103 | A Windswept Encounter!                                                                                                                                                    | 2016-01-21 | 2016-04-30 |
+| XY104 | Party Dancecapades!                                                                                                                                                       | 2016-01-28 | 2016-05-14 |
+| XY105 | A Meeting of Two Journeys!                                                                                                                                                | 2016-02-04 | 2016-05-21 |
+| XY106 | An Explosive Operation!                                                                                                                                                   | 2016-02-11 | 2016-05-28 |
 | XY107 | [JPN] The Brigarron from the Wilderness! The Tree-planting Robon!!                                                                                                        | 2016-02-18 |  _Unaired_ |
 | XY108 | [JPN] The Master Class Trial! What Will You Do, Serena!?                                                                                                                  | 2016-02-25 |  _Unaired_ |
 | XY109 | [JPN] Thunder and Onvern! The Lightning of Anger!!                                                                                                                        | 2016-03-03 |  _Unaired_ |
@@ -1014,4 +1014,8 @@
 | XY111 | [JPN] The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!                                                                                                 | 2016-03-17 |  _Unaired_ |
 | XY112 | [JPN] Elle VS Serena! Open the Door to the Future!!                                                                                                                       | 2016-03-24 |  _Unaired_ |
 | XY113 | [JPN] A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!                                                                                                               | 2016-04-07 |  _Unaired_ |
+| XY114 | [JPN] Serena Becomes Satoshi! The Strongest Pikachu Showdown!!                                                                                                            | 2016-04-14 |  _Unaired_ |
+| XY115 | [JPN] Satoshi and Alain! Gekkouga VS Mega Lizardon Once Again!!                                                                                                           | 2016-04-21 |  _Unaired_ |
+| XY116 | [JPN] The Forest's Curse and the White Bokurei!                                                                                                                           | 2016-04-28 |  _Unaired_ |
+| XY117 | [JPN] Satoshi VS Champion Carnet! VS Mega Sirnight!!                                                                                                                      | 2016-05-05 |  _Unaired_ |
 | M19   | M19                                                                                                                                                                       | 2016-07-16 |  _Unaired_ |

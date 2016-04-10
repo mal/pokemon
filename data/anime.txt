@@ -73,7 +73,7 @@ Pokémon the First Movie: Mewtwo Strikes Back
 The Evolution Solution
 The Pi-Kahuna
 Make Room for Gloom
-Lights, Camera, Quack-tion!
+Lights, Camera, Quack-tion
 Go West Young Meowth
 To Master the Onixpected!
 Christmas Night
@@ -257,7 +257,7 @@ Just Waiting On a Friend
 A Tyrogue Full of Trouble
 Xatu the Future
 Talkin' 'Bout an Evolution
-Rage Of Innocence
+Rage of Innocence
 As Cold as Pryce
 Nice Pryce, Baby!
 Whichever Way the Wind Blows
@@ -276,7 +276,7 @@ Beauty is Skin Deep
 Fangs for Nothin'
 Great Bowls of Fire!
 Better Eight Than Never
-Why? Why Not!
+Why? Wynaut!
 Just Add Water
 Camp Pikachu
 Pokémon Heroes: Latios & Latias
@@ -1003,8 +1003,8 @@ Meeting at Terminus Cave!
 A Cellular Connection!
 A Windswept Encounter!
 Party Dancecapades!
-[JPN] The Strongest Mega Battle! Gekkouga VS Mega Lizardon!!
-[JPN] The Explosive Ground Force! The Zygarde Capture Operation!!
+A Meeting of Two Journeys!
+An Explosive Operation!
 [JPN] The Brigarron from the Wilderness! The Tree-planting Robon!!
 [JPN] The Master Class Trial! What Will You Do, Serena!?
 [JPN] Thunder and Onvern! The Lightning of Anger!!
@@ -1012,4 +1012,8 @@ Party Dancecapades!
 [JPN] The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!
 [JPN] Elle VS Serena! Open the Door to the Future!!
 [JPN] A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!
+[JPN] Serena Becomes Satoshi! The Strongest Pikachu Showdown!!
+[JPN] Satoshi and Alain! Gekkouga VS Mega Lizardon Once Again!!
+[JPN] The Forest's Curse and the White Bokurei!
+[JPN] Satoshi VS Champion Carnet! VS Mega Sirnight!!
 M19
