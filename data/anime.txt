@@ -69,7 +69,7 @@ It's Mr. Mime Time
 Showdown at the Po-ké Corral
 Pikachu's Vacation
 The Uncut Story of Mewtwo's Origin
-Pokémon the First Movie: Mewtwo Strikes Back
+Pokémon: The First Movie - Mewtwo Strikes Back
 The Evolution Solution
 The Pi-Kahuna
 Make Room for Gloom
@@ -649,7 +649,7 @@ The Drifting Snorunt!
 Noodles! Roamin' Off!
 Pursuing a Lofty Goal!
 Trials and Adulations!
-[JPN] Mysterious Creatures: Pocket Monsters
+[JPN] The Mysterious Creatures, Pocket Monsters!
 The Lonely Snover
 Stopped in the Name of Love
 Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness
@@ -746,7 +746,7 @@ The Battle According to Lenora!
 Rematch at the Nacrene Gym!
 Scraggy—Hatched to be Wild!
 Sewaddle and Burgh in Pinwheel Forest!
-[JPN] Hikari - Setting off on a New Journey!
+[JPN] Hikari - Setting Off on a New Journey!
 [JPN] Nibi Gym - The Greatest Crisis Ever!
 A Connoisseur's Revenge!
 Dancing With the Ducklett Trio!
@@ -907,7 +907,7 @@ Awakening the Sleeping Giant!
 A Conspiracy to Conquer!
 Breaking Titles at the Chateau!
 A PokéVision of Things to Come!
-[JPN] Iris vs Ibuki! The Road to Become a Dragon Master!!
+[JPN] Iris VS Ibuki! The Road to Become a Dragon Master!!
 Mega Evolution Special I
 Going for the Gold!
 Coming Back into the Cold!
@@ -971,7 +971,7 @@ Fairy-Type Trickery!
 Rivals: Today and Tomorrow!
 A Not-So-Flying Start!
 A Relay in the Sky!
-Lights! Camera! Pika!How to make a Pikachu Movie: Ready...Action!Lightning Fast! Brave and Strong! Super-Pikachu!The Very Best of Super-Pikachu's Back-Slapping Bloopers!
+Lights! Camera! Pika!How to Make a Pikachu Movie: Ready...Action!Lightning Fast! Brave and Strong! Super-Pikachu!The Very Best of Super-Pikachu's Back-Slapping Bloopers!
 Hoopa — The Mischief Pokémon
 A Frenzied Factory Fiasco!
 Performing with Fiery Charm!
@@ -1005,15 +1005,23 @@ A Windswept Encounter!
 Party Dancecapades!
 A Meeting of Two Journeys!
 An Explosive Operation!
-[JPN] The Brigarron from the Wilderness! The Tree-planting Robon!!
-[JPN] The Master Class Trial! What Will You Do, Serena!?
-[JPN] Thunder and Onvern! The Lightning of Anger!!
-[JPN] Left and Right! The Kametete's Swaying Heart!!
-[JPN] The Master Class Begins! A Maidens' Fierce Fight Where Sparks Fly!!
-[JPN] Elle VS Serena! Open the Door to the Future!!
+A Watershed Moment!
+Master Class Choices!
+An Electrifying Rage!
+Unlocking Some Respect!
+Master Class is in Session!
+Performing a Pathway to the Future!
 [JPN] A Bride for Citron!? Eureka's S'il-vous-plaît Panic!!
 [JPN] Serena Becomes Satoshi! The Strongest Pikachu Showdown!!
 [JPN] Satoshi and Alain! Gekkouga VS Mega Lizardon Once Again!!
 [JPN] The Forest's Curse and the White Bokurei!
 [JPN] Satoshi VS Champion Carnet! VS Mega Sirnight!!
+[JPN] Rival Showdown! Satoshi VS Shōta!!
+[JPN] Eisetsu Gym Battle! Battlefield of Ice!!
+[JPN] The Bewildering Woods... The Dawn of Evolution!
+[JPN] Satoshi Gekkouga VS Mega Yukinooh! Unleash the Giant Water Shuriken!!
+[JPN] Find Melecie! Numelgon and Dedenne!!
+[JPN] The Explosive Heat at the Mechanical Festival!
+[JPN] The Kalos League Begins! The Mega Lizardon Showdown: X VS Y!!
+[JPN] Mega Jukain VS Raichu! I Received Some Experience Points!
 M19
