@@ -1026,7 +1026,7 @@
 | XY124 | [JPN] The Explosive Heat at the Mechanical Festival!                                                                                                                               | 2016-06-16 |  _Unaired_ |
 | XY125 | [JPN] The Kalos League Begins! The Mega Lizardon Showdown: X VS Y!!                                                                                                                | 2016-06-30 |  _Unaired_ |
 | XY126 | [JPN] Mega Jukain VS Raichu! I Received Some Experience Points!                                                                                                                    | 2016-07-07 |  _Unaired_ |
-| M19   | Pokémon the Movie: Volcanion and the Mechanical Marvel                                                                                                                             | 2016-07-16 | 2016-01-01 |
+| M19   | Pokémon the Movie: Volcanion and the Mechanical Marvel                                                                                                                             | 2016-07-16 |  _Unaired_ |
 | XY127 | [JPN] The Semifinal Full Battle! Satoshi VS Shōta!!                                                                                                                                | 2016-07-21 |  _Unaired_ |
 | XY128 | [JPN] Decisive Rival Battle! Satoshi Gekkouga VS Mega Jukain!!                                                                                                                     | 2016-07-28 |  _Unaired_ |
 | XY129 | [JPN] Fierce Fighting at the Kalos League! Gather, All of My Passion!!                                                                                                             | 2016-08-04 |  _Unaired_ |
