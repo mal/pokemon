@@ -1,10 +1,12 @@
 +function () {
     var rows = Array.prototype.slice.call(document.querySelectorAll('table tr'));
+
     var eps = [];
+    var guess = /^\d{4}$/;
 
     function airdate(e) {
       var str = string(e.childNodes[0]);
-      if (str === 'Unaired')
+      if (guess.test(str))
         return null;
       try {
         return new Date(str + ' UTC').toISOString().substr(0, 10);
