@@ -2158,7 +2158,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_short",
     "usa": {
-      "title": "Winter Games"
+      "title": "Winter Games",
+      "airdate": "2004-11-23T00:00:00.000Z"
     }
   },
   {
@@ -2169,7 +2170,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_short",
     "usa": {
-      "title": "Stantler's Little Helpers"
+      "title": "Stantler's Little Helpers",
+      "airdate": "2004-11-23T00:00:00.000Z"
     }
   },
   {
@@ -14642,7 +14644,7 @@
       "airdate": "2014-11-13T00:00:00.000Z",
       "number": 50,
       "series": "XY",
-      "title": "Dance, Yancham — Captivate, Fokko!The Dance for Tomorrow!!"
+      "title": "Dance, Yancham — Captivate, Fokko! / The Dance for Tomorrow!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15102,14 +15104,14 @@
       "airdate": "2015-06-18T00:00:00.000Z",
       "number": 78,
       "series": "XY",
-      "title": "Pikachu Becomes a Star!? It's Movie Debut!!  How to Pikachu The Movie! OK! Action!!  The Lightning-fast Hero! Super Pikachu!!  Pikachu's Shocking Bloopers"
+      "title": "Pikachu Becomes a Star!? It's Movie Debut!! / How to Pikachu The Movie! OK! Action!! / The Lightning-fast Hero! Super Pikachu!! / Pikachu's Shocking Bloopers"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
       "airdate": "2015-11-21T00:00:00.000Z",
       "number": 873,
       "season": 1,
-      "title": "Lights! Camera! Pika!How to Make a Pikachu Movie: Ready...Action!Lightning Fast! Brave and Strong! Super-Pikachu!The Very Best of Super-Pikachu's Back-Slapping Bloopers!"
+      "title": "Lights! Camera! Pika! / How to Make a Pikachu Movie: Ready...Action! / Lightning Fast! Brave and Strong! Super-Pikachu! / The Very Best of Super-Pikachu's Back-Slapping Bloopers!"
     }
   },
   {
@@ -15701,7 +15703,7 @@
       "airdate": "2016-06-25T00:00:00.000Z",
       "number": 907,
       "season": 1,
-      "title": "Master Class is in Session!"
+      "title": "Master Class Is in Session!"
     }
   },
   {
@@ -15730,7 +15732,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-07-09T00:00:00.000Z",
+      "number": 909,
+      "season": 1,
+      "title": "A Keeper for Keeps?!"
     }
   },
   {
@@ -15743,7 +15748,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-07-16T00:00:00.000Z",
+      "number": 910,
+      "season": 1,
+      "title": "Battling at Full Volume!"
     }
   },
   {
@@ -15756,7 +15764,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-07-23T00:00:00.000Z",
+      "number": 911,
+      "season": 1,
+      "title": "The Synchronicity Test!"
     }
   },
   {
@@ -15769,7 +15780,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-07-30T00:00:00.000Z",
+      "number": 912,
+      "season": 1,
+      "title": "Making Friends and Influencing Villains!"
     }
   },
   {
@@ -15782,7 +15796,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-08-06T00:00:00.000Z",
+      "number": 913,
+      "season": 1,
+      "title": "Championing a Research Battle!"
     }
   },
   {
@@ -15795,7 +15812,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-08-13T00:00:00.000Z",
+      "number": 914,
+      "season": 1,
+      "title": "A Full Strength Battle Surprise!"
     }
   },
   {
@@ -15808,7 +15828,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-08-20T00:00:00.000Z",
+      "number": 915,
+      "season": 1,
+      "title": "All Hail the Ice Battlefield!"
     }
   },
   {
@@ -15821,7 +15844,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-08-27T00:00:00.000Z",
+      "number": 916,
+      "season": 1,
+      "title": "Seeing the Forest for the Trees!"
     }
   },
   {
@@ -15834,7 +15860,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-09-03T00:00:00.000Z",
+      "number": 917,
+      "season": 1,
+      "title": "A Real Icebreaker!"
     }
   },
   {
@@ -15847,7 +15876,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Diamond in the Rough!"
     }
   },
   {
@@ -15897,7 +15927,112 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
-      "title": "M19"
+      "airdate": "2016-01-01T00:00:00.000Z",
+      "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    }
+  },
+  {
+    "code": "XY127",
+    "jpn": {
+      "airdate": "2016-07-21T00:00:00.000Z",
+      "number": 127,
+      "series": "XY",
+      "title": "The Semifinal Full Battle! Satoshi VS Shōta!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY128",
+    "jpn": {
+      "airdate": "2016-07-28T00:00:00.000Z",
+      "number": 128,
+      "series": "XY",
+      "title": "Decisive Rival Battle! Satoshi Gekkouga VS Mega Jukain!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY129",
+    "jpn": {
+      "airdate": "2016-08-04T00:00:00.000Z",
+      "number": 129,
+      "series": "XY",
+      "title": "Fierce Fighting at the Kalos League! Gather, All of My Passion!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY130",
+    "jpn": {
+      "airdate": "2016-08-11T00:00:00.000Z",
+      "number": 130,
+      "series": "XY",
+      "title": "The Finals! Satoshi VS Alain!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY131",
+    "jpn": {
+      "airdate": "2016-08-18T00:00:00.000Z",
+      "number": 131,
+      "series": "XY",
+      "title": "Kalos League Victory! Satoshi's Ultimate Match!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY132",
+    "jpn": {
+      "airdate": "2016-08-25T00:00:00.000Z",
+      "number": 132,
+      "series": "XY",
+      "title": "Flare Gang Attack! The Zygarde at the Prism Tower!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY133",
+    "jpn": {
+      "airdate": "2016-09-01T00:00:00.000Z",
+      "number": 133,
+      "series": "XY",
+      "title": "The Shocking Zygarde VS Zygarde! The Collapsing World!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY134",
+    "jpn": {
+      "airdate": "2016-09-08T00:00:00.000Z",
+      "number": 134,
+      "series": "XY",
+      "title": "Attack on Miare Gym! Citroid Forever!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
     }
   }
 ]
