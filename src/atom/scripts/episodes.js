@@ -16,6 +16,7 @@
     }
 
     function string(e) {
+        e.innerHTML = e.innerHTML.replace(/\s*<br>\s*/g, ' / ');
         return e.textContent.trim();
     }
 
