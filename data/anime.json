@@ -12888,6 +12888,15 @@
     }
   },
   {
+    "code": "UN17",
+    "jpn": {
+      "airdate": "2012-08-16T00:00:00.000Z",
+      "title": "Pocket Monsters 15th Anniversary Celebration! A Super Ranking Special on Noteworthy Movie Scenes!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_specials",
+    "usa": {}
+  },
+  {
     "code": "BW091",
     "jpn": {
       "airdate": "2012-08-23T00:00:00.000Z",
@@ -13878,7 +13887,7 @@
       "airdate": "2013-11-21T00:00:00.000Z",
       "number": 7,
       "series": "XY",
-      "title": "Leave it to Serena!? The Exciting Sihorn Race!"
+      "title": "Leave it to Serena!? The Charging Sihorn Race!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14358,7 +14367,7 @@
     }
   },
   {
-    "code": "UN17",
+    "code": "UN18",
     "jpn": {
       "airdate": "2014-07-12T00:00:00.000Z",
       "title": "Celestial Debris"
@@ -14436,7 +14445,7 @@
       "airdate": "2014-08-21T00:00:00.000Z",
       "number": 40,
       "series": "XY",
-      "title": "Serena VS Shauna! Pokévision Showdown!!"
+      "title": "Serena VS Sana! Pokévision Showdown!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14536,7 +14545,7 @@
       "airdate": "2014-09-25T00:00:00.000Z",
       "number": 44,
       "series": "XY",
-      "title": "Shara Gym Battle! Pikachu VS Mega Lucario!"
+      "title": "Shara Gym Match! Pikachu VS Mega Lucario!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14552,7 +14561,7 @@
       "airdate": "2014-10-02T00:00:00.000Z",
       "number": 45,
       "series": "XY",
-      "title": "Citron VS Eureka!? A Sibling Battle With Nyaonix!!"
+      "title": "Citron VS Eureka!? A Sibling Battle for Nyaonix!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14568,7 +14577,7 @@
       "airdate": "2014-10-09T00:00:00.000Z",
       "number": 46,
       "series": "XY",
-      "title": "The Clumsy Pukurin VS the Rampaging Bohmander!"
+      "title": "The Clumsy Pukurin VS the Rampaging Bohmander!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14600,7 +14609,7 @@
       "airdate": "2014-10-23T00:00:00.000Z",
       "number": 48,
       "series": "XY",
-      "title": "Citron's Campus of Memories! An Electrifying Reunion!"
+      "title": "Citron's Campus of Memories! An Electrifying Reunion!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14644,7 +14653,7 @@
       "airdate": "2014-11-13T00:00:00.000Z",
       "number": 50,
       "series": "XY",
-      "title": "Dance, Yancham — Captivate, Fokko! / The Dance for Tomorrow!!"
+      "title": "Dance, Yancham — Captivate, Fokko! The Dance for Tomorrow!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14804,7 +14813,7 @@
       "airdate": "2015-02-12T00:00:00.000Z",
       "number": 60,
       "series": "XY",
-      "title": "Aim to be the Kalos Queen! Serena Makes her Debut!!"
+      "title": "Aim to be the Kalos Queen! Serena Makes Her Debut!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14820,7 +14829,7 @@
       "airdate": "2015-02-19T00:00:00.000Z",
       "number": 61,
       "series": "XY",
-      "title": "Decisive Battle in the Wilderness! Fight, Numera!!"
+      "title": "Decisive Battle in the Badlands! Fight, Numera!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -14868,7 +14877,7 @@
       "airdate": "2015-03-12T00:00:00.000Z",
       "number": 64,
       "series": "XY",
-      "title": "Fokko VS Mafoxy! A Splendid Performance Battle!!"
+      "title": "Fokko VS Mahoxy! A Splendid Performance Battle!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15268,7 +15277,7 @@
       "airdate": "2015-08-27T00:00:00.000Z",
       "number": 86,
       "series": "XY",
-      "title": "Fire in Focus! Snap the Legend!!"
+      "title": "Photo Op on Fire! Snap the Legend!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15284,7 +15293,7 @@
       "airdate": "2015-09-10T00:00:00.000Z",
       "number": 87,
       "series": "XY",
-      "title": "Eureka Will Take Care of You! The Pampered Chigoras!!"
+      "title": "Eureka the Caretaker! The Spoiled Chigoras!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15300,7 +15309,7 @@
       "airdate": "2015-09-17T00:00:00.000Z",
       "number": 88,
       "series": "XY",
-      "title": "A Train Revisited! Citron and Horubee!!"
+      "title": "Memories of the Train! Citron and Horubee!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15316,7 +15325,7 @@
       "airdate": "2015-09-24T00:00:00.000Z",
       "number": 89,
       "series": "XY",
-      "title": "Eievui is Shy with Strangers!? The Catcher in the Flowers!!"
+      "title": "The Eievui Who is Shy of Strangers!? Capture at the Flower Garden!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15760,7 +15769,7 @@
       "airdate": "2016-04-21T00:00:00.000Z",
       "number": 116,
       "series": "XY",
-      "title": "Satoshi and Alain! Gekkouga VS Mega Lizardon Once Again!!"
+      "title": "Satoshi and Alan! Gekkouga VS Mega Lizardon Once Again!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -15876,6 +15885,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-09-10T00:00:00.000Z",
+      "number": 918,
       "season": 1,
       "title": "A Diamond in the Rough!"
     }
@@ -15890,7 +15901,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-09-17T00:00:00.000Z",
+      "number": 919,
+      "season": 1,
+      "title": "A Gaggle of Gadget Greatness!"
     }
   },
   {
@@ -15903,7 +15917,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-09-24T00:00:00.000Z",
+      "number": 920,
+      "season": 1,
+      "title": "A League of His Own!"
     }
   },
   {
@@ -15912,11 +15929,14 @@
       "airdate": "2016-07-07T00:00:00.000Z",
       "number": 126,
       "series": "XY",
-      "title": "Mega Jukain VS Raichu! I Received Some Experience Points!"
+      "title": "Mega Jukain VS Raichu! I Received Some Experience Points!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-10-01T00:00:00.000Z",
+      "number": 921,
+      "season": 1,
+      "title": "Valuable Experience for All!"
     }
   },
   {
@@ -15940,7 +15960,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "Analysis Versus Passion!"
     }
   },
   {
@@ -15953,7 +15974,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Riveting Rivalry!"
     }
   },
   {
@@ -15966,7 +15988,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "Kalos League Passion with a Certain Flare!"
     }
   },
   {
@@ -15975,7 +15998,7 @@
       "airdate": "2016-08-11T00:00:00.000Z",
       "number": 130,
       "series": "XY",
-      "title": "The Finals! Satoshi VS Alain!!"
+      "title": "The Finals! Satoshi VS Alan!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -16001,7 +16024,7 @@
       "airdate": "2016-08-25T00:00:00.000Z",
       "number": 132,
       "series": "XY",
-      "title": "Flare Gang Attack! The Zygarde at the Prism Tower!!"
+      "title": "Flare Gang Attacks! The Zygarde at the Prism Tower!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -16027,7 +16050,72 @@
       "airdate": "2016-09-08T00:00:00.000Z",
       "number": 134,
       "series": "XY",
-      "title": "Attack on Miare Gym! Citroid Forever!!"
+      "title": "Siege of Miare Gym! Citroid Forever!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY135",
+    "jpn": {
+      "airdate": "2016-09-15T00:00:00.000Z",
+      "number": 135,
+      "series": "XY",
+      "title": "The Megalith Moves Forward! The Kalos Line of Defense!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY136",
+    "jpn": {
+      "airdate": "2016-09-15T00:00:00.000Z",
+      "number": 136,
+      "series": "XY",
+      "title": "The Zygarde Counterattack! The Final Decisive Battle of Kalos!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY137",
+    "jpn": {
+      "airdate": "2016-10-06T00:00:00.000Z",
+      "number": 137,
+      "series": "XY",
+      "title": "Starting from Zero! Citron's Decision!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY138",
+    "jpn": {
+      "airdate": "2016-10-13T00:00:00.000Z",
+      "number": 138,
+      "series": "XY",
+      "title": "The Last Battle with Satoshi! Serena's Choice!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "XY139",
+    "jpn": {
+      "airdate": "2016-10-20T00:00:00.000Z",
+      "number": 139,
+      "series": "XY",
+      "title": "Farewell, Satoshi Gekkouga! Xerosicy's Counterattack!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
