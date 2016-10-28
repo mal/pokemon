@@ -2158,8 +2158,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_short",
     "usa": {
-      "title": "Winter Games",
-      "airdate": "2004-11-23T00:00:00.000Z"
+      "airdate": "2004-11-23T00:00:00.000Z",
+      "title": "Winter Games"
     }
   },
   {
@@ -2170,8 +2170,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pikachu_short",
     "usa": {
-      "title": "Stantler's Little Helpers",
-      "airdate": "2004-11-23T00:00:00.000Z"
+      "airdate": "2004-11-23T00:00:00.000Z",
+      "title": "Stantler's Little Helpers"
     }
   },
   {
@@ -5456,7 +5456,7 @@
     "code": "SS011",
     "jpn": {
       "airdate": "2003-09-02T00:00:00.000Z",
-      "title": "Kasumi's Earnest Struggle! She's Risking Her Life!?"
+      "title": "Kasumi's Earnest Struggle! Life or Death!?"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
     "usa": {
@@ -15947,6 +15947,7 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {
+      "airdate": "2016-11-04T00:00:00.000Z",
       "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
     }
   },
@@ -15960,6 +15961,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-10-08T00:00:00.000Z",
+      "number": 922,
       "season": 1,
       "title": "Analysis Versus Passion!"
     }
@@ -15974,6 +15977,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-10-15T00:00:00.000Z",
+      "number": 923,
       "season": 1,
       "title": "A Riveting Rivalry!"
     }
@@ -15988,6 +15993,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-10-22T00:00:00.000Z",
+      "number": 924,
       "season": 1,
       "title": "Kalos League Passion with a Certain Flare!"
     }
@@ -16002,7 +16009,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-10-29T00:00:00.000Z",
+      "number": 925,
+      "season": 1,
+      "title": "Finals Not for the Faint-Hearted!"
     }
   },
   {
@@ -16015,7 +16025,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-11-05T00:00:00.000Z",
+      "number": 926,
+      "season": 1,
+      "title": "Down to the Fiery Finish!"
     }
   },
   {
@@ -16028,7 +16041,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "A Towering Takeover!"
     }
   },
   {
@@ -16041,7 +16055,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "season": 1,
+      "title": "Coming Apart at the Dreams!"
     }
   },
   {
@@ -16121,5 +16136,27 @@
     "usa": {
       "season": 1
     }
+  },
+  {
+    "code": "XY140",
+    "jpn": {
+      "airdate": "2016-10-27T00:00:00.000Z",
+      "number": 140,
+      "series": "XY",
+      "title": "The Endless Zero! Until the Day We Meet Again!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SS036",
+    "jpn": {
+      "airdate": "2016-11-03T00:00:00.000Z",
+      "title": "The Legend of XYZ!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {}
   }
 ]
