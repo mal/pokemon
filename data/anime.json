@@ -229,7 +229,7 @@
       "airdate": "1997-07-08T00:00:00.000Z",
       "number": 15,
       "series": "EP",
-      "title": "Battle on the St. Annu!!"
+      "title": "Battle on the St. Annu!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -1684,7 +1684,7 @@
       "airdate": "1999-06-03T00:00:00.000Z",
       "number": 99,
       "series": "EP",
-      "title": "Four Heavenly Kings Canna! Ice Battle!!"
+      "title": "Four Heavenly Kings Kanna! Ice Battle!!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
@@ -16041,6 +16041,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-11-12T00:00:00.000Z",
+      "number": 927,
       "season": 1,
       "title": "A Towering Takeover!"
     }
@@ -16055,6 +16057,8 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
+      "airdate": "2016-11-19T00:00:00.000Z",
+      "number": 928,
       "season": 1,
       "title": "Coming Apart at the Dreams!"
     }
@@ -16069,7 +16073,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-12-03T00:00:00.000Z",
+      "number": 929,
+      "season": 1,
+      "title": "The Right Hero for the Right Job!"
     }
   },
   {
@@ -16082,7 +16089,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-12-10T00:00:00.000Z",
+      "number": 930,
+      "season": 1,
+      "title": "Rocking Kalos Defenses!"
     }
   },
   {
@@ -16095,7 +16105,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-12-17T00:00:00.000Z",
+      "number": 931,
+      "season": 1,
+      "title": "Forming a More Perfect Union!"
     }
   },
   {
@@ -16108,7 +16121,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2016-12-24T00:00:00.000Z",
+      "number": 932,
+      "season": 1,
+      "title": "Battling With a Clean Slate!"
     }
   },
   {
@@ -16121,7 +16137,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2017-01-07T00:00:00.000Z",
+      "number": 933,
+      "season": 1,
+      "title": "The First Day of the Rest of Your Life!"
     }
   },
   {
@@ -16134,7 +16153,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2017-01-14T00:00:00.000Z",
+      "number": 934,
+      "season": 1,
+      "title": "Facing the Needs of the Many!"
     }
   },
   {
@@ -16147,7 +16169,10 @@
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
     "usa": {
-      "season": 1
+      "airdate": "2017-01-21T00:00:00.000Z",
+      "number": 935,
+      "season": 1,
+      "title": "Till We Compete Again!"
     }
   },
   {
@@ -16157,6 +16182,228 @@
       "title": "The Legend of XYZ!"
     },
     "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {
+      "airdate": "2017-01-28T00:00:00.000Z",
+      "title": "The Legend of X, Y, and Z!"
+    }
+  },
+  {
+    "code": "SS037",
+    "jpn": {
+      "airdate": "2016-11-10T00:00:00.000Z",
+      "title": "The Strongest Duo! Citron and Dent!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_side_story_episodes",
+    "usa": {}
+  },
+  {
+    "code": "SM001",
+    "jpn": {
+      "airdate": "2016-11-17T00:00:00.000Z",
+      "number": 1,
+      "series": "SM",
+      "title": "Alola! The Starting Island, the Starter Pokémon!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "2016-12-05T00:00:00.000Z",
+      "number": 936,
+      "season": 1,
+      "title": "Alola to New Adventure!"
+    }
+  },
+  {
+    "code": "SM002",
+    "jpn": {
+      "airdate": "2016-11-17T00:00:00.000Z",
+      "number": 2,
+      "series": "SM",
+      "title": "The Guardian Deity Kapu-Kokeko Appears! Challenge, Our Z-Move!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "2016-12-05T00:00:00.000Z",
+      "number": 937,
+      "season": 1,
+      "title": "The Guardian's Challenge!"
+    }
+  },
+  {
+    "code": "SM003",
+    "jpn": {
+      "airdate": "2016-11-24T00:00:00.000Z",
+      "number": 3,
+      "series": "SM",
+      "title": "Hello, Roto, I'm the Rotom Pokédex, Roto!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM004",
+    "jpn": {
+      "airdate": "2016-11-24T00:00:00.000Z",
+      "number": 4,
+      "series": "SM",
+      "title": "It's Mokuroh! Catching Pokémon in Alola!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM005",
+    "jpn": {
+      "airdate": "2016-12-01T00:00:00.000Z",
+      "number": 5,
+      "series": "SM",
+      "title": "Ashimari, Give it Your bALLoon!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM006",
+    "jpn": {
+      "airdate": "2016-12-08T00:00:00.000Z",
+      "number": 6,
+      "series": "SM",
+      "title": "The Shocking and Prickly Togedemaru!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM007",
+    "jpn": {
+      "airdate": "2016-12-15T00:00:00.000Z",
+      "number": 7,
+      "series": "SM",
+      "title": "The Vagabond in the Market, Nyabby!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM008",
+    "jpn": {
+      "airdate": "2016-12-22T00:00:00.000Z",
+      "number": 8,
+      "series": "SM",
+      "title": "Who'll Be in Charge of the Egg?"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM009",
+    "jpn": {
+      "airdate": "2017-01-05T00:00:00.000Z",
+      "number": 9,
+      "series": "SM",
+      "title": "The Leader Pokémon is Dekagūsu!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM010",
+    "jpn": {
+      "airdate": "2017-01-12T00:00:00.000Z",
+      "number": 10,
+      "series": "SM",
+      "title": "Will the Z-Move Work! Face the Grand Trial!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM011",
+    "jpn": {
+      "airdate": "2017-01-19T00:00:00.000Z",
+      "number": 11,
+      "series": "SM",
+      "title": "Satoshi Visits Kaki!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM012",
+    "jpn": {
+      "airdate": "2017-01-26T00:00:00.000Z",
+      "number": 12,
+      "series": "SM",
+      "title": "The Extracurricular Lesson is Hidoide!?"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM013",
+    "jpn": {
+      "airdate": "2017-02-02T00:00:00.000Z",
+      "number": 13,
+      "series": "SM",
+      "title": "The Big Alola Pancake Race!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM014",
+    "jpn": {
+      "airdate": "2017-02-09T00:00:00.000Z",
+      "number": 14,
+      "series": "SM",
+      "title": "The Crystal of Courage, Lilie and Rokon!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "SM015",
+    "jpn": {
+      "airdate": "2017-02-23T00:00:00.000Z",
+      "number": 15,
+      "series": "SM",
+      "title": "The Clawed Hill, Iwanko and Lugalgan!!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "season": 1
+    }
+  },
+  {
+    "code": "M20",
+    "jpn": {
+      "airdate": "2017-07-15T00:00:00.000Z",
+      "title": "I Choose You!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie",
     "usa": {}
   }
 ]
