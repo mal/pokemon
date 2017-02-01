@@ -3,9 +3,11 @@
 PATH := $(shell npm bin):$(PATH)
 FORMAT := $(basename $(notdir $(wildcard src/node/format/*.js)))
 
+MESSAGE = 'Update from source material' -e
+
 # args
 ifdef msg
-  message = -m '$(subst $(shell echo \'),'\'',$(msg))'
+  MESSAGE = '$(subst $(shell echo \'),'\'',$(msg))'
 endif
 
 # default
@@ -30,7 +32,7 @@ serve:
 
 update: all
 	cd pages && \
-	  git commit $(message) data && \
+	  git commit -m $(MESSAGE) data && \
 	  git push
 
 # targets
