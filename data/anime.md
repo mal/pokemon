@@ -1038,6 +1038,7 @@
 | XY134 | The Right Hero for the Right Job!                                                                                                                                                  | 2016-09-08 | 2016-12-03 |
 | XY135 | Rocking Kalos Defenses!                                                                                                                                                            | 2016-09-15 | 2016-12-10 |
 | XY136 | Forming a More Perfect Union!                                                                                                                                                      | 2016-09-15 | 2016-12-17 |
+| TV05 | Pokémon Generations                                                                                                                                                                | 2016-12-09 | 2016-09-16 |
 | XY137 | Battling With a Clean Slate!                                                                                                                                                       | 2016-10-06 | 2016-12-24 |
 | XY138 | The First Day of the Rest of Your Life!                                                                                                                                            | 2016-10-13 | 2017-01-07 |
 | XY139 | Facing the Needs of the Many!                                                                                                                                                      | 2016-10-20 | 2017-01-14 |
@@ -1046,8 +1047,8 @@
 | SS037 | [JPN] The Strongest Duo! Citron and Dent!!                                                                                                                                         | 2016-11-10 |  _Unaired_ |
 | SM001 | Alola to New Adventure!                                                                                                                                                            | 2016-11-17 | 2016-12-05 |
 | SM002 | The Guardian's Challenge!                                                                                                                                                          | 2016-11-17 | 2016-12-05 |
-| SM003 | [JPN] Hello, Roto, I'm the Rotom Pokédex, Roto!                                                                                                                                    | 2016-11-24 |  _Unaired_ |
-| SM004 | [JPN] It's Mokuroh! Catching Pokémon in Alola!!                                                                                                                                    | 2016-11-24 |  _Unaired_ |
+| SM003 | Loading the Dex!                                                                                                                                                                  | 2016-11-24 |  2017-05-13 |
+| SM004 | First Catch in Alola, Ketchum-Style!                                                                                                                                              | 2016-11-24 |  2017-05-14 |
 | SM005 | [JPN] Ashimari, Give it Your bALLoon!                                                                                                                                              | 2016-12-01 |  _Unaired_ |
 | SM006 | [JPN] The Shocking and Prickly Togedemaru!                                                                                                                                         | 2016-12-08 |  _Unaired_ |
 | SM007 | [JPN] The Vagabond in the Market, Nyabby!                                                                                                                                          | 2016-12-15 |  _Unaired_ |
