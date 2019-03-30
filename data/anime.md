@@ -1047,7 +1047,7 @@
 | SS037 | [JPN] The Strongest Duo! Citron and Dent!!                                                                                                                                         | 2016-11-10 |  _Unaired_ |
 | SM001 | Alola to New Adventure!                                                                                                                                                            | 2016-11-17 | 2016-12-05 |
 | SM002 | The Guardian's Challenge!                                                                                                                                                          | 2016-11-17 | 2016-12-05 |
-| SM003 | [JPN] Hello, Roto, I'm the Rotom Pokédex, Roto!                                                                                                                                    | 2016-11-24 |  _Unaired_ |
+| SM003 | Loading the Dex!                                                                                                                                                                  | 2016-11-24 |  2017-13-05 |
 | SM004 | [JPN] It's Mokuroh! Catching Pokémon in Alola!!                                                                                                                                    | 2016-11-24 |  _Unaired_ |
 | SM005 | [JPN] Ashimari, Give it Your bALLoon!                                                                                                                                              | 2016-12-01 |  _Unaired_ |
 | SM006 | [JPN] The Shocking and Prickly Togedemaru!                                                                                                                                         | 2016-12-08 |  _Unaired_ |
